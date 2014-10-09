@@ -1,0 +1,167 @@
+subject: New issues on archive
+From: zhuww@peggy
+To: zhuww@physics.mcgill.ca
+
+
+astro-ph/0609127 [abs, ps, pdf, other] :
+          Title: On the lambda Bootis spectroscopic binary hypothesis
+          Authors: Christian Stuetz, Ernst Paunzen
+          Comments: 5 pages, 1 figure, accepted as an A&A Letter
+          It is still a matter of debate if the group of lambda Bootis
+          stars is homogeneously defined. A widely discussed working
+          hypothesis formulates that two apparent solar abundant stars of
+          an undetected spectroscopic binary system mimic a single
+          metal-weak spectrum preventing any reliable analysis of the
+          group characteristics. Is the proposed spectroscopic binary
+          model able to explain the observed abundance pattern and
+          photometric metallicity indices for the group members? What is
+          the percentage of undetected spectroscopic binary systems? We
+          have used the newest available stellar atmospheres to
+          synthesize 105 hypothetical binary systems in the relevant
+          astrophysical parameter range. These models were used to derive
+          photometric indices. As a test, values for single stellar
+          atmospheres, Vega and two typical lambda Bootis stars, HD
+          107233 and HD 204041, were generated. The synthesized indices
+          fit the standard lines and the observations of the three stars
+          excellently. For about 90% of the group members, the
+          spectroscopic inary hypothesis can not explain the
+          observations. A carefully preselection of lambda Bootis stars
+          results in a homogeneous group of objects which can be used to
+          investigate the group characteristics.
+
+
+   
+astro-ph/0609136 [abs, ps, pdf, other] :
+          Title: Constraints on the Geometry of the VHE Emission in LS
+          5039 from Photon-Photon Deabsorption
+          Authors: Markus Boettcher
+          Comments: Submitted to Astroparticle Physics. 16 pages,
+          including 7 color eps figures and 2 tables
+          A detailed parameter study of the gamma-gamma absorption
+          effects in LS 5039 is presented. For a range of plausible
+          locations of the VHE gamma-ray emission region and the
+          allowable range of viewing angles, the de-absorbed, intrinsic
+          VHE gamma-ray spectra and total VHE photon fluxes and
+          luminosities are calculated and compared to luminosity
+          constraints based on wind accretion onto the compact object in
+          LS 5039. It is found that (1) it is impossible to choose the
+          viewing angle and location of the VHE emission region in a way
+          that the intrinsic (deabsorbed) fluxes and spectra in superior
+          and inferior conjunction are identical; consequently, the
+          intrinsic VHE luminosities and spectral shapes must be
+          fundamentally different in different orbital phases, (2) if the
+          VHE luminosity is limited by wind accretion from the companion
+          star and the system is viewed at an inclination angle of i > 40
+          deg., the emission is most likely beamed by a larger Doppler
+          factor than inferred from the dynamics of the large-scale radio
+          outflows, (3) the still poorly constrained viewing angle
+          between the line of sight and the jet axis is most likely
+          substantially smaller than the maximum of ~ 64 deg. inferred
+          from the lack of eclipses.(4) Consequently, the compact object
+          is more likely to be a black hole rather than a neutron star.
+          (5) There is a limited range of allowed configurations for
+          which the expected > 1 TeV neutrino flux would actually
+          anti-correlate with the observed VHE gamma-ray emission.
+
+
+   
+astro-ph/0609144 [abs, ps, pdf, other] :
+          Title: Binary Black Hole Accretion Flows in Merged Galactic
+          Nuclei
+          Authors: Kimitake Hayasaki (Yukawa Institute for Theoreitical
+          Physics), Shin Mineshige (Yukawa Institute for Theoretical
+          Physics), Hiroshi Sudou (Faculty of Engineering, Gifu
+          University)
+          Comments: 16 pages, 27 figures, 2 tables, submitted to PASJ.
+          "High Resolution Version is Available at "this http URL"
+          We study the accretion flows from the circumbinary disks onto
+          the supermassive binary black holes in a subparsec scale of the
+          galactic center, using a smoothed particles hydrodynamics (SPH)
+          code. Simulation models are presented in four cases of a
+          circular binary with equal masses and unequal masses, and of an
+          eccentric binary with equal masses and unequal masses. We find
+          that the circumblack-hole disks are formed around each black
+          holes regardless of simulation parameters. There are two-stage
+          mechanisms to cause an accretion flow from the circumbinary
+          disk onto supermassive binary black holes: First, the tidally
+          induced elongation of the circumbinary disk triggers mass
+          inflow towards two points on the semi-minor axis of
+          circumbinary disk. Then, the gas is increasingly accumulated on
+          these two points owing to the gravitational attraction of black
+          holes. Second, when the gas can pass across the maximum loci of
+          the binary potential, it starts to overflow via their two
+          points and freely infalls to each black hole. In circular
+          binaries, the gas continues to be supplied from the
+          circumbinary disk (i.e. the gap between the circumbinary disk
+          and the binary black hole is always closed.) In eccentric
+          binaries, there is the mass supply with the periodic on/off
+          transitions during one orbital period because of the
+          time-dependent, periodic potential. The gap starts to close
+          after the apastron and to open again after the next periastron
+          passage. Due to this gap closing/opening cycles, the
+          mass-capture rates are eventually strongly phase dependent.
+          This could provide observable diagnosis for the presence of
+          supermassive binary black holes in merged galactic nuclei.
+
+
+   
+astro-ph/0609154 [abs, ps, pdf, other] :
+          Title: Timing of millisecond pulsars in NGC 6752 - II. Proper
+          motions of the pulsars in the cluster outskirts
+          Authors: A. Corongiu, A. Possenti, A.G. Lyne, R.N. Manchester,
+          F. Camilo, N. D'Amico, J.M. Sarkissian
+          Comments: 8 pages, 3 figures, accepted for publication in ApJ
+          Exploiting a five-year span of data, we present improved timing
+          solutions for the five millisecond pulsars known in the
+          globular cluster NGC 6752. They include proper motion
+          determinations for the two outermost pulsars in the cluster,
+          PSR J1910-5959A and PSR J1910-5959C. The values of the proper
+          motions are in agreement with each other within current
+          uncertainties, but do not match (at 4 sigma and 2 sigma level
+          respectively) with the value of the proper motion of the entire
+          globular cluster derived in the optical band. Implications of
+          these results for the cluster membership of the two pulsars are
+          investigated. Prospects for the detection of the Shapiro delay
+          in the binary system J1910-5959A are also discussed.
+
+
+   
+Cross-listings
+
+   
+gr-qc/0609010 [abs, ps, pdf, other] :
+          Title: Automatic Bayesian inference for LISA data analysis
+          strategies
+          Authors: Alexander Stroeer, Jonathan Gair, Alberto Vecchio
+          Comments: 8 pages, 2 sets of figures, submitted to the
+          proceedings of the 6th LISA symposium
+          We demonstrate the use of automatic Bayesian inference for the
+          analysis of LISA data sets. In particular we describe a new
+          automatic Reversible Jump Markov Chain Monte Carlo method to
+          evaluate the posterior probability density functions of the a
+          priori unknown number of parameters that describe the
+          gravitational wave signals present in the data. We apply the
+          algorithm to a simulated LISA data set containing overlapping
+          signals from white dwarf binary systems (DWD) and to a separate
+          data set containing a signal from an extreme mass ratio
+          inspiral (EMRI). We demonstrate that the approach works well in
+          both cases and can be regarded as a viable approach to tackle
+          LISA data analysis challenges.
+
+
+   
+Replacements
+
+   
+astro-ph/0608317 [abs, ps, pdf, other] :
+          Title: Strange Exotic States and Compact Stars
+          Authors: Irina Sagert, Mirjam Wietoska, Jurgen
+          Schaffner-Bielich
+          Comments: 10 pages, invited talk given at the International
+          Conference on Strangeness in Quark Matter 2006 (SQM2006), UCLA,
+          USA, March 26-31, 2006, Journal of Physics G in press, refs.
+          added
+          Note: replaced with revised version Wed, 6 Sep 2006 16:08:13
+          GMT (13kb)
+
+   

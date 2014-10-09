@@ -1,0 +1,1 @@
+lynx -cmd_script=cmdlog http://arxiv.org/list/astro-ph/new

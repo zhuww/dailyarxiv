@@ -1,0 +1,2 @@
+BEGIN {RS="@"}
+/pulsar/||/Pulsar/||/Magnetar/||/magnetar/||/AXP/||/magnetosphere/||/blackbody model/||/quark/||/Quark/||/neutron star/||/Neutron star/||/binary/||/Binary/||/Replacements/||/Cross\-listings/ {print $0}

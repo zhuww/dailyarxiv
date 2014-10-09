@@ -1,0 +1,2 @@
+BEGIN {RS="@"}
+/polarized radio/||/interstellar median/||/dispersion measure/||/PICS/||/PPTA/||/LEAP/||/EPTA/||/IPTA/||/NANOGrav/||/Gravitational wave/||/gravitational wave/||/radio transient/||/General Relativity/||/general relativity/||/gravitational theory/||/timing/||/Fast Radio Burst/||/FRB/||/pulsar/||/Pulsar/||/Magnetar/||/magnetar/||/AXP/||/SGR/||/magnetosphere/||/blackbody model/||/quark/||/Quark/||/neutron star/||/Neutron star/||/binary/||/Binary/||/Replacements for/||/Cross\-listings/||/New submissions for/ {print $0}

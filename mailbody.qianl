@@ -1,0 +1,451 @@
+astro-ph/0609045 [abs, ps, pdf, other] :
+          Title:  Carbon  Deficiency in Externally-Polluted White Dwarfs:
+          Evidence for Accretion of Asteroids
+          Authors: M. Jura (UCLA)
+          Comments: 23 pages, 6 figures, accepted for ApJ
+          Existing  determinations  show  that  n(C)/n(Fe) is more than a
+          factor  of  10  below  solar  in the atmospheres of three white
+          dwarfs that appear to be externally-polluted. These results are
+          not  easily  explained  if the stars have accreted interstellar
+          matter, and we re-interpret these measurements as evidence that
+          these   stars   have   accreted   asteroids  of  a  chrondritic
+          composition.
+
+
+   
+astro-ph/0609046 [abs, ps, pdf, other] :
+          Title:  Production  of  Hypervelocity  Stars through Encounters
+          with Stellar-Mass Black Holes in the Galactic Centre
+          Authors: Ryan M. O'Leary, Abraham Loeb (Harvard University)
+          Comments: 7 pages, 3 figures. Submitted to MNRAS
+          Stars  within  0.1  pc of the supermassive black hole Sgr A* at
+          the  Galactic  centre  are  expected  to encounter a cluster of
+          stellar-mass  black  holes  (BHs)  that have segregated to that
+          region. Some of these stars will scatter off an orbiting BH and
+          be  kicked  out  of  the  Galactic centre with velocities up to
+          \~2000  km/s.  We  calculate  the  resulting  ejection  rate of
+          hypervelocity  stars  (HVSs) by this process under a variety of
+          assumptions,  and  find  it  to  be  comparable  to  the  tidal
+          disruption  rate  of binary stars by Sgr A*, first discussed by
+          Hills  (1998).  Under  some  conditions,  this novel process is
+          sufficient  to  account for all the B-type HVSs observed in the
+          halo,  and  to  dominate  the  production rate of all HVSs with
+          lifetimes  much  less  than  the  relaxation  time-scale  at  a
+          distance  ~2  pc from Sgr A* (>~2 Gyr). Since HVSs are produced
+          by  at  least two unavoidable processes, the statistics of HVSs
+          could  reveal  bimodal velocity and mass distributions, and can
+          constrain  the  distribution  of BHs and stars in the innermost
+          0.1 pc around Sgr A*.
+
+
+   
+astro-ph/0609047 [abs, ps, pdf, other] :
+          Title:  Magnetar-Driven Magnetic Tower as a Model for Gamma-Ray
+          Bursts and Asymmetric Supernovae
+          Authors:  Dmitri  A.  Uzdensky (Princeton University and CMSO),
+          Andrew I. MacFadyen (IAS)
+          Comments: 13 pages, 6 figures; submitted to ApJ
+          We  consider a newly-born millisecond magnetar, focusing on its
+          interaction  with  the  dense  stellar  plasma  in  which it is
+          initially  embedded.  We  argue that the confining pressure and
+          inertia  of  the  surrounding  plasma  acts  to  collimate  the
+          magnetar's  Poynting-flux-dominated outflow into tightly beamed
+          jets  and  increases  its  magnetic luminosity. We propose this
+          process  as  an  essential ingredient in the magnetar model for
+          gamma-ray  burst  and  asymmetric supernova central engines. We
+          introduce  the  ``pulsar-in-a-cavity''  as  an  important model
+          problem  representing a magnetized rotating neutron star inside
+          a  collapsing  star.  We  describe its essential properties and
+          derive simple estimates for the evolution of the magnetic field
+          and  the  resulting spin-down power. We find that the infalling
+          stellar  mantle  confines the magnetosphere, enabling a gradual
+          build-up  of  the  toroidal  magnetic  field  due to continuous
+          twisting.  The  growing  magnetic  pressure  eventually becomes
+          dominant,  resulting  in  a  magnetically-driven explosion. The
+          initial  phase of the explosion is quasi-isotropic, potentially
+          exposing a sufficient amount of material to $^{56}$Ni-producing
+          temperatures  to  result  in  a  bright  supernova. However, if
+          significant   expansion   of  the  star  occurs  prior  to  the
+          explosion,  then  very  little  $^{56}$Ni  is  produced  and no
+          supernova is expected. In either case, hoop stress subsequently
+          collimates  the  magnetically-dominated outflow, leading to the
+          formation  of  a  magnetic  tower. After the star explodes, the
+          decrease  in  bounding  pressure causes the magnetic outflow to
+          become  less  beamed.  However,  episodes  of late fallback can
+          reform  the  beamed  outflow, which may be responsible for late
+          X-ray flares.
+
+
+   
+astro-ph/0609050 [abs, ps, pdf, other] :
+          Title:  Investigating  the Andromeda Stream: III. A Young Shell
+          System in M31
+          Authors:  M.  A. Fardal (UMass), P. Guhathakurta (UCO/Lick Obs,
+          UCSC), A. Babul (UVic), A. W. McConnachie (UVic)
+          Comments:  19 pages, 12 figures, 2 tables; submitted to Monthly
+          Notices
+          Published  maps  of  red  giant stars in the halo region of M31
+          exhibit  a giant stellar stream to the south of this galaxy, as
+          well as a giant "shelf" to the northeast of M31's center. Using
+          these maps, we find that there is a fainter shelf of comparable
+          size  on  the  western  side  as  well. By choosing appropriate
+          structural  and  orbital  parameters  for  an  accreting  dwarf
+          satellite  within the accurate M31 potential model of Geehan et
+          al.  (2006),  we  produce a very similar structure in an N-body
+          simulation.  In  this  scenario,  the  tidal stream produced at
+          pericenter  of  the  satellite's  orbit  matches  the  observed
+          southern  stream,  while the forward continuation of this tidal
+          stream  makes  up  two  orbital  loops, broadened into fan-like
+          structures  by  successive  pericentric  passages;  these loops
+          correspond  to  the NE and W shelves. The tidal debris from the
+          satellite  also  reproduces  a  previously-observed "stream" of
+          counterrotating  PNe  and  a  related  stream seen in red giant
+          stars. The debris pattern in our simulation resembles the shell
+          systems  detected  around many elliptical galaxies, though this
+          is  the  first  identification  of  a  shell system in a spiral
+          galaxy  and  the  first  in  any  galaxy  close enough to allow
+          measurements  of  stellar velocities and relative distances. We
+          discuss  the  physics of these partial shells, highlighting the
+          role   played   by   spatial   and  velocity  caustics  in  the
+          observations.  We  show  that  kinematic  surveys  of the tidal
+          debris  will  provide  a  sensitive  measurement  of M31's halo
+          potential,  while  quantifying the surface density of debris in
+          the  shelves will let us reconstruct the original mass and time
+          of disruption of the progenitor satellite.
+
+
+   
+astro-ph/0609053 [abs, ps, pdf, other] :
+          Title:  Radial  and rotational velocities of young brown dwarfs
+          and  very  low-mass  stars in the Upper Scorpius OB association
+          and the rho Ophiuchi cloud core
+          Authors: Ryuichi Kurosawa, Tim J. Harries, S. P. Littlefair
+          Comments:  10  pages,  5  figures,  accepted for publication in
+          MNRAS
+          We  present  the results of a radial velocity (RV) survey of 14
+          brown  dwarfs  (BDs) and very low-mass (VLM) stars in the Upper
+          Scorpius OB association (UScoOB) and 3 BD candidates in the rho
+          Ophiuchi  dark  cloud core. We obtained high-resolution echelle
+          spectra  at  the  Very  Large  Telescope  using Ultraviolet and
+          Visual  Echelle Spectrograph (UVES) at two different epochs for
+          each  object,  and measured the shifts in their RVs to identify
+          candidates  for  binary/multiple  systems  in  the  sample. The
+          average  time  separation  of the RV measurements is 21.6d, and
+          our  survey  is sensitive to the binaries with separation < 0.1
+          au.  We  found  that 4 out of 17 objects (or 24^{+16}_{-13} per
+          cent  by  fraction)  show a significant RV change in 4-33d time
+          scale,  and  are considered as binary/multiple `candidates.' We
+          found  no  double-lined  spectroscopic  binaries in our sample,
+          based   on  the  shape  of  cross-correlation  curves.  The  RV
+          dispersion of the objects in UScoOB is found to be very similar
+          to  that  of  the  BD and VLM stars in Chamaeleon I (Cha I). We
+          also  found  the distribution of the mean rotational velocities
+          (v  sin  i) of the UScoOB objects is similar to that of the Cha
+          I,  but  the  dispersion of v sin i is much larger than that of
+          the Cha I objects.
+
+
+   
+astro-ph/0609054 [abs, ps, pdf, other] :
+          Title: H.E.S.S. Observations of LS 5039
+          Authors: Mathieu De Naurois (LPNHE), the H.E.S.S. Collaboration
+          Collaboration
+          Comments: 6 pages, 9 figures
+          Journal-ref:   THE   MULTI-MESSENGER  APPROACH  TO  HIGH-ENERGY
+          GAMMA-RAY SOURCES, Espagne (2006)
+          Recent  observations  of the binary system LS5039 with the High
+          Energy  Stereoscopic  System  (H.E.S.S.) revealed that its Very
+          High  Energy  (VHE)  gamma-ray emission is modulated at the 3.9
+          days  orbital period of the system. The bulk of the emission is
+          largely  confined  to  half  of  the  orbit, peaking around the
+          inferior  conjunction  epoch  of  the  compact object. The flux
+          modulation   provides   the   first   indication  of  gamma-ray
+          absorption  by  pair  production  on the intense stellar photon
+          field. This implies that the production region size must be not
+          significantly greater than the gamma-gamma photosphere size (~1
+          AU), thus excluding the large scale collimated outflows or jets
+          (extending  out  to  ~1000  AU). A hardening of the spectrum is
+          also observed at the same epoch between 0.2 and a few TeV which
+          is unexpected under a pure absorption scenario and could rather
+          arise  from variation with phase in the maximum electron energy
+          and/or  the  dominant  VHE gamma-ray production mechanism. This
+          first-time  observation  of modulated gamma-ray emission allows
+          precise tests of the acceleration and emission models in binary
+          systems.
+
+
+   
+astro-ph/0609055 [abs, ps, pdf, other] :
+          Title: Unstable modes of non-axisymmetric gaseous discs
+          Authors: Naser M. Asghari, Mir Abbas Jalali
+          Comments:  12  pages,  6  figures,  Accepted for publication in
+          Monthly Notices of the Royal Astronomical Society
+          We present a perturbation theory for studying the instabilities
+          of  non-axisymmetric  gaseous  discs.  We perturb the dynamical
+          equations  of  self-gravitating  fluids  in  the  vicinity of a
+          non-axisymmetric equilibrium, and expand the perturbed physical
+          quantities  in  terms  of  a  complete  basis  set  and a small
+          non-axisymmetry  parameter  $\epsilon$. We then derive a linear
+          eigenvalue  problem  in  matrix form, and determine the pattern
+          speed,  growth rate and mode shapes of the first three unstable
+          modes.  In non-axisymmetric discs the amplitude and phase angle
+          of  travelling  waves  are functions of both the radius $R$ and
+          the  azimuthal  angle $\phi$. This is due to the interaction of
+          different   wave   components  in  the  response  spectrum.  We
+          demonstrate  that wave interaction in unstable discs with small
+          initial  asymmetries, can develop dense clumps during the phase
+          of  exponential  growth. Local clumps, which occur on the major
+          spiral  arms,  can  constitute  seeds  of  gas giant planets in
+          accretion discs.
+
+
+   
+astro-ph/0609059 [abs, ps, pdf, other] :
+          Title: Five new very low mass binaries
+          Authors:   G.   Montagnier,  D.  Segransan,  J.-L.  Beuzit,  T.
+          Forveille,  P.  Delorme,  X.  Delfosse, C. Perrier, S. Udry, M.
+          Mayor,  G.  Chauvin,  A.-M. Lagrange, D. Mouillet, T. Fusco, P.
+          Gigan, E. Stadler
+          Comments:   5  pages,  2  figures,  submitted  to  Astronomy  &
+          Astrophysics
+          We report the discovery of companions to 5 nearby late M dwarfs
+          (>M5),  LHS1901,  LHS4009,  LHS6167, LP869-26 and WT460, and we
+          confirm   that   the  recently  discovered  mid-T  brown  dwarf
+          companion  to  SCR1845-6357  is  physically bound to that star.
+          These discoveries result from our adaptive optics survey of all
+          M  dwarfs  within 12 pc. The new companions have spectral types
+          M5 to L1, and orbital separations between 1 and 10 AU. They add
+          significantly  to  the  number of late M dwarfs binaries in the
+          immediate   solar   neighbourhood,   and   will   improve   the
+          multiplicity  statistics of late M dwarfs. The expected periods
+          range  from  3  to  130  years.  Several  pairs  thus have good
+          potential  for  accurate  mass  determination  in  this  poorly
+          sampled mass range.
+
+
+   
+astro-ph/0609060 [abs, ps, pdf, other] :
+          Title: First results from the Pierre Auger Observatory
+          Authors: R. C. Shellard
+          Comments:  10  pages, 16 figures, Brazilian National Meeting on
+          Particle and Fields 2005
+          We  review in these notes the status of the construction of the
+          Pierre Auger Observatory and present the first Physics results,
+          based on the data collected during the first year and a half of
+          operation.  These  results  are  preliminary,  once the work to
+          understand the systematics of the detectors are still underway.
+          We  discuss  the  cosmic ray spectrum above 3 EeV, based on the
+          measurement   done   using   the   Surface   Detector  and  the
+          Fluorescence  Detector, both, components of the observatory. We
+          discuss,  as  well, the search for anisotropy near the Galactic
+          Center  and  the  limit  on  the photon fraction at the highest
+          energies.
+
+
+   
+astro-ph/0609061 [abs, ps, pdf, other] :
+          Title:  The evolution of binary star clusters and the nature of
+          NGC2136/NGC2137
+          Authors: Simon Portegies Zwart (UVA), Stephanie Rusli (Leiden)
+          Comments: submitted to MNRAS
+          We study the evolution of bound pairs of star clusters by means
+          of direct N-body simulations. Our simulations include mass loss
+          by  stellar  evolution.  The initial conditions are selected to
+          mimic the observed binary star cluster NGC 2136 and NGC 2137 in
+          the Large Magellanic Cloud. Based on the rather old ages ($\sim
+          100$  Myr),  masses,  sizes  of  the  two  clusters  and  their
+          projected  separation,  we  conclude that the cluster pair must
+          have  been  born  with  an  initial  separation  of  15--20 pc.
+          Clusters  with  a  smaller  initial separation tend to merge in
+          $\aplt  60$  Myr  due to loss of angular momentum from escaping
+          stars. Clusters with a larger initial separation tend to become
+          even  more  widely separated due to mass loss from the evolving
+          stellar  populations.  The  early orbital evolution of a binary
+          cluster  is  governed  by  mass  loss from the evolving stellar
+          population and by loss of angular momentum from escaping stars.
+          Mass  loss  by  stellar  winds and supernovae explosions in the
+          first  $\sim  30$ Myr causes the binary to expand and the orbit
+          to become eccentric. The initially less massive cluster expands
+          more  quickly  than  the  binary  separation  increases, and is
+          therefore  bound  to initiate mass transfer to the more massive
+          cluster.  This process is quite contrary to stellar binaries in
+          which  the  more  massive star tends to initiate mass transfer.
+          Since  mass  transfer  proceeds on a thermal timescale from the
+          less  massive  to  the more massive cluster, this semi-detached
+          phase  is  quite  stable,  even in an eccentric orbit until the
+          orbital  separation  reaches  the  gyration  radius  of the two
+          clusters, at which point both clusters merge to one.
+
+
+   
+astro-ph/0609079 [abs, ps, pdf, other] :
+          Title:   The   ACS  Virgo  Cluster  Survey.  XIV.  Analysis  of
+          Color-Magnitude Relations in Globular Cluster Systems
+          Authors:  Steffen  Mieske,  Andres Jordan, Patrick Cote, Markus
+          Kissler-Patig,   Eric   W.   Peng,  Laura  Ferrarese,  John  P.
+          Blakeslee, Simona Mei, David Merritt, John L. Tonry, Michael J.
+          West
+          Comments: 15 pages, 12 figures, accepted for publication in the
+          Astrophysical Journal. Uses emulateapj.cls
+          We  examine the correlation between globular cluster (GC) color
+          and  magnitude  using  HST/ACS  imaging  for  a  sample  of  79
+          early-type  galaxies  (-21.7<M_B<-15.2  mag)  with accurate SBF
+          distances  from  the  ACS  Virgo  Cluster Survey. Using the KMM
+          mixture  modeling  algorithm,  we  find  a  highly  significant
+          correlation,  d(g-z)/dz  =  -0.037  +- 0.004, between color and
+          magnitude  for the subpopulation of blue GCs in the co-added GC
+          color-magnitude  diagram  of the three brightest Virgo galaxies
+          (M49,  M87 and M60): brighter GCs are redder than their fainter
+          counterparts. For the single GC systems of M87 and M60, we find
+          similar correlations; M49 does not appear to show a significant
+          trend. There is no correlation between (g-z) and M_z for GCs of
+          the  red  subpopulation. The correlation d(g-z)/dg for the blue
+          subpopulation  is much weaker than d(g-z)/dz. Using Monte Carlo
+          simulations,  we  attribute  this  to  the  fact  that the blue
+          subpopulation  in  M_g  extends to higher luminosities than the
+          red  subpopulation,  which biases the KMM fits. The correlation
+          between color and M_z thus is a real effect. This conclusion is
+          supported  by biweight fits to the same color distributions. We
+          identify  two environmental dependencies of the color-magnitude
+          relation:   (1)   the  slope  decreases  in  significance  with
+          decreasing galaxy luminosity; and (2) the slope is stronger for
+          GCs  at  smaller  galactocentric  distances. We examine several
+          mechanisms that might give rise to the observed color-magnitude
+          relation:  (1)  presence of contaminators; (2) accretion of GCs
+          from  low-mass galaxies; (3) stochastic effects; (4) capture of
+          field  stars  by individual GCs; and (5) GC self-enrichment. We
+          conclude  that  self-enrichment  and  field-star  capture, or a
+          combination  of these processes, offer the most promising means
+          of explaining our observations.
+
+
+   
+astro-ph/0609080 [abs, ps, pdf, other] :
+          Title:  RASS-SDSS  Galaxy Cluster Survey. VI. The dependence of
+          the cluster SFR on the cluster global properties
+          Authors: P. Popesso, A. Biviano, M. Romaniello, H. Böhringer
+          Comments: 14 pages, 12 figures, accepted for publication on A&A
+          Using  a  subsample  of  79  nearby clusters from the RASS-SDSS
+          galaxy  cluster catalogue of Popesso et al. (2005a), we perform
+          a  regression  analysis  between  the  cluster  integrated star
+          formation  rate  (Sigma_SFR)  the  cluster  total  stellar mass
+          (M_star),  the  fractions of star forming (f_SF) and blue (f_b)
+          galaxies  and  other  cluster  global  properties,  namely  its
+          richness  (N_gal,  i.e.  the  total  number  of cluster members
+          within   the   cluster   virial  radius),  velocity  dispersion
+          (sigma_v), virial mass (M_200), and X-ray luminosity (L_X). All
+          cluster  global quantities are corrected for projection effects
+          before  the  analysis. Galaxy SFRs and stellar masses are taken
+          from the catalog of Brinchmann et al. (2004), which is based on
+          SDSS  spectra.  We only consider galaxies with M_r <= -20.25 in
+          our analysis, and exclude AGNs. We find that both Sigma_SFR and
+          M_star are correlated with all the cluster global quantities. A
+          partial correlation analysis show that all the correlations are
+          induced  by  the  fundamental  one between Sigma_SFR and N_gal,
+          hence  there  is no evidence that the cluster properties affect
+          the  mean  SFR  or  M_star  per  galaxy.  The relations between
+          Sigma_SFR and M_star, on one side, and both N_gal and M_200, on
+          the  other  side,  are  linear,  i.e.  we  see no evidence that
+          different  clusters  have different SFR or different M_star per
+          galaxy  and per unit mass. The fraction f_SF does not depend on
+          any  cluster property considered, while f_b does depend on L_X.
+          We  note  that  a  significant fraction of star-forming cluster
+          galaxies are red (~25% of the whole cluster galaxy population).
+          We  conclude  that  the global cluster properties are unable to
+          affect  the SF properties of cluster galaxies, but the presence
+          of  the  X-ray  luminous  intra-cluster medium can affect their
+          colors, perhaps through the ram-pressure stripping mechanism.
+
+
+   
+astro-ph/0609081 [abs, ps, pdf, other] :
+          Title:  Probing  the  growth of supermassive black holes at z>6
+          with LOFAR
+          Authors: Kirsty J. Rhook (1), Martin G. Haehnelt (1 and 2) ((1)
+          Institute  of  Astronomy,  Cambridge,  (2)  Kavli Institute for
+          Theoretical Physics, UCSB)
+          Comments:  11  pages,  6  figures,  accepted for publication in
+          MNRAS
+          HII  regions  surrounding  supermassive black holes (BHs) in an
+          otherwise  still  neutral intergalactic medium (IGM) are likely
+          to  be  the  most  easily  detectable  sources  by  future 21cm
+          experiments  like  LOFAR. We have made predictions for the size
+          distribution   of  such  HII  regions  for  several  physically
+          motivated  models  for  BH growth at high redshift and compared
+          this  to  the  expected LOFAR sensitivity to these sources. The
+          number  of  potentially  detectable  HII  regions does not only
+          depend  on the ionisation state of the intergalactic medium and
+          the  decoupling of the spin temperature of the neutral hydrogen
+          from  the cosmic microwave background (CMB) temperature, but is
+          also  strongly  sensitive  to the rate of growth of BHs at high
+          redshift.  If  the supermassive BHs at redshift 6 were built up
+          via  continuous  Eddington-limited accretion from low mass seed
+          BHs  at  high  redshift,  then  LOFAR is not expected to detect
+          isolated  QSO  HII regions at redshifts much larger than 6, and
+          only  if  the  IGM  is  still  significantly  neutral.  If  the
+          high-redshift growth of BHs starts with massive seed BHs and is
+          driven by short-lived accretion events following the merging of
+          BH   hosting   galaxies  then  the  detection  of  HII  regions
+          surrounding  supermassive  BHs may extend to redshifts as large
+          as 8-9 but is still very sensitive to the redshift to which the
+          IGM   remains   significantly   neutral.  The  most  optimistic
+          predictions  are  for a model where the supermassive BHs at z>6
+          have grown slowly. HII regions around supermassive BHs may then
+          be detected to significantly larger redshifts.
+
+
+   
+astro-ph/0609084 [abs, ps, pdf, other] :
+          Title:  Looking  for Mister Goodstar (A preliminary analysis of
+          stars with S IV, V and VI wind lines)
+          Authors: D. Massa
+          Comments:  Comments: 2 pages, 1 figure - Conference proceedings
+          to 'Mass Loss from stars and the evolution of stellar clusters'
+          -  Lunteren,  The  Netherlands,  May  29  - June 1, 2006. A. de
+          Koter, L. Smith & R. Waters
+          The   winds  of  stars  with  very  specific  temperatures  and
+          luminosities are ideal for determining the magnitude and nature
+          of  mass  loss  in OB stars. I identify these stars and analyze
+          their  wind lines. The results are discussed within the context
+          of  recent findings which appear to indicate that the mass-loss
+          rates  of  OB  stars  may as much as an order of magnitude less
+          than commonly accepted values.
+
+
+   
+Cross-listings
+
+   
+hep-th/0608178 [abs, ps, pdf, other] :
+          Title:  String-inspired  cosmology:  Late  time transition from
+          scaling  matter  era  to  dark  energy  universe  caused  by  a
+          Gauss-Bonnet coupling
+          Authors: Shinji Tsujikawa, M. Sami
+          Comments: 17 pages, 3 figures
+          The  Gauss-Bonnet  (GB) curvature invariant coupled to a scalar
+          field   $\phi$   can   lead   to   an   exit   from  a  scaling
+          matter-dominated  epoch  to  a late-time accelerated expansion,
+          which is attractive to alleviate the coincident problem of dark
+          energy.   We   derive   the  condition  for  the  existence  of
+          cosmological  scaling  solutions  in  the  presence  of  the GB
+          coupling for a general scalar-field Lagrangian density $p(\phi,
+          X)$, where $X=-(1/2)(\nabla \phi)^2$ is a kinematic term of the
+          scalar  field.  The  GB coupling and the Lagrangian density are
+          restricted to be in the form $f(\phi) \propto e^{\lambda \phi}$
+          and  $p=Xg  (Xe^{\lambda \phi})$, respectively, where $\lambda$
+          is  a constant and $g$ is an arbitrary function. We also derive
+          fixed  points  for such a scaling Lagrangian with a GB coupling
+          $f(\phi) \propto e^{\mu \phi}$ and clarify the conditions under
+          which  the  scaling  matter  era  is  followed  by  a de-Sitter
+          solution  which  can appear in the presence of the GB coupling.
+          Among  scaling  models  proposed  in the current literature, we
+          find  that the models which allow such a cosmological evolution
+          are  an ordinary scalar field with an exponential potential and
+          a  tachyon field with an inverse square potential, although the
+          latter requires a coupling between dark energy and dark matter.
+
+
+   
+Replacements
+
+   

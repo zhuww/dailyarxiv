@@ -1,0 +1,2 @@
+BEGIN {RS="@"}
+/pattern/ {print $0}

@@ -1,0 +1,308 @@
+astro-ph/0511239 [abs, ps, pdf, other] :
+
+          Title: The BATSE-Swift luminosity and redshift distributions of
+          short-duration GRBs
+          Authors: Dafne Guetta, Tsvi Piran
+          We  compare  the luminosity function and rate inferred from the
+          BATSE  short hard bursts (SHBs) peak flux distribution with the
+          redshift  and  luminosity  distributions  of  SHBs  observed by
+          Swift/HETE   II.   While   the  Swift/HETE  II  SHB  sample  is
+          incompatible   with   SHB  population  that  follows  the  star
+          formation rate, it is compatible with a SHB rate that reflect a
+          distribution  of  delay  times after the SFR. This would be the
+          case  if  SHBs are associated with binary neutron star mergers.
+          The  available data allows, however, different interpretations.
+          For  example,  a  population  whose  rate is independent of the
+          redshift fits the data very well. The implied SHB rates that we
+          find range from $\sim 8$ to $\sim
+          30h_{70}^3$Gpc$^{-3}$yr$^{-1}$. This is a much higher rate than
+          what  was previously estimated. A detailed (2 dimensional) look
+          at the best fit models shows, however, some discrepancy between
+          the four Swift/HETE II SHBs and the models based on BATSE SHBs.
+          This  could  be  a  statistical fluke. It could also arise from
+          wrong  estimates  of  the triggering criteria or from selection
+          effects.  If  real  it  may  indicate  the existence of two SHB
+          populations  with  different  luminosity functions and redshift
+          distributions.
+
+
+  
+astro-ph/0511242 [abs, ps, pdf, other] :
+
+          Title:  Three-Body  Kick  to  a Bright Quasar out of Its Galaxy
+          During a Merger
+          Authors: Loren Hoffman, Abraham Loeb (Harvard U.)
+          Comments: 13 pages, 2 figures, submitted to Nature
+          The  quasar HE0450-2958 was recently discovered to reside ~7kpc
+          away  from  a  galaxy  that  was  likely  disturbed by a recent
+          merger.  The  lack  of  a  massive spheroid of stars around the
+          quasar  raised  the unlikely suggestion that it may have formed
+          in  a  dark galaxy. Here we explain this discovery as a natural
+          consequence  of  a  dynamical kick imparted to the quasar as it
+          interacted  with  a  binary  black  hole system during a galaxy
+          merger  event.  The  typical stalling radius (~1pc) for a ~10^9
+          solar  mass binary provides a kick of order the escape velocity
+          of  the stellar spheroid, bringing the quasar out to around the
+          observed radius before it turns around. This is consistent with
+          the  observed  low relative velocity between the quasar and the
+          merger-remnant  galaxy.  The  gas  carried  with the black hole
+          throughout  the three-body interaction fuels the quasar for the
+          duration of its journey, ~2x10^7 years. Gravitational radiation
+          recoil could not have produced the required kick.
+
+
+  
+astro-ph/0511245 [abs, ps, pdf, other] :
+
+          Title:  Possible  evidence  for  the ejection of a supermassive
+          black hole from an ongoing merger of galaxies
+          Authors:  Martin  G.  Haehnelt  (IoA), Melvyn B. Davies (Lund),
+          Martin J. Rees (IoA)
+          Comments: 4 pages, LaTeX, no figures; MNRAS in press
+          Attempts  of  Magain  et al (2005) to detect the host galaxy of
+          the  bright  QSO  HE0450--2958  have  not  been  successful. We
+          suggest  that  the supermassive black hole powering the QSO was
+          ejected from the observed ULIRG at the same redshift and at 1.5
+          arcsec distance. Ejection could have either be caused by recoil
+          due  to gravitational wave emission from a coalescing binary of
+          supermassive  black  holes  or  the  gravitational slingshot of
+          three or more supermassive black holes in the ongoing merger of
+          galaxies  which  triggered the starburst activity in the ULIRG.
+          We  discuss implications for the possible hierarchical build-up
+          of  supermassive  black  holes from intermediate and/or stellar
+          mass   black   holes,  and  for  the  detection  of  coalescing
+          supermassive binary black holes by LISA.
+
+
+  
+astro-ph/0511246 [abs, ps, pdf, other] :
+
+          Title:  Rotational  Broadening of Atomic Spectral Features from
+          Neutron Stars
+          Authors: P. Chang, S. Morsink, L. Bildsten, I. Wasserman
+          Comments: 4 pages, 4 figures, to appear in ApJ Letters
+          The  discovery of the first gravitationally redshifted spectral
+          line from a neutron star (NS) by Cottam, Paerels and Mendez has
+          triggered  theoretical  studies  of  the physics of atomic line
+          formation  in  NS  atmospheres.  Chang,  Bildsten and Wasserman
+          showed  that  the hydrogenic Fe H$\alpha$ line formed above the
+          photosphere  of  a  bursting  NS is intrinsically broad. We now
+          include  rotational  broadening  within  general relativity and
+          compare  the  resulting  profile to that observed during Type I
+          bursts  from  EXO  0748-676.  We  show  that the fine structure
+          splitting  of the line precludes a meaningful constraint on the
+          radius.  Our  fitting of the data show that the line forming Fe
+          column    is    ${\rm    log}_{10}    (N_{\rm   Fe,   n=2}/{\rm
+          cm^{-2}})=17.9_{-0.42}^{+0.27}$ and gravitational redshift $1+z
+          =1.345_{-0.008}^{+0.005}$ with 95% confidence. We calculate the
+          detectability  of  this  spectral  feature for a large range of
+          spins  and  inclinations  assuming that the emission comes from
+          the  entire  surface.  We find that at 300 (600) Hz only 10-20%
+          (5-10%)  of  NSs  would  have spectral features as deep as that
+          seen in EXO 0748-676.
+
+
+  
+astro-ph/0511247 [abs, ps, pdf, other] :
+
+          Title:  Exposing  the Nuclear Burning Ashes of Radius Expansion
+          Type I X-ray Bursts
+          Authors:  Nevin  N.  Weinberg  (Caltech,  KITP),  Lars Bildsten
+          (KITP, UCSB), Hendrik Schatz (MSU, JINA)
+          Comments: 15 pages, 15 figures (emulateapj), accepted to ApJ
+          We  solve  for  the  evolution  of  the  vertical extent of the
+          convective  region of a neutron star atmosphere during a Type I
+          X-ray  burst. The convective region is well-mixed with ashes of
+          nuclear  burning and its extent determines the rise time of the
+          burst  light  curve.  Using a full nuclear reaction network, we
+          show  that the maximum vertical extent of the convective region
+          during   photospheric  radius  expansion  (RE)  bursts  can  be
+          sufficiently  great that: (1) some ashes of burning are ejected
+          by  the radiation driven wind during the RE phase and, (2) some
+          ashes  of  burning  are  exposed  at  the  neutron star surface
+          following the RE phase. We find that ashes with mass number A ~
+          30  -  60  are mixed in with the ejected material. We calculate
+          the  expected  column  density  of ejected and surface ashes in
+          hydrogen-like states and determine the equivalent widths of the
+          resulting  photoionization edges from both the wind and neutron
+          star  surface.  We  find  that  these can exceed 100 eV and are
+          potentially  detectable.  A  detection  would probe the nuclear
+          burning processes and might enable a measurement of the neutron
+          star  gravitational  redshift.  In  addition,  we  find that in
+          bursts with pure helium burning layers, protons from (alpha, p)
+          reactions  cause  a  rapid onset of the 12C(p, gamma)13N(alpha,
+          p)16O  reaction  sequence. The sequence bypasses the relatively
+          slow  12C(alpha, gamma)16O reaction and leads to a sudden surge
+          in  energy production that is directly observable as a rapid (~
+          ms) increase in flux during burst rise.
+
+
+  
+astro-ph/0511254 [abs, ps, pdf, other] :
+
+          Title: The Local Rate and the Progenitor Lifetime of Short-Hard
+          Gamma-Ray Bursts: Synthesis and Predictions for LIGO
+          Authors: Ehud Nakar, Avishay Gal-Yam, Derek B. Fox
+          The  properties  of the short-hard gamma-ray bursts (SHBs) with
+          known  host-galaxies  suggest  that  these events result from a
+          long-lived progenitor system. The most popular progenitor model
+          of  SHBs invokes the merger of either double neutron star (DNS)
+          binaries  or  neutron  star-black  hole  (NS-BH)  systems. Such
+          events  produce  strong  gravitational waves (GWs) at frequency
+          range   that  is  accessible  to  current  and  next-generation
+          ground-based  GW  observatories.  In  this  work we combine the
+          census of SHB observations with refined theoretical analysis to
+          critically  evaluate  the  compact  binary progenitor model. We
+          then explore the implications for GW detection of these events.
+          Beginning  from the measured star-formation rate through cosmic
+          time,  we  consider  what  intrinsic  luminosity  and  lifetime
+          distributions  can  reproduce  both the known SHB redshifts and
+          luminosities, and the peak flux distribution of the large BATSE
+          SHB  sample.  We  find  that (1) Short progenitor lifetimes, <3
+          Gyr,  are ruled out, and lifetimes of about 6 Gyr favored. This
+          result  is  difficult to reconcile with the observed properties
+          of  the  DNS  population  in  our  galaxy. We show that for DNS
+          systems to remain viable SHB progenitors, a large population of
+          old  undetectable  NS  binaries must be postulated. (2) We find
+          that  the  local  rate  of SHBs is at least 10 Gpc^-3 yr^-1 and
+          likely as high as 10^5 Gpc^-3 yr-1, significantly above earlier
+          estimates.  (3)  We find that assuming that SHBs do result from
+          compact   binaries,  either  through  the  old  DNS  population
+          mentioned   above   or   from   NS-BH  mergers,  our  resulting
+          predictions  for the LIGO event rate are extremely encouraging:
+          several   detections   per  year  may  be  expected  at  design
+          sensitivity,   and   the   first   coincident   observation  of
+          electromagnetic  and  gravitational  radiation  from an SHB may
+          well be made with current facilities.
+
+
+  
+astro-ph/0511258 [abs, ps, pdf, other] :
+
+          Title: Binary and Millisecond Pulsars
+          Authors: D.R. Lorimer
+          Comments:  77 pages, 30 figures, available on-line at this http
+          URL
+          Journal-ref: Living Rev. Relativity 8, (2005), 7
+          We review the main properties, demographics and applications of
+          binary  and  millisecond  radio pulsars. Our knowledge of these
+          exciting  objects has greatly increased in recent years, mainly
+          due  to  successful surveys which have brought the known pulsar
+          population   to   over  1700.  There  are  now  80  binary  and
+          millisecond pulsars associated with the disk of our Galaxy, and
+          a  further 103 pulsars in 24 of the Galactic globular clusters.
+          Recent  highlights  have  been  the discovery of the first ever
+          double  pulsar  system  and  a  recent flurry of discoveries in
+          globular clusters, in particular Terzan 5.
+
+
+  
+astro-ph/0511264 [abs, ps, pdf, other] :
+
+          Title:  Astrometric  Light-Travel  Time signature of sources in
+          nonlinear motion
+          Authors: Guillem Anglada, Jordi Torra
+          Comments: 10 pages, 2 figures
+          Context:Very  precise  planned  space  astrometric missions and
+          recent  improvements on imaging capabilities require a detailed
+          review of the assumptions of classical astrometric modeling.
+          Aims:We  show that Light-Travel Time must be taken into account
+          to  model  the  kinematics of astronomical objects in nonlinear
+          motion, even at stellar distances.
+          Methods:A closed expression to include Light-Travel Time in the
+          actual  astrometric  models  with nonlinear motion is provided.
+          Using   a   perturbative   approach   the   expression  of  the
+          Light-Travel  Time signature is derived. We propose a practical
+          form  of the astrometric modelling to be applied in astrometric
+          data reduction of sources at stellar distances($d>1 pc$).
+          Results  :We  show  that  the  Light-Travel  Time  signature is
+          relevant  at  $\muas$  accuracy (or even at $mas$) depending on
+          the  time  span of the astrometric measurements. We explain how
+          information  about  the  radial  motion  of  a  source  can  be
+          obtained. Some estimative numbers are provided for known nearby
+          binary systems
+          Conclusions  :In the light of the obtained results, it is clear
+          that  this  effect  must be taken into account to interpret any
+          kind   of  precise  astrometric  measurements.  The  effect  is
+          particularly  interesting  in  measurements  performed  by  the
+          planned   astrometric   space  missions  (GAIA,  SIM,  JASMINE,
+          TPF/DARWIN).  Finally  an  objective  criterion  is provided to
+          quickly  evaluate  whether  the  Light-Travel  Time modeling is
+          required for a given source or system.
+
+
+  
+astro-ph/0511270 [abs, ps, pdf, other] :
+
+          Title: Observation of V0332+53 over the 2004/2005 outburst with
+          Integral
+          Authors:  I. Kreykenbohm, N. Mowlavi, K. Pottschmidt, J. Wilms,
+          S.  E.  Shaw,  R.  E.  Rothschild,  N.  Produit,  W. Coburn, P.
+          Kretschmar, A. Santangelo, R. Staubert
+          Comments:  2  pages, 2 figures. To appear in the proceedings of
+          "The  X-ray Universe 2005", San Lorenzo de El Escorial (Spain),
+          26-30   September   2005,   from  a  detailed  paper  (Mowlavi,
+          Kreykenbohm, Shaw et al) submitted to A&A in September 2005
+          We  present the spectral and temporal analysis of the 2004/2005
+          outburst  of  the  transient  X-ray pulsar V0332+53 as observed
+          with  Integral. After the discovery of the third cyclotron line
+          in  phase averaged spectra (Kreykenbohm et al 2005, Pottschmidt
+          et   al  2005),  detailed  pulse  phase  spectroscopy  revealed
+          remarkably  little  variability  of the cyclotron lines through
+          the  4.4s  X-ray  pulse  (Pottschmidt  et  al 2005). During the
+          decline  of  the  outburst,  the  flux  was  observed  to decay
+          exponentially  until  2005  Feb 10 and linearly thereafter. The
+          spectrum  was  found  to  become  harder  with  time, while the
+          folding energy remained constant. The energy of the fundamental
+          cyclotron  line  increased  with  time from 26.5kev in the RXTE
+          observation  up  to 29.5kev in the last Integral one indicating
+          that the emission region is moving closer to the surface of the
+          neutron  star.  For  a  detailed  analysis,  see  Mowlavi et al
+          (2005).
+
+
+  
+astro-ph/0511276 [abs, pdf] :
+
+          Title: Investigating Galaxy Evolution with Chandra
+          Authors: G. Fabbiano
+          Comments:  To  be  included  in  the  proceedings of the 'X-ray
+          universe  2005  meeting'  held  in  San  Lorenzo de El Escorial
+          (Spain), 26-30 Sep 2005
+          Chandra  observations show the importance of the X-ray band for
+          studying the evolution of galaxies. Binary X-ray sources are an
+          easily  detectable  tracer  of  the stellar population. Chandra
+          studies  of  these  populations are giving us insights into the
+          nature  and  formation of these binaries, and provide the basis
+          for   diagnostics   of   galaxy  evolution.  With  Chandra  and
+          XMM-Newton  we  can  explore relatively poorly known aspects of
+          the black hole population of the universe: ultra-luminous X-ray
+          sources,  that may be connected with the 'missing' intermediate
+          mass  black  holes  predicted  by hierarchical galaxy and black
+          hole  formation  scenarios;  and quiescent supermassive nuclear
+          black  holes and their surroundings, as a way to understand the
+          full  range  of  the  AGN  phenomenon.  Finally, the X-ray band
+          provides  the  only  way  to  explore  hot plasmas in galaxies;
+          recent  observations  are  revealing  the  importance  of these
+          plasmas as vehicles of both chemical enrichment and energy.
+
+
+  
+Cross-listings
+
+  
+Replacements
+
+  
+astro-ph/0508257 [abs, pdf] :
+
+          Title:  The discovery of PSR J1833-1034 : the pulsar associated
+          with the supernova remnant G21.5-0.9
+          Authors: Y. Gupta, D. Mitra, D.A. Green, A. Acharyya
+          Comments:  5  pages,  with  1  figure and 1 table; published in
+          Current Science
+          Journal-ref: Current Science, Vol. 89, No. 5, 10 September 2005
+          Note:  replaced  with  revised version Wed, 9 Nov 2005 05:41:04
+          GMT (217kb)
+
+  

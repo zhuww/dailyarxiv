@@ -1,0 +1,4 @@
+s/arXiv/@arXiv/g
+s/Cross-lists for/@Cross-lists for/g
+s/Replacements for/@Replacements for/g
+s/New submissions for/@New submissions for/g

@@ -1,0 +1,2 @@
+BEGIN {RS="@"}
+/Quasar/||/quasar/||/ULIRG/||/SMG/||/ULX/||/Reionization/||/reionization/||/Galaxy\ formation/||/galaxy\ formation/||/Replacements/||/Cross\-listings/ {print $0}

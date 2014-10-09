@@ -1,0 +1,2063 @@
+astro-ph/0510817 [abs, ps, pdf, other] :
+
+          Title:  Low  Mass  X-ray  Binaries  in  6  Elliptical Galaxies:
+          Connection to Globular Clusters
+          Authors: Eunhyeuk Kim, Dong-Woo Kim, Giuseppina Fabbiano, Myung
+          Gyoon Lee, Hong Soo Park, Doug Geisler, Boris Dirsch
+          Comments: 52 pages
+          We  present  a  systematic  study  of the low mass X-ray binary
+          (LMXB) populations of 6 elliptical galaxies. We utilize Chandra
+          archival  data  to  identify  665  X-ray  point sources and HST
+          archival  data  supplemented by ground observations to identify
+          6173 GCs. We associate 209 LMXBs with red GC (RGC) and 76 LMXBs
+          with  blue  GCs  (BGC), while we find no optical GC counterpart
+          for  258  LMXBs.  This is the largest GC-LMXB sample studied so
+          far.  We  confirm previous reports suggesting that the fraction
+          of  GCs associated with LMXBs is 3 times larger in RGCs than in
+          BGCs,  indicating  that  metallicity is a primary factor in the
+          GC-LMXB  formation.  While  as already known, the brighter (and
+          bigger)  GCs  have  a higher probability to host LMXBs, we find
+          that  this  optical luminosity (or mass) dependency is stronger
+          in  RGCs  than  in BGCs. We also find that GCs located near the
+          galaxy  center  have  a  higher  probability  to  harbor  LMXBs
+          compared to those in the outskirts. The radial distributions of
+          GC-LMXBs  (for  both RGC and BGC) are steeper than those of the
+          whole  optical  GC  sample,  but  consistent  with those of the
+          optical  halo  light,  suggesting  that  there  must be another
+          parameter (in addition to metallicity) governing LMXB formation
+          in   GCs.   This   second   parameter   must   depend   on  the
+          galacto-centric  distance. We find no statistically significant
+          difference  in  the X-ray properties among RGC-LMXBs, BGC-LMXBs
+          and  field-LMXBs.  The  similarity  of  the  X-ray  spectra  of
+          BGC-LMXBs    and    RGC-LMXBs    is   inconsistent   with   the
+          irradiation-induced   stellar   wind   model   prediction.  The
+          similarity of the X-ray luminosity functions (XLFs) of GC-LMXBs
+          and   field-LMXBs   indicates  that  there  is  no  significant
+          difference  in the fraction of BH binaries present in these two
+          populations,  in  contrast  to Galactic LMXBs where BH binaries
+          are not found in GCs.
+
+
+  
+astro-ph/0510822 [abs, ps, pdf, other] :
+
+          Title: CPD-41deg7742: an unusual wind interaction
+          Authors:  H.  Sana, E. Gosset, G. Rauw, E. Antokhina, P. Royer,
+          J. Manfroid, J.-M. Vreux
+          Comments:  4pages,  5  figures,  to appear in "Distant Worlds",
+          proceedings of the JENAM2005
+          We   summarize  the  results  of  a  multiwavelength  observing
+          campaign on the massive eclipsing binary CPD-41deg7742, another
+          remarkable  object  in  the  young  open  cluster NGC 6231. Our
+          campaign   relies  on  high  resolution  echelle  spectroscopy,
+          narrow-band    optical   photometry,   and   XMM-Newton   X-ray
+          observations.  Combined  with  the  spectroscopic analysis, the
+          light  curve  analysis  provides  a  direct  measurement of the
+          masses  and  sizes  of the system components. However, the most
+          outstanding  results come from the XMM-Newton observations. Our
+          180  ks  campaign towards NGC 6231, and CPD-41deg7742, provides
+          an  unprecedented  phase  coverage  of  such a close early-type
+          binary.  The  EPIC-MOS  light curves almost fully cover the 2.4
+          day  period  of  the system and the brightness of the object is
+          sufficient  to  yield  a  time resolution as tight as 1 ks. The
+          X-ray  flux  presents clear variations along the orbit, that we
+          interpret  as  the signature of an unusual wind interaction. We
+          indeed  expect  that,  in this O+B system, the dominant primary
+          wind   crashes   into  the  secondary  surface,  leading  to  a
+          wind-photosphere  interaction.  As  a  strong  support  to  our
+          interpretation,  we provide a geometrical model that associates
+          an  extra X-ray emission to the secondary inner surface. Though
+          quite  simple,  the  present model matches the main features of
+          the X-ray light curve.
+
+
+  
+astro-ph/0510834 [abs, ps, pdf, other] :
+
+          Title:  A  Model for Twin Kilohertz Quasi-Periodic Oscillations
+          in Neutron Star Low-Mass X-Ray Binaries
+          Authors: X.-D. Li, C.-M. Zhang
+          Comments:   12   pages   including   3  figures,  accepted  for
+          publication in ApJL
+          We  suggest  a  plausible interpretation for the twin kiloHertz
+          quasi-periodic oscillations (kHz QPOs) in neutron star low-mass
+          X-ray binaries. We identify the upper kHz QPO frequencies to be
+          the  rotational  frequency  and the lower kHz QPOs the standing
+          kink  modes  of  loop  oscillations  at  the  inner edge of the
+          accretion   disk,   respectively.   Taking   into  account  the
+          interaction  between  the  neutron  star magnetic field and the
+          disk,  this  model  naturally  relates the twin QPO frequencies
+          with  the star's spin frequencies. We have applied the model to
+          four  X-ray  sources  with kHz QPOs detected simultaneously and
+          known spin frequencies.
+
+
+  
+astro-ph/0510837 [abs, ps, pdf, other] :
+
+          Title:  An empirical model for the polarization of pulsar radio
+          emission
+          Authors: D. Melrose, A. Miller, A. Karastergiou, Q. Luo
+          Comments:  10  pages,  7  figures,  accepted for publication in
+          MNRAS
+          We  present  an  empirical  model  for  single  pulses of radio
+          emission   from   pulsars   based   on   gaussian   probability
+          distributions  for  relevant  variables.  The  radiation  at  a
+          specific  pulse  phase  is  represented as the superposition of
+          radiation  in  two (approximately) orthogonally polarized modes
+          (OPMs)  from  one  or more subsources in the emission region of
+          the  pulsar.  For  each  subsource, the polarization states are
+          drawn  randomly  from  statistical distributions, with the mean
+          and  the  variance on the Poincar\'e sphere as free parameters.
+          The   intensity   of  one  OPM  is  chosen  from  a  log-normal
+          distribution,  and the intensity of the other OPM is assumed to
+          be  partially  correlated,  with the degree of correlation also
+          chosen  from  a  gaussian  distribution.  The  model is used to
+          construct  simulated  data described in the same format as real
+          data:  distributions  of  the  polarization  of  pulses  on the
+          Poincar\'e  sphere  and  histograms  of the intensity and other
+          parameters.  We  concentrate  on the interpretation of data for
+          specific  phases  of  PSR  B0329+54  for which the OPMs are not
+          orthogonal,  with  one  well  defined  and the other spread out
+          around  an annulus on the Poincar\'e sphere at some phases. The
+          results  support  the  assumption that the radiation emerges in
+          two  OPMs  with  closely  correlated intensities, and that in a
+          statistical fraction of pulses one OPM is invisible.
+
+
+  
+astro-ph/0510847 [abs, ps, pdf, other] :
+
+          Title:  The  circles-in-the-sky  signature  for three spherical
+          universes
+          Authors: R. Aurich, S. Lustig, F. Steiner
+          The  mysteriously  low  CMB  power  on the largest scales might
+          point  to a Universe which consists of a multi-connected space.
+          In   addition   to   a  suppression  of  large-scale  power,  a
+          multi-connected space can be revealed by its circles-in-the-sky
+          signature.  In this paper, a detailed search for this signature
+          is  carried  out  for  those  three homogeneous multi-connected
+          spherical  space  forms  that  lead to the smallest large-scale
+          power.  A  simultaneous search for all occurring paired circles
+          is  made using filtered CMB sky maps which enhance the ordinary
+          Sachs-Wolfe  contribution.  A  marginal  hint  is found for the
+          right-handed Poincare dodecahedron at Omega_tot = 1.015 and for
+          the right-handed binary tetrahedral space at Omega_tot = 1.068.
+          However,  due to the complicated noise and foreground structure
+          of  the  available  microwave  sky  maps,  we  cannot draw firm
+          conclusions from our findings.
+
+
+  
+astro-ph/0510860 [abs, ps, pdf, other] :
+
+          Title:  Are  Neutron-Rich  Elements Produced in the Collapse of
+          Strange Dwarfs ?
+          Authors: G. F. Marranghello, J. A. de Freitas Pacheco
+          Comments: Accepted for publication in IJMPD
+          The  structure  of strange dwarfs and that of hybrid stars with
+          same  baryonic  number  is  compared.  There is a critical mass
+          (M~0.24M_sun)   in   the  strange  dwarf  branch,  below  which
+          configurations with the same baryonic number in the hybrid star
+          branch  are  more  stable.  If a transition occurs between both
+          branches, the collapse releases an energy of about of 3x10^{50}
+          erg,  mostly  under  the  form  of neutrinos resulting from the
+          conversion of hadronic matter onto strange quark matter. Only a
+          fraction  (~4%)  is  required  to  expel the outer neutron-rich
+          layers.  These  events  may  contribute  significantly  to  the
+          chemical  yield  of  nuclides with A>80 in the Galaxy, if their
+          frequency is of about one per 1500 years.
+
+
+  
+astro-ph/0410248 [abs, ps, pdf, other] :
+
+          Title: The bottom magnetic field and magnetosphere evolution of
+          neutron star in low mass X-ray binary
+          Authors: C.M. Zhang, Y. Kojima
+          Comments: 8 pages, 4 figs, accepted by MNRAS, 2005
+          Note:  replaced  with revised version Mon, 31 Oct 2005 12:06:21
+          GMT (45kb)
+
+  
+astro-ph/0411618 [abs, ps, pdf, other] :
+
+          Title:  Population synthesis as a probe of neutron star thermal
+          evolution
+          Authors: S. Popov, H. Grigorian, R. Turolla, D. Blaschke
+          Comments:  10  pages,  7  figures,  table  extended, references
+          added, final version to appear in Astron. & Astrophys
+          Note:  replaced  with revised version Sat, 29 Oct 2005 06:17:21
+          GMT (104kb)
+
+  
+astro-ph/0507054 [abs, ps, pdf, other] :
+
+          Title:  High  resolution  numerical  modeling of the force-free
+          pulsar magnetosphere
+          Authors:  Andrey  Timokhin  (Sternberg  Astronomical Institute,
+          Moscow, Russia)
+          Comments: presented at the conference "Astrophysical Sources of
+          High  Energy  Particles  and Radiation", Torun, Poland, 20 - 24
+          June  2005  and  at  the conference "Physics of Neutron Stars -
+          2005",  St.  Petersburg,  Russia,  27-29  June, 2005; corrected
+          mistake in energy losses normalization
+          Note:  replaced  with revised version Fri, 28 Oct 2005 22:06:52
+          GMT (402kb)
+
+  
+gr-qc/0104063 [abs, ps, pdf, other] :
+
+          Title:  The  Lazarus  project:  A  pragmatic approach to binary
+          black hole evolutions
+          Authors: J. Baker (NASA), M. Campanelli (UTB), C. Lousto (UTB)
+          Comments:  New  typos  found  in  the  version appeared in PRD.
+          (Mostly found and collected by Bernard Kelly)
+          Journal-ref: Phys.Rev. D65 (2002) 044001
+          Note:  replaced  with revised version Fri, 28 Oct 2005 20:56:36
+          GMT (91kb)
+
+  
+astro-ph/0510817 [abs, ps, pdf, other] :
+
+          Title:  Low  Mass  X-ray  Binaries  in  6  Elliptical Galaxies:
+          Connection to Globular Clusters
+          Authors: Eunhyeuk Kim, Dong-Woo Kim, Giuseppina Fabbiano, Myung
+          Gyoon Lee, Hong Soo Park, Doug Geisler, Boris Dirsch
+          Comments: 52 pages
+          We  present  a  systematic  study  of the low mass X-ray binary
+          (LMXB) populations of 6 elliptical galaxies. We utilize Chandra
+          archival  data  to  identify  665  X-ray  point sources and HST
+          archival  data  supplemented by ground observations to identify
+          6173 GCs. We associate 209 LMXBs with red GC (RGC) and 76 LMXBs
+          with  blue  GCs  (BGC), while we find no optical GC counterpart
+          for  258  LMXBs.  This is the largest GC-LMXB sample studied so
+          far.  We  confirm previous reports suggesting that the fraction
+          of  GCs associated with LMXBs is 3 times larger in RGCs than in
+          BGCs,  indicating  that  metallicity is a primary factor in the
+          GC-LMXB  formation.  While  as already known, the brighter (and
+          bigger)  GCs  have  a higher probability to host LMXBs, we find
+          that  this  optical luminosity (or mass) dependency is stronger
+          in  RGCs  than  in BGCs. We also find that GCs located near the
+          galaxy  center  have  a  higher  probability  to  harbor  LMXBs
+          compared to those in the outskirts. The radial distributions of
+          GC-LMXBs  (for  both RGC and BGC) are steeper than those of the
+          whole  optical  GC  sample,  but  consistent  with those of the
+          optical  halo  light,  suggesting  that  there  must be another
+          parameter (in addition to metallicity) governing LMXB formation
+          in   GCs.   This   second   parameter   must   depend   on  the
+          galacto-centric  distance. We find no statistically significant
+          difference  in  the X-ray properties among RGC-LMXBs, BGC-LMXBs
+          and  field-LMXBs.  The  similarity  of  the  X-ray  spectra  of
+          BGC-LMXBs    and    RGC-LMXBs    is   inconsistent   with   the
+          irradiation-induced   stellar   wind   model   prediction.  The
+          similarity of the X-ray luminosity functions (XLFs) of GC-LMXBs
+          and   field-LMXBs   indicates  that  there  is  no  significant
+          difference  in the fraction of BH binaries present in these two
+          populations,  in  contrast  to Galactic LMXBs where BH binaries
+          are not found in GCs.
+
+
+  
+astro-ph/0510822 [abs, ps, pdf, other] :
+
+          Title: CPD-41deg7742: an unusual wind interaction
+          Authors:  H.  Sana, E. Gosset, G. Rauw, E. Antokhina, P. Royer,
+          J. Manfroid, J.-M. Vreux
+          Comments:  4pages,  5  figures,  to appear in "Distant Worlds",
+          proceedings of the JENAM2005
+          We   summarize  the  results  of  a  multiwavelength  observing
+          campaign on the massive eclipsing binary CPD-41deg7742, another
+          remarkable  object  in  the  young  open  cluster NGC 6231. Our
+          campaign   relies  on  high  resolution  echelle  spectroscopy,
+          narrow-band    optical   photometry,   and   XMM-Newton   X-ray
+          observations.  Combined  with  the  spectroscopic analysis, the
+          light  curve  analysis  provides  a  direct  measurement of the
+          masses  and  sizes  of the system components. However, the most
+          outstanding  results come from the XMM-Newton observations. Our
+          180  ks  campaign towards NGC 6231, and CPD-41deg7742, provides
+          an  unprecedented  phase  coverage  of  such a close early-type
+          binary.  The  EPIC-MOS  light curves almost fully cover the 2.4
+          day  period  of  the system and the brightness of the object is
+          sufficient  to  yield  a  time resolution as tight as 1 ks. The
+          X-ray  flux  presents clear variations along the orbit, that we
+          interpret  as  the signature of an unusual wind interaction. We
+          indeed  expect  that,  in this O+B system, the dominant primary
+          wind   crashes   into  the  secondary  surface,  leading  to  a
+          wind-photosphere  interaction.  As  a  strong  support  to  our
+          interpretation,  we provide a geometrical model that associates
+          an  extra X-ray emission to the secondary inner surface. Though
+          quite  simple,  the  present model matches the main features of
+          the X-ray light curve.
+
+
+  
+astro-ph/0510834 [abs, ps, pdf, other] :
+
+          Title:  A  Model for Twin Kilohertz Quasi-Periodic Oscillations
+          in Neutron Star Low-Mass X-Ray Binaries
+          Authors: X.-D. Li, C.-M. Zhang
+          Comments:   12   pages   including   3  figures,  accepted  for
+          publication in ApJL
+          We  suggest  a  plausible interpretation for the twin kiloHertz
+          quasi-periodic oscillations (kHz QPOs) in neutron star low-mass
+          X-ray binaries. We identify the upper kHz QPO frequencies to be
+          the  rotational  frequency  and the lower kHz QPOs the standing
+          kink  modes  of  loop  oscillations  at  the  inner edge of the
+          accretion   disk,   respectively.   Taking   into  account  the
+          interaction  between  the  neutron  star magnetic field and the
+          disk,  this  model  naturally  relates the twin QPO frequencies
+          with  the star's spin frequencies. We have applied the model to
+          four  X-ray  sources  with kHz QPOs detected simultaneously and
+          known spin frequencies.
+
+
+  
+astro-ph/0510837 [abs, ps, pdf, other] :
+
+          Title:  An empirical model for the polarization of pulsar radio
+          emission
+          Authors: D. Melrose, A. Miller, A. Karastergiou, Q. Luo
+          Comments:  10  pages,  7  figures,  accepted for publication in
+          MNRAS
+          We  present  an  empirical  model  for  single  pulses of radio
+          emission   from   pulsars   based   on   gaussian   probability
+          distributions  for  relevant  variables.  The  radiation  at  a
+          specific  pulse  phase  is  represented as the superposition of
+          radiation  in  two (approximately) orthogonally polarized modes
+          (OPMs)  from  one  or more subsources in the emission region of
+          the  pulsar.  For  each  subsource, the polarization states are
+          drawn  randomly  from  statistical distributions, with the mean
+          and  the  variance on the Poincar\'e sphere as free parameters.
+          The   intensity   of  one  OPM  is  chosen  from  a  log-normal
+          distribution,  and the intensity of the other OPM is assumed to
+          be  partially  correlated,  with the degree of correlation also
+          chosen  from  a  gaussian  distribution.  The  model is used to
+          construct  simulated  data described in the same format as real
+          data:  distributions  of  the  polarization  of  pulses  on the
+          Poincar\'e  sphere  and  histograms  of the intensity and other
+          parameters.  We  concentrate  on the interpretation of data for
+          specific  phases  of  PSR  B0329+54  for which the OPMs are not
+          orthogonal,  with  one  well  defined  and the other spread out
+          around  an annulus on the Poincar\'e sphere at some phases. The
+          results  support  the  assumption that the radiation emerges in
+          two  OPMs  with  closely  correlated intensities, and that in a
+          statistical fraction of pulses one OPM is invisible.
+
+
+  
+astro-ph/0510847 [abs, ps, pdf, other] :
+
+          Title:  The  circles-in-the-sky  signature  for three spherical
+          universes
+          Authors: R. Aurich, S. Lustig, F. Steiner
+          The  mysteriously  low  CMB  power  on the largest scales might
+          point  to a Universe which consists of a multi-connected space.
+          In   addition   to   a  suppression  of  large-scale  power,  a
+          multi-connected space can be revealed by its circles-in-the-sky
+          signature.  In this paper, a detailed search for this signature
+          is  carried  out  for  those  three homogeneous multi-connected
+          spherical  space  forms  that  lead to the smallest large-scale
+          power.  A  simultaneous search for all occurring paired circles
+          is  made using filtered CMB sky maps which enhance the ordinary
+          Sachs-Wolfe  contribution.  A  marginal  hint  is found for the
+          right-handed Poincare dodecahedron at Omega_tot = 1.015 and for
+          the right-handed binary tetrahedral space at Omega_tot = 1.068.
+          However,  due to the complicated noise and foreground structure
+          of  the  available  microwave  sky  maps,  we  cannot draw firm
+          conclusions from our findings.
+
+
+  
+astro-ph/0510860 [abs, ps, pdf, other] :
+
+          Title:  Are  Neutron-Rich  Elements Produced in the Collapse of
+          Strange Dwarfs ?
+          Authors: G. F. Marranghello, J. A. de Freitas Pacheco
+          Comments: Accepted for publication in IJMPD
+          The  structure  of strange dwarfs and that of hybrid stars with
+          same  baryonic  number  is  compared.  There is a critical mass
+          (M~0.24M_sun)   in   the  strange  dwarf  branch,  below  which
+          configurations with the same baryonic number in the hybrid star
+          branch  are  more  stable.  If a transition occurs between both
+          branches, the collapse releases an energy of about of 3x10^{50}
+          erg,  mostly  under  the  form  of neutrinos resulting from the
+          conversion of hadronic matter onto strange quark matter. Only a
+          fraction  (~4%)  is  required  to  expel the outer neutron-rich
+          layers.  These  events  may  contribute  significantly  to  the
+          chemical  yield  of  nuclides with A>80 in the Galaxy, if their
+          frequency is of about one per 1500 years.
+
+
+  
+astro-ph/0410248 [abs, ps, pdf, other] :
+
+          Title: The bottom magnetic field and magnetosphere evolution of
+          neutron star in low mass X-ray binary
+          Authors: C.M. Zhang, Y. Kojima
+          Comments: 8 pages, 4 figs, accepted by MNRAS, 2005
+          Note:  replaced  with revised version Mon, 31 Oct 2005 12:06:21
+          GMT (45kb)
+
+  
+astro-ph/0411618 [abs, ps, pdf, other] :
+
+          Title:  Population synthesis as a probe of neutron star thermal
+          evolution
+          Authors: S. Popov, H. Grigorian, R. Turolla, D. Blaschke
+          Comments:  10  pages,  7  figures,  table  extended, references
+          added, final version to appear in Astron. & Astrophys
+          Note:  replaced  with revised version Sat, 29 Oct 2005 06:17:21
+          GMT (104kb)
+
+  
+astro-ph/0507054 [abs, ps, pdf, other] :
+
+          Title:  High  resolution  numerical  modeling of the force-free
+          pulsar magnetosphere
+          Authors:  Andrey  Timokhin  (Sternberg  Astronomical Institute,
+          Moscow, Russia)
+          Comments: presented at the conference "Astrophysical Sources of
+          High  Energy  Particles  and Radiation", Torun, Poland, 20 - 24
+          June  2005  and  at  the conference "Physics of Neutron Stars -
+          2005",  St.  Petersburg,  Russia,  27-29  June, 2005; corrected
+          mistake in energy losses normalization
+          Note:  replaced  with revised version Fri, 28 Oct 2005 22:06:52
+          GMT (402kb)
+
+  
+gr-qc/0104063 [abs, ps, pdf, other] :
+
+          Title:  The  Lazarus  project:  A  pragmatic approach to binary
+          black hole evolutions
+          Authors: J. Baker (NASA), M. Campanelli (UTB), C. Lousto (UTB)
+          Comments:  New  typos  found  in  the  version appeared in PRD.
+          (Mostly found and collected by Bernard Kelly)
+          Journal-ref: Phys.Rev. D65 (2002) 044001
+          Note:  replaced  with revised version Fri, 28 Oct 2005 20:56:36
+          GMT (91kb)
+
+  
+astro-ph/0511022 [abs, ps, pdf, other] :
+
+          Title: An X-ray source population study of the Andromeda galaxy
+          M 31
+          Authors: W. Pietsch (MPE Garching)
+          Comments:  6  pages, 7 figures, to appear in the proceedings of
+          "The  X-ray Universe 2005", San Lorenzo de El Escorial (Madrid,
+          Spain), 26-30 September 2005, ESA-SP 604
+          XMM-Newton  EPIC  observations  reveal  the population of X-ray
+          sources  of  the  bright  Local  Group  spiral  galaxy  M 31, a
+          low-star-formation-rate  galaxy  like  the Milky Way, down to a
+          0.2-4.5  keV luminosity of 4.4E34 erg/s. With the help of X-ray
+          hardness  ratios  and  optical  and radio information different
+          source  classes  can  be distinguished. The survey detected 856
+          sources  in an area of 1.24 square degrees. Sources within M 31
+          are  44  supernova remnants (SNR) and candidates, 18 super-soft
+          sources (SSS), 16 X-ray binaries (XRBs) and candidates, as well
+          as  37 globular cluster sources (GlC) and candidates, i.e. most
+          likely  low  mass  XRBs  within  the  GlC. 567 hard sources may
+          either  be XRBs or Crab-like SNRs in M 31 or background AGN. 22
+          sources are new SNR candidates in M 31 based on X-ray selection
+          criteria.  Time  variability information can be used to improve
+          the  source  classification.  Two GlC sources show type I X-ray
+          bursts  as known from Galactic neutron star low mass XRBs. Many
+          of  the  M  31 SSS detected with XMM-Newton, Chandra and ROSAT,
+          could be identified with optical novae. Soft X-ray light curves
+          can be determined in M 31 center observations for several novae
+          at a time opening a new area of nova research.
+
+
+  
+astro-ph/0511027 [abs, pdf] :
+
+          Title: QuantEYE: The Quantum Optics Instrument for OWL
+          Authors:   D.Dravins,   C.Barbieri,  R.A.E.Fosbury,  G.Naletto,
+          R.Nilsson, T.Occhipinti, F.Tamburini, H.Uthas, L.Zampieri
+          Comments:  7  pages;  Proceedings from meeting 'Instrumentation
+          for  Extremely Large Telescopes', held at Ringberg Castle, July
+          2005 (T.Herbst, ed.)
+          QuantEYE   is   designed  to  be  the  highest  time-resolution
+          instrument  on  ESO:s  planned  Overwhelmingly Large Telescope,
+          devised to explore astrophysical variability on microsecond and
+          nanosecond  scales, down to the quantum-optical limit. Expected
+          phenomena   include  instabilities  of  photon-gas  bubbles  in
+          accretion  flows,  p-mode  oscillations  in  neutron stars, and
+          quantum-optical photon bunching in time. Precise timescales are
+          both variable and unknown, and studies must be of photon-stream
+          statistics, e.g., their power spectra or autocorrelations. Such
+          functions  increase  with the square of the intensity, implying
+          an  enormously increased sensitivity at the largest telescopes.
+          QuantEYE  covers  the optical, and its design involves an array
+          of  photon-counting avalanche-diode detectors, each viewing one
+          segment  of  the OWL entrance pupil. QuantEYE will work already
+          with  a  partially  filled  OWL  main  mirror, and also without
+          [full] adaptive optics.
+
+
+  
+astro-ph/0511045 [abs, ps, pdf, other] :
+
+          Title:  First  Determination  of  the  Distance and Fundamental
+          Properties of an Eclipsing Binary in The Andromeda Galaxy
+          Authors:  Ignasi  Ribas  (CSIC,  IEEC,  Spain), Carme Jordi (U.
+          Barcelona,  IEEC,  Spain),  Francesc  Vilardell  (U. Barcelona,
+          Spain),  Edward  L.  Fitzpatrick  (Villanova  U.,  USA)  Ron W.
+          Hilditch  (U. St. Andrews, UK), Edward F. Guinan (Villanova U.,
+          USA)
+          Comments:  6  pages, 2 figures, accepted for publication in ApJ
+          Letters
+          We  present  the  first  detailed spectroscopic and photometric
+          analysis  of an eclipsing binary in the Andromeda Galaxy (M31).
+          This  is  a  19.3-mag  semi-detached  system with components of
+          late-O  and  early-B  spectral types. From the light and radial
+          velocity  curves  we have carried out an accurate determination
+          of  the  masses  and  radii  of the components. Their effective
+          temperatures  have  been  estimated  from  the  modeling of the
+          absorption  line  spectra.  The  analysis yields an essentially
+          complete  picture of the properties of the system, and hence an
+          accurate   distance   determination   to  M31.  The  result  is
+          d=772+/-44   kpc   ((m-M)_0=24.44+/-0.12  mag).  The  study  of
+          additional  systems,  currently  in progress, should reduce the
+          uncertainty in the M31 distance to better than 5%.
+
+
+  
+astro-ph/0508439 [abs, ps, pdf, other] :
+
+          Title:  Evidence for surface cooling emission in the XMM-Newton
+          spectrum of the X-ray pulsar PSR B2334+61
+          Authors:  Katherine  E.  McGowan  (1,2),  Silvia Zane (1), Mark
+          Cropper  (1),  W.  Thomas Vestrand (2), Cheng Ho (2) ((1) MSSL,
+          (2) LANL)
+          Comments: 14 pages, 1 figure, 1 table, accepted for publication
+          in ApJ
+          Note:  replaced  with  revised version Tue, 1 Nov 2005 11:42:19
+          GMT (19kb)
+
+  
+astro-ph/0511022 [abs, ps, pdf, other] :
+
+          Title: An X-ray source population study of the Andromeda galaxy
+          M 31
+          Authors: W. Pietsch (MPE Garching)
+          Comments:  6  pages, 7 figures, to appear in the proceedings of
+          "The  X-ray Universe 2005", San Lorenzo de El Escorial (Madrid,
+          Spain), 26-30 September 2005, ESA-SP 604
+          XMM-Newton  EPIC  observations  reveal  the population of X-ray
+          sources  of  the  bright  Local  Group  spiral  galaxy  M 31, a
+          low-star-formation-rate  galaxy  like  the Milky Way, down to a
+          0.2-4.5  keV luminosity of 4.4E34 erg/s. With the help of X-ray
+          hardness  ratios  and  optical  and radio information different
+          source  classes  can  be distinguished. The survey detected 856
+          sources  in an area of 1.24 square degrees. Sources within M 31
+          are  44  supernova remnants (SNR) and candidates, 18 super-soft
+          sources (SSS), 16 X-ray binaries (XRBs) and candidates, as well
+          as  37 globular cluster sources (GlC) and candidates, i.e. most
+          likely  low  mass  XRBs  within  the  GlC. 567 hard sources may
+          either  be XRBs or Crab-like SNRs in M 31 or background AGN. 22
+          sources are new SNR candidates in M 31 based on X-ray selection
+          criteria.  Time  variability information can be used to improve
+          the  source  classification.  Two GlC sources show type I X-ray
+          bursts  as known from Galactic neutron star low mass XRBs. Many
+          of  the  M  31 SSS detected with XMM-Newton, Chandra and ROSAT,
+          could be identified with optical novae. Soft X-ray light curves
+          can be determined in M 31 center observations for several novae
+          at a time opening a new area of nova research.
+
+
+  
+astro-ph/0511027 [abs, pdf] :
+
+          Title: QuantEYE: The Quantum Optics Instrument for OWL
+          Authors:   D.Dravins,   C.Barbieri,  R.A.E.Fosbury,  G.Naletto,
+          R.Nilsson, T.Occhipinti, F.Tamburini, H.Uthas, L.Zampieri
+          Comments:  7  pages;  Proceedings from meeting 'Instrumentation
+          for  Extremely Large Telescopes', held at Ringberg Castle, July
+          2005 (T.Herbst, ed.)
+          QuantEYE   is   designed  to  be  the  highest  time-resolution
+          instrument  on  ESO:s  planned  Overwhelmingly Large Telescope,
+          devised to explore astrophysical variability on microsecond and
+          nanosecond  scales, down to the quantum-optical limit. Expected
+          phenomena   include  instabilities  of  photon-gas  bubbles  in
+          accretion  flows,  p-mode  oscillations  in  neutron stars, and
+          quantum-optical photon bunching in time. Precise timescales are
+          both variable and unknown, and studies must be of photon-stream
+          statistics, e.g., their power spectra or autocorrelations. Such
+          functions  increase  with the square of the intensity, implying
+          an  enormously increased sensitivity at the largest telescopes.
+          QuantEYE  covers  the optical, and its design involves an array
+          of  photon-counting avalanche-diode detectors, each viewing one
+          segment  of  the OWL entrance pupil. QuantEYE will work already
+          with  a  partially  filled  OWL  main  mirror, and also without
+          [full] adaptive optics.
+
+
+  
+astro-ph/0511045 [abs, ps, pdf, other] :
+
+          Title:  First  Determination  of  the  Distance and Fundamental
+          Properties of an Eclipsing Binary in The Andromeda Galaxy
+          Authors:  Ignasi  Ribas  (CSIC,  IEEC,  Spain), Carme Jordi (U.
+          Barcelona,  IEEC,  Spain),  Francesc  Vilardell  (U. Barcelona,
+          Spain),  Edward  L.  Fitzpatrick  (Villanova  U.,  USA)  Ron W.
+          Hilditch  (U. St. Andrews, UK), Edward F. Guinan (Villanova U.,
+          USA)
+          Comments:  6  pages, 2 figures, accepted for publication in ApJ
+          Letters
+          We  present  the  first  detailed spectroscopic and photometric
+          analysis  of an eclipsing binary in the Andromeda Galaxy (M31).
+          This  is  a  19.3-mag  semi-detached  system with components of
+          late-O  and  early-B  spectral types. From the light and radial
+          velocity  curves  we have carried out an accurate determination
+          of  the  masses  and  radii  of the components. Their effective
+          temperatures  have  been  estimated  from  the  modeling of the
+          absorption  line  spectra.  The  analysis yields an essentially
+          complete  picture of the properties of the system, and hence an
+          accurate   distance   determination   to  M31.  The  result  is
+          d=772+/-44   kpc   ((m-M)_0=24.44+/-0.12  mag).  The  study  of
+          additional  systems,  currently  in progress, should reduce the
+          uncertainty in the M31 distance to better than 5%.
+
+
+  
+astro-ph/0508439 [abs, ps, pdf, other] :
+
+          Title:  Evidence for surface cooling emission in the XMM-Newton
+          spectrum of the X-ray pulsar PSR B2334+61
+          Authors:  Katherine  E.  McGowan  (1,2),  Silvia Zane (1), Mark
+          Cropper  (1),  W.  Thomas Vestrand (2), Cheng Ho (2) ((1) MSSL,
+          (2) LANL)
+          Comments: 14 pages, 1 figure, 1 table, accepted for publication
+          in ApJ
+          Note:  replaced  with  revised version Tue, 1 Nov 2005 11:42:19
+          GMT (19kb)
+
+  
+astro-ph/0511067 [abs, ps, pdf, other] :
+
+          Title:  Discovery  and  modelling of disc precession in the M31
+          X-ray binary Bo 158?
+          Authors:  R. Barnard, S.B. Foulkes, C.A. Haswell, U. Kolb, J.P.
+          Osborne, J. R. Murray
+          Comments:  6  pages,  4  figures, to appear in proceedings "The
+          X-ray  Universe  2005",  San  Lorenzo  de El Escoriale (Madrid,
+          Spain), 26-30 September 2005
+          The  low  mass  X-ray  binary  (LMXB)  associated  with the M31
+          globular cluster Bo 158 is known to exhibit intensity dips on a
+          ~2.78 hr period. This is due to obscuration of the X-ray source
+          on  the  orbital  period  by  material on the outer edge of the
+          accretion  disc. However, the depth of dipping varied from <10%
+          to  \~83%  in three archival XMM-Newton observations of Bo 158.
+          Previous  work  suggested that the dip depth was anticorrelated
+          with  the  X-ray  luminosity.  However, we present results from
+          three   new  XMM-Newton  observations  that  suggest  that  the
+          evolution  of  dipping  is  instead  due  to  precession of the
+          accretion  disc.  Such  precession  is expected in neutron star
+          LMXBs  with mass ratios <0.3 (i.e. with orbital periods <4 hr),
+          such as the Galactic dipping LMXB 4U 1916-053. We simulated the
+          accretion  disc  of  Bo  158  using  cutting-edge  3D  smoothed
+          particle   hydrodynamics   (SPH),   and   using   the  observed
+          parameters.   Our   results   show   disc  variability  on  two
+          time-scales.  The  disc  precesses in a prograde direction on a
+          period  of  81+/-3  hr. Also, a radiatively-driven disc warp is
+          present in the inner disc, which undergoes retrograde precesson
+          on a \~31 hr period. From the system geometry, we conclude that
+          the  dipping  evolution is driven by the disc precession. Hence
+          we  predict  that  the  dipping  behaviour  repeats on a ~81 hr
+          cycle.
+
+
+  
+astro-ph/0511068 [abs, ps, pdf, other] :
+
+          Title: Gravitational Radiation from Newborn Magnetars
+          Authors: Luigi Stella, Simone Dall'Oss, GianLuca Israel (INAF -
+          OA Roma), Alberto Vecchio (Univ. Birmingham)
+          Comments: Accepted for publication on ApJ Letters
+          There  is  growing  evidence  that  two  classes of high-energy
+          sources,  the  Soft  Gamma  Repeaters  and  the Anomalous X-ray
+          Pulsars  contain  slowly  spinning  ``magnetars'', i.e. neutron
+          stars  whose  emission is powered by the release of energy from
+          their  extremely strong magnetic fields (>10^15 G. We show here
+          that  the  enormous  energy  liberated  in the 2004 December 27
+          giant  flare  from SGR1806-20 (~5 10^46 erg), together with the
+          likely  recurrence  time  of  such events, requires an internal
+          field  strength  of > 10^16 G. Toroidal magnetic fields of this
+          strength are within an order of magnitude of the maximum fields
+          that  can  be  generated in the core of differentially-rotating
+          neutron  stars  immediately  after  their  formation,  if their
+          initial  spin  period  is  of a few milliseconds. A substantial
+          deformation  of  the  neutron star is induced by these magnetic
+          fields  and,  provided  the deformation axis is offset from the
+          spin axis, a newborn fast-spinning magnetar would radiate for a
+          few  weeks  a strong gravitational wave signal the frequency of
+          which  (0.5-2  kHz  range) decreases in time. The signal from a
+          newborn  magnetar  with  internal  field  >  10^16.5 G could be
+          detected  with Advanced LIGO-class detectors up to the distance
+          of  the  Virgo  cluster  (characteristic  amplitude  h_c  about
+          10^-21).  Magnetars  are  expected  to  form in Virgo at a rate
+          approx.  1/yr.  If  a  fraction of these have sufficiently high
+          internal  magnetic  field,  then newborn magnetars constitute a
+          promising new class of gravitational wave emitters.
+
+
+  
+astro-ph/0511072 [abs, ps, pdf, other] :
+
+          Title:  The  Iron  K-shell  features  of  MXB  1728-34  from  a
+          Simultaneous Chandra-RXTE Observation
+          Authors:  A.  D'  Ai,  T.  Di  Salvo,  R.  Iaria, M. Mendez, L.
+          Burderi,  G.  Lavagetto, W. H.G. Lewin, N. R. Robba, L. Stella,
+          M. van der Klis
+          Comments: 6 pages, 4 figures. Accepted for publication by A&A
+          We report on a simultaneous Chandra and RossiXTE observation of
+          the  low-mass  X-ray  binary  atoll bursting source MXB 1728-34
+          performed  on  2002  March 3-5. We fit the 1.2-35 keV continuum
+          spectrum  with  a blackbody plus a Comptonized component. Large
+          residuals  at  6-10 keV can be fitted by a broad (FWHM ~ 2 keV)
+          Gaussian  emission  line  or,  alternatively, by two absorption
+          edges  associated  with  lowly  ionized iron and Fe XXV/XXVI at
+          ~7.1  keV  and ~9 keV, respectively. In this interpretation, we
+          find  no evidence of broad, or narrow, emission lines between 6
+          and  7  keV.  We  test  our alternative modelling of the iron K
+          shell  region by reanalysing a previous BeppoSAX observation of
+          MXB  1728-34, finding a general agreement with our new spectral
+          model.
+
+
+  
+astro-ph/0511084 [abs, ps, pdf, other] :
+
+          Title:  A  Coherent  Timing  Solution  for  the Nearby Isolated
+          Neutron Star RX J1308.6+2127/RBS 1223
+          Authors: D. L. Kaplan, M. H. van Kerkwijk
+          Comments: 5 pages, 2 figures. ApJL in press
+          We  present  a  phase-connected  timing solution for the nearby
+          isolated   neutron   star  RX  J1308.6+2127  (RBS  1223).  From
+          dedicated  Chandra observations as well as archival Chandra and
+          XMM-Newton data spanning a period of five years, we demonstrate
+          that  the  10.31-sec  pulsations are slowing down steadily at a
+          rate  of  Pdot=1.120(3)e-13 s/s. Under the assumption that this
+          is  due  to  magnetic dipole torques, we infer a characteristic
+          age  of  1.5  Myr and a magnetic field strength of 3.4e13 G. As
+          with  RX  J0720.4-3125,  the  only  other radio-quiet thermally
+          emitting  isolated neutron star for which a timing solution has
+          been  derived,  the  field strength is consistent with what was
+          inferred  earlier  from  the  presence  of  a strong absorption
+          feature  in its X-ray spectrum. Furthermore, both sources share
+          that  the  characteristic  age  is in excess of the cooling age
+          inferred  from  standard  cooling  models.  The sources differ,
+          however,  in  their  timing noise: while RX J0720.4-3125 showed
+          considerable  timing  noise, RX J1308.6+2127 appears relatively
+          stable.
+
+
+  
+Replacements
+
+  
+astro-ph/0511067 [abs, ps, pdf, other] :
+
+          Title:  Discovery  and  modelling of disc precession in the M31
+          X-ray binary Bo 158?
+          Authors:  R. Barnard, S.B. Foulkes, C.A. Haswell, U. Kolb, J.P.
+          Osborne, J. R. Murray
+          Comments:  6  pages,  4  figures, to appear in proceedings "The
+          X-ray  Universe  2005",  San  Lorenzo  de El Escoriale (Madrid,
+          Spain), 26-30 September 2005
+          The  low  mass  X-ray  binary  (LMXB)  associated  with the M31
+          globular cluster Bo 158 is known to exhibit intensity dips on a
+          ~2.78 hr period. This is due to obscuration of the X-ray source
+          on  the  orbital  period  by  material on the outer edge of the
+          accretion  disc. However, the depth of dipping varied from <10%
+          to  \~83%  in three archival XMM-Newton observations of Bo 158.
+          Previous  work  suggested that the dip depth was anticorrelated
+          with  the  X-ray  luminosity.  However, we present results from
+          three   new  XMM-Newton  observations  that  suggest  that  the
+          evolution  of  dipping  is  instead  due  to  precession of the
+          accretion  disc.  Such  precession  is expected in neutron star
+          LMXBs  with mass ratios <0.3 (i.e. with orbital periods <4 hr),
+          such as the Galactic dipping LMXB 4U 1916-053. We simulated the
+          accretion  disc  of  Bo  158  using  cutting-edge  3D  smoothed
+          particle   hydrodynamics   (SPH),   and   using   the  observed
+          parameters.   Our   results   show   disc  variability  on  two
+          time-scales.  The  disc  precesses in a prograde direction on a
+          period  of  81+/-3  hr. Also, a radiatively-driven disc warp is
+          present in the inner disc, which undergoes retrograde precesson
+          on a \~31 hr period. From the system geometry, we conclude that
+          the  dipping  evolution is driven by the disc precession. Hence
+          we  predict  that  the  dipping  behaviour  repeats on a ~81 hr
+          cycle.
+
+
+  
+astro-ph/0511068 [abs, ps, pdf, other] :
+
+          Title: Gravitational Radiation from Newborn Magnetars
+          Authors: Luigi Stella, Simone Dall'Oss, GianLuca Israel (INAF -
+          OA Roma), Alberto Vecchio (Univ. Birmingham)
+          Comments: Accepted for publication on ApJ Letters
+          There  is  growing  evidence  that  two  classes of high-energy
+          sources,  the  Soft  Gamma  Repeaters  and  the Anomalous X-ray
+          Pulsars  contain  slowly  spinning  ``magnetars'', i.e. neutron
+          stars  whose  emission is powered by the release of energy from
+          their  extremely strong magnetic fields (>10^15 G. We show here
+          that  the  enormous  energy  liberated  in the 2004 December 27
+          giant  flare  from SGR1806-20 (~5 10^46 erg), together with the
+          likely  recurrence  time  of  such events, requires an internal
+          field  strength  of > 10^16 G. Toroidal magnetic fields of this
+          strength are within an order of magnitude of the maximum fields
+          that  can  be  generated in the core of differentially-rotating
+          neutron  stars  immediately  after  their  formation,  if their
+          initial  spin  period  is  of a few milliseconds. A substantial
+          deformation  of  the  neutron star is induced by these magnetic
+          fields  and,  provided  the deformation axis is offset from the
+          spin axis, a newborn fast-spinning magnetar would radiate for a
+          few  weeks  a strong gravitational wave signal the frequency of
+          which  (0.5-2  kHz  range) decreases in time. The signal from a
+          newborn  magnetar  with  internal  field  >  10^16.5 G could be
+          detected  with Advanced LIGO-class detectors up to the distance
+          of  the  Virgo  cluster  (characteristic  amplitude  h_c  about
+          10^-21).  Magnetars  are  expected  to  form in Virgo at a rate
+          approx.  1/yr.  If  a  fraction of these have sufficiently high
+          internal  magnetic  field,  then newborn magnetars constitute a
+          promising new class of gravitational wave emitters.
+
+
+  
+astro-ph/0511072 [abs, ps, pdf, other] :
+
+          Title:  The  Iron  K-shell  features  of  MXB  1728-34  from  a
+          Simultaneous Chandra-RXTE Observation
+          Authors:  A.  D'  Ai,  T.  Di  Salvo,  R.  Iaria, M. Mendez, L.
+          Burderi,  G.  Lavagetto, W. H.G. Lewin, N. R. Robba, L. Stella,
+          M. van der Klis
+          Comments: 6 pages, 4 figures. Accepted for publication by A&A
+          We report on a simultaneous Chandra and RossiXTE observation of
+          the  low-mass  X-ray  binary  atoll bursting source MXB 1728-34
+          performed  on  2002  March 3-5. We fit the 1.2-35 keV continuum
+          spectrum  with  a blackbody plus a Comptonized component. Large
+          residuals  at  6-10 keV can be fitted by a broad (FWHM ~ 2 keV)
+          Gaussian  emission  line  or,  alternatively, by two absorption
+          edges  associated  with  lowly  ionized iron and Fe XXV/XXVI at
+          ~7.1  keV  and ~9 keV, respectively. In this interpretation, we
+          find  no evidence of broad, or narrow, emission lines between 6
+          and  7  keV.  We  test  our alternative modelling of the iron K
+          shell  region by reanalysing a previous BeppoSAX observation of
+          MXB  1728-34, finding a general agreement with our new spectral
+          model.
+
+
+  
+astro-ph/0511084 [abs, ps, pdf, other] :
+
+          Title:  A  Coherent  Timing  Solution  for  the Nearby Isolated
+          Neutron Star RX J1308.6+2127/RBS 1223
+          Authors: D. L. Kaplan, M. H. van Kerkwijk
+          Comments: 5 pages, 2 figures. ApJL in press
+          We  present  a  phase-connected  timing solution for the nearby
+          isolated   neutron   star  RX  J1308.6+2127  (RBS  1223).  From
+          dedicated  Chandra observations as well as archival Chandra and
+          XMM-Newton data spanning a period of five years, we demonstrate
+          that  the  10.31-sec  pulsations are slowing down steadily at a
+          rate  of  Pdot=1.120(3)e-13 s/s. Under the assumption that this
+          is  due  to  magnetic dipole torques, we infer a characteristic
+          age  of  1.5  Myr and a magnetic field strength of 3.4e13 G. As
+          with  RX  J0720.4-3125,  the  only  other radio-quiet thermally
+          emitting  isolated neutron star for which a timing solution has
+          been  derived,  the  field strength is consistent with what was
+          inferred  earlier  from  the  presence  of  a strong absorption
+          feature  in its X-ray spectrum. Furthermore, both sources share
+          that  the  characteristic  age  is in excess of the cooling age
+          inferred  from  standard  cooling  models.  The sources differ,
+          however,  in  their  timing noise: while RX J0720.4-3125 showed
+          considerable  timing  noise, RX J1308.6+2127 appears relatively
+          stable.
+
+
+  
+Replacements
+
+  
+astro-ph/0511067 [abs, ps, pdf, other] :
+
+          Title:  Discovery  and  modelling of disc precession in the M31
+          X-ray binary Bo 158?
+          Authors:  R. Barnard, S.B. Foulkes, C.A. Haswell, U. Kolb, J.P.
+          Osborne, J. R. Murray
+          Comments:  6  pages,  4  figures, to appear in proceedings "The
+          X-ray  Universe  2005",  San  Lorenzo  de El Escoriale (Madrid,
+          Spain), 26-30 September 2005
+          The  low  mass  X-ray  binary  (LMXB)  associated  with the M31
+          globular cluster Bo 158 is known to exhibit intensity dips on a
+          ~2.78 hr period. This is due to obscuration of the X-ray source
+          on  the  orbital  period  by  material on the outer edge of the
+          accretion  disc. However, the depth of dipping varied from <10%
+          to  \~83%  in three archival XMM-Newton observations of Bo 158.
+          Previous  work  suggested that the dip depth was anticorrelated
+          with  the  X-ray  luminosity.  However, we present results from
+          three   new  XMM-Newton  observations  that  suggest  that  the
+          evolution  of  dipping  is  instead  due  to  precession of the
+          accretion  disc.  Such  precession  is expected in neutron star
+          LMXBs  with mass ratios <0.3 (i.e. with orbital periods <4 hr),
+          such as the Galactic dipping LMXB 4U 1916-053. We simulated the
+          accretion  disc  of  Bo  158  using  cutting-edge  3D  smoothed
+          particle   hydrodynamics   (SPH),   and   using   the  observed
+          parameters.   Our   results   show   disc  variability  on  two
+          time-scales.  The  disc  precesses in a prograde direction on a
+          period  of  81+/-3  hr. Also, a radiatively-driven disc warp is
+          present in the inner disc, which undergoes retrograde precesson
+          on a \~31 hr period. From the system geometry, we conclude that
+          the  dipping  evolution is driven by the disc precession. Hence
+          we  predict  that  the  dipping  behaviour  repeats on a ~81 hr
+          cycle.
+
+
+  
+astro-ph/0511068 [abs, ps, pdf, other] :
+
+          Title: Gravitational Radiation from Newborn Magnetars
+          Authors: Luigi Stella, Simone Dall'Oss, GianLuca Israel (INAF -
+          OA Roma), Alberto Vecchio (Univ. Birmingham)
+          Comments: Accepted for publication on ApJ Letters
+          There  is  growing  evidence  that  two  classes of high-energy
+          sources,  the  Soft  Gamma  Repeaters  and  the Anomalous X-ray
+          Pulsars  contain  slowly  spinning  ``magnetars'', i.e. neutron
+          stars  whose  emission is powered by the release of energy from
+          their  extremely strong magnetic fields (>10^15 G. We show here
+          that  the  enormous  energy  liberated  in the 2004 December 27
+          giant  flare  from SGR1806-20 (~5 10^46 erg), together with the
+          likely  recurrence  time  of  such events, requires an internal
+          field  strength  of > 10^16 G. Toroidal magnetic fields of this
+          strength are within an order of magnitude of the maximum fields
+          that  can  be  generated in the core of differentially-rotating
+          neutron  stars  immediately  after  their  formation,  if their
+          initial  spin  period  is  of a few milliseconds. A substantial
+          deformation  of  the  neutron star is induced by these magnetic
+          fields  and,  provided  the deformation axis is offset from the
+          spin axis, a newborn fast-spinning magnetar would radiate for a
+          few  weeks  a strong gravitational wave signal the frequency of
+          which  (0.5-2  kHz  range) decreases in time. The signal from a
+          newborn  magnetar  with  internal  field  >  10^16.5 G could be
+          detected  with Advanced LIGO-class detectors up to the distance
+          of  the  Virgo  cluster  (characteristic  amplitude  h_c  about
+          10^-21).  Magnetars  are  expected  to  form in Virgo at a rate
+          approx.  1/yr.  If  a  fraction of these have sufficiently high
+          internal  magnetic  field,  then newborn magnetars constitute a
+          promising new class of gravitational wave emitters.
+
+
+  
+astro-ph/0511072 [abs, ps, pdf, other] :
+
+          Title:  The  Iron  K-shell  features  of  MXB  1728-34  from  a
+          Simultaneous Chandra-RXTE Observation
+          Authors:  A.  D'  Ai,  T.  Di  Salvo,  R.  Iaria, M. Mendez, L.
+          Burderi,  G.  Lavagetto, W. H.G. Lewin, N. R. Robba, L. Stella,
+          M. van der Klis
+          Comments: 6 pages, 4 figures. Accepted for publication by A&A
+          We report on a simultaneous Chandra and RossiXTE observation of
+          the  low-mass  X-ray  binary  atoll bursting source MXB 1728-34
+          performed  on  2002  March 3-5. We fit the 1.2-35 keV continuum
+          spectrum  with  a blackbody plus a Comptonized component. Large
+          residuals  at  6-10 keV can be fitted by a broad (FWHM ~ 2 keV)
+          Gaussian  emission  line  or,  alternatively, by two absorption
+          edges  associated  with  lowly  ionized iron and Fe XXV/XXVI at
+          ~7.1  keV  and ~9 keV, respectively. In this interpretation, we
+          find  no evidence of broad, or narrow, emission lines between 6
+          and  7  keV.  We  test  our alternative modelling of the iron K
+          shell  region by reanalysing a previous BeppoSAX observation of
+          MXB  1728-34, finding a general agreement with our new spectral
+          model.
+
+
+  
+astro-ph/0511084 [abs, ps, pdf, other] :
+
+          Title:  A  Coherent  Timing  Solution  for  the Nearby Isolated
+          Neutron Star RX J1308.6+2127/RBS 1223
+          Authors: D. L. Kaplan, M. H. van Kerkwijk
+          Comments: 5 pages, 2 figures. ApJL in press
+          We  present  a  phase-connected  timing solution for the nearby
+          isolated   neutron   star  RX  J1308.6+2127  (RBS  1223).  From
+          dedicated  Chandra observations as well as archival Chandra and
+          XMM-Newton data spanning a period of five years, we demonstrate
+          that  the  10.31-sec  pulsations are slowing down steadily at a
+          rate  of  Pdot=1.120(3)e-13 s/s. Under the assumption that this
+          is  due  to  magnetic dipole torques, we infer a characteristic
+          age  of  1.5  Myr and a magnetic field strength of 3.4e13 G. As
+          with  RX  J0720.4-3125,  the  only  other radio-quiet thermally
+          emitting  isolated neutron star for which a timing solution has
+          been  derived,  the  field strength is consistent with what was
+          inferred  earlier  from  the  presence  of  a strong absorption
+          feature  in its X-ray spectrum. Furthermore, both sources share
+          that  the  characteristic  age  is in excess of the cooling age
+          inferred  from  standard  cooling  models.  The sources differ,
+          however,  in  their  timing noise: while RX J0720.4-3125 showed
+          considerable  timing  noise, RX J1308.6+2127 appears relatively
+          stable.
+
+
+  
+Cross-listings
+
+  cs.DC/0510094 [abs, ps, pdf, other] :
+
+          Title:  Big  Science  with  a  Small Budget: Non-Embarrassingly
+          Parallel   Applications   in   a   Non-Dedicated   Network   of
+          Workstations
+          Authors: Angel de Vicente, Nayra Rodriguez
+          Comments:  4  pages; to appear in Proceedings of ADASS XV (this
+          http URL)
+          Subj-class: Distributed, Parallel, and Cluster Computing
+          Many  astronomers  and  astrophysicists require large computing
+          resources  for  their  research, which are usually obtained via
+          dedicated  (and  expensive) parallel machines. Depending on the
+          type  of  the problem to be solved, an alternative solution can
+          be  provided  by creating dynamically a computer cluster out of
+          non-dedicated  workstations  using  the  Condor High Throughput
+          Computing  System  and  the Master-Worker (MW) framework. As an
+          example  of this we show in this paper how a radiative transfer
+          application  previously  coded  with  MPI  is solved using this
+          solution without the need for dedicated machines.
+
+
+  
+Replacements
+
+  
+astro-ph/0511094 [abs, ps, pdf, other] :
+
+          Title:  A  Spitzer  Search for Infrared Excesses around Massive
+          Young White Dwarfs
+          Authors: Brad M. S. Hansen, Shri Kulkarni, Sloane Wiktorowicz
+          Comments: 39 pages, 21 figures, 3 tables, 0 carbs. to appear in
+          the Astronomical Journal (Feb 2006)
+          We  examine  14  hot  white dwarfs for signs of infrared excess
+          using  the  Spitzer  Space Telescope. Twelve of the objects are
+          massive white dwarfs which have been suggested to be the result
+          of  binary  mergers. The remaining two objects are undermassive
+          white  dwarfs  which  again may be the result of mergers or the
+          inspiral  of  a substellar companion. In no case do we find any
+          evidence  for  significant infrared excesses out to wavelengths
+          of 8 microns. This places strong constraints on the presence of
+          orbiting  dust  and weaker constraints on the presence of close
+          substellar companions.
+
+
+  
+astro-ph/0511098 [abs, ps, pdf, other] :
+
+          Title: Ground-based Gamma-Ray Observations of Pulsars and their
+          Nebulae: Towards a New Order
+          Authors: O.C. de Jager, C. Venter
+          Comments:  12  pages,  1  figure,  1  table,  to  appear in the
+          proceedings of Cherenkov 2005, Palaiseau, France
+          The  excellent  sensitivity  and  high resolution capability of
+          wide  FoV  ground-based imaging atmospheric Cerenkov telescopes
+          allow  us  for  the  first  time  to  resolve the morphological
+          structures  of  pulsar  wind  nebulae (PWN) which are older and
+          more  extended than the Crab Nebula. VHE gamma-ray observations
+          of such extended nebulae (with field strengths below ~ 20 micro
+          Gauss) probe the electron component corresponding to the unseen
+          extreme ultraviolet (EUV) synchrotron component, which measures
+          electron   injection  from  earlier  evolutionary  epochs.  VHE
+          observations  of  PWN  therefore  introduce a new window on PWN
+          research.  This  review  paper  also  identifies conditions for
+          maximal VHE visbility of PWN. Regarding pulsar pulsed emission,
+          it  is  becoming  clear  that the threshold energies of current
+          telescopes  are  not  sufficient  to probe the pulsed gamma-ray
+          component  from  canonical  pulsars.  Theoretical  estimates of
+          pulsed  gamma-ray  emission  from  millisecond  pulsars seem to
+          converge and it becomes clear that such detections with current
+          3rd  generation  telescopes  will  not  be possible, unless the
+          geometry is favourable.
+
+
+  
+astro-ph/0511106 [abs, ps, pdf, other] :
+
+          Title: Strange Pulsar Hypothesis
+          Authors:  Raka  Dona  Ray Mandal, Monika Sinha, Manjari Bagchi,
+          Sushan Konar, Mira Dey, Jishnu Dey
+          Comments:   4  pages,  1  figure,  uses  LaTeX2e(mn2e.cls)  and
+          astrobib(mnras.bst), accepted in MNRAS
+          It  appears  that  there is a genuine shortage of radio pulsars
+          with  surface  magnetic fields significantly smaller than $\sim
+          10^8$ Gauss. We propose that the pulsars with very low magnetic
+          fields  are actually strange stars locked in a state of minimum
+          free  energy  and therefore at a limiting value of the magnetic
+          field which can not be lowered by the system spontaneously.
+
+
+  
+astro-ph/0511115 [abs, ps, pdf, other] :
+
+          Title:   IGR  J17252-3616:  an  accreting  pulsar  observed  by
+          INTEGRAL and XMM-Newton
+          Authors:  J.A.  Zurita  Heras  (1,2),  G. De Cesare (3,4,5), R.
+          Walter   (1,2),   A.   Bodaghee  (1,2),  G.  Belanger  (8),  T.
+          Courvoisier (1,2), S.E. Shaw (6,1), J.B. Stephen (7) ((1) ISDC,
+          Geneva (2) Geneva Observatory (3) IASF, Roma (4)Dipartimento di
+          Astronomia,  Bologna  (5) CESR, Toulouse (6) U. Southampton (7)
+          IASF, Bologna (8) CEA/Saclay, Paris)
+          Comments:  11  pages,  13  figures, accepted for publication in
+          Astronomy and Astrophysics
+          The  discovery  of the X-ray source IGR J17252-3616 by INTEGRAL
+          was reported on 9 February 2004. Regular monitoring by INTEGRAL
+          shows  that  IGR  J17252-3616 is a persistent hard X-ray source
+          with an average count rate of 0.96 counts/s (~6.4 mCrab) in the
+          20-60 keV energy band. A follow-up observation with XMM-Newton,
+          which was performed on 21 March 21 2004, showed that the source
+          is  located at R.A.(2000.0)=17h25m11.4 and Dec.=-36degr16'58.6"
+          with an uncertainty of 4". The only infra-red counterpart to be
+          found   within   the   XMM-Newton   error   circle   was  2MASS
+          J17251139-3616575, which has a Ks-band magnitude of 10.7 and is
+          located 1" away from the XMM-Newton position.
+          The   analysis   of   the   combined  INTEGRAL  and  XMM-Newton
+          observations  shows  that  the  source is a binary X-ray pulsar
+          with  a  spin  period  of 413.7 s and an orbital period of 9.72
+          days.  The spectrum can be fitted with a flat power law plus an
+          energy cut off (Gamma~0.02,Ecut~8.2 keV) or a Comptonized model
+          (kTe~5.5  keV,  tau~7.8).  The  spectrum also indicates a large
+          hydrogen  column density of Nh~15x1e22 atoms/cm-2 suggesting an
+          intrinsic  absorption. The Fe Kalpha line at 6.4 keV is clearly
+          detected.   Phase-resolved   spectroscopy  does  not  show  any
+          variation  in  the continuum except the total emitted flux. The
+          absorption  is  constant along the pulse phase. This source can
+          be  associated  with  EXO  1722-363 as both systems show common
+          timing and spectral features. The observations suggest that the
+          source   is  a  wind-fed  accreting  pulsar  accompanied  by  a
+          supergiant star.
+
+
+                                
+Cross-listings
+
+  
+Replacements
+
+  
+astro-ph/0511094 [abs, ps, pdf, other] :
+
+          Title:  A  Spitzer  Search for Infrared Excesses around Massive
+          Young White Dwarfs
+          Authors: Brad M. S. Hansen, Shri Kulkarni, Sloane Wiktorowicz
+          Comments: 39 pages, 21 figures, 3 tables, 0 carbs. to appear in
+          the Astronomical Journal (Feb 2006)
+          We  examine  14  hot  white dwarfs for signs of infrared excess
+          using  the  Spitzer  Space Telescope. Twelve of the objects are
+          massive white dwarfs which have been suggested to be the result
+          of  binary  mergers. The remaining two objects are undermassive
+          white  dwarfs  which  again may be the result of mergers or the
+          inspiral  of  a substellar companion. In no case do we find any
+          evidence  for  significant infrared excesses out to wavelengths
+          of 8 microns. This places strong constraints on the presence of
+          orbiting  dust  and weaker constraints on the presence of close
+          substellar companions.
+
+
+  
+astro-ph/0511098 [abs, ps, pdf, other] :
+
+          Title: Ground-based Gamma-Ray Observations of Pulsars and their
+          Nebulae: Towards a New Order
+          Authors: O.C. de Jager, C. Venter
+          Comments:  12  pages,  1  figure,  1  table,  to  appear in the
+          proceedings of Cherenkov 2005, Palaiseau, France
+          The  excellent  sensitivity  and  high resolution capability of
+          wide  FoV  ground-based imaging atmospheric Cerenkov telescopes
+          allow  us  for  the  first  time  to  resolve the morphological
+          structures  of  pulsar  wind  nebulae (PWN) which are older and
+          more  extended than the Crab Nebula. VHE gamma-ray observations
+          of such extended nebulae (with field strengths below ~ 20 micro
+          Gauss) probe the electron component corresponding to the unseen
+          extreme ultraviolet (EUV) synchrotron component, which measures
+          electron   injection  from  earlier  evolutionary  epochs.  VHE
+          observations  of  PWN  therefore  introduce a new window on PWN
+          research.  This  review  paper  also  identifies conditions for
+          maximal VHE visbility of PWN. Regarding pulsar pulsed emission,
+          it  is  becoming  clear  that the threshold energies of current
+          telescopes  are  not  sufficient  to probe the pulsed gamma-ray
+          component  from  canonical  pulsars.  Theoretical  estimates of
+          pulsed  gamma-ray  emission  from  millisecond  pulsars seem to
+          converge and it becomes clear that such detections with current
+          3rd  generation  telescopes  will  not  be possible, unless the
+          geometry is favourable.
+
+
+  
+astro-ph/0511106 [abs, ps, pdf, other] :
+
+          Title: Strange Pulsar Hypothesis
+          Authors:  Raka  Dona  Ray Mandal, Monika Sinha, Manjari Bagchi,
+          Sushan Konar, Mira Dey, Jishnu Dey
+          Comments:   4  pages,  1  figure,  uses  LaTeX2e(mn2e.cls)  and
+          astrobib(mnras.bst), accepted in MNRAS
+          It  appears  that  there is a genuine shortage of radio pulsars
+          with  surface  magnetic fields significantly smaller than $\sim
+          10^8$ Gauss. We propose that the pulsars with very low magnetic
+          fields  are actually strange stars locked in a state of minimum
+          free  energy  and therefore at a limiting value of the magnetic
+          field which can not be lowered by the system spontaneously.
+
+
+  
+astro-ph/0511115 [abs, ps, pdf, other] :
+
+          Title:   IGR  J17252-3616:  an  accreting  pulsar  observed  by
+          INTEGRAL and XMM-Newton
+          Authors:  J.A.  Zurita  Heras  (1,2),  G. De Cesare (3,4,5), R.
+          Walter   (1,2),   A.   Bodaghee  (1,2),  G.  Belanger  (8),  T.
+          Courvoisier (1,2), S.E. Shaw (6,1), J.B. Stephen (7) ((1) ISDC,
+          Geneva (2) Geneva Observatory (3) IASF, Roma (4)Dipartimento di
+          Astronomia,  Bologna  (5) CESR, Toulouse (6) U. Southampton (7)
+          IASF, Bologna (8) CEA/Saclay, Paris)
+          Comments:  11  pages,  13  figures, accepted for publication in
+          Astronomy and Astrophysics
+          The  discovery  of the X-ray source IGR J17252-3616 by INTEGRAL
+          was reported on 9 February 2004. Regular monitoring by INTEGRAL
+          shows  that  IGR  J17252-3616 is a persistent hard X-ray source
+          with an average count rate of 0.96 counts/s (~6.4 mCrab) in the
+          20-60 keV energy band. A follow-up observation with XMM-Newton,
+          which was performed on 21 March 21 2004, showed that the source
+          is  located at R.A.(2000.0)=17h25m11.4 and Dec.=-36degr16'58.6"
+          with an uncertainty of 4". The only infra-red counterpart to be
+          found   within   the   XMM-Newton   error   circle   was  2MASS
+          J17251139-3616575, which has a Ks-band magnitude of 10.7 and is
+          located 1" away from the XMM-Newton position.
+          The   analysis   of   the   combined  INTEGRAL  and  XMM-Newton
+          observations  shows  that  the  source is a binary X-ray pulsar
+          with  a  spin  period  of 413.7 s and an orbital period of 9.72
+          days.  The spectrum can be fitted with a flat power law plus an
+          energy cut off (Gamma~0.02,Ecut~8.2 keV) or a Comptonized model
+          (kTe~5.5  keV,  tau~7.8).  The  spectrum also indicates a large
+          hydrogen  column density of Nh~15x1e22 atoms/cm-2 suggesting an
+          intrinsic  absorption. The Fe Kalpha line at 6.4 keV is clearly
+          detected.   Phase-resolved   spectroscopy  does  not  show  any
+          variation  in  the continuum except the total emitted flux. The
+          absorption  is  constant along the pulse phase. This source can
+          be  associated  with  EXO  1722-363 as both systems show common
+          timing and spectral features. The observations suggest that the
+          source   is  a  wind-fed  accreting  pulsar  accompanied  by  a
+          supergiant star.
+
+
+                                
+Cross-listings
+
+  
+Replacements
+
+  
+astro-ph/0511137 [abs, ps, pdf, other] :
+
+          Title:  Observations of Binary and Single Wolf-Rayet Stars with
+          XMM-Newton and Chandra
+          Authors: S. Skinner, M. Guedel, W. Schmutz, S. Zhekov
+          Comments: To appear in conf. proceedings: Close Binaries in the
+          21st  Century  -  New  Opportunities  and  Challenges,  eds. A.
+          Gimenez,  E.  Guinan,  P. Niarchos, S. Rucinski; Astrophys. and
+          Space Sci. (special issue), 2006. 4 pages, 2 figures
+          We   present  an  overview  of  recent  X-ray  observations  of
+          Wolf-Rayet  (WR)  stars  with XMM-Newton and Chandra. A new XMM
+          spectrum  of  the  nearby  WN8  +  OB  binary WR 147 shows hard
+          absorbed X-ray emission, including the Fe K-alpha line complex,
+          characteristic  of  colliding  wind shock sources. In contrast,
+          sensitive  observations  of four of the closest known single WC
+          (carbon-rich)  WR stars have yielded only non-detections. These
+          results  tentatively  suggest  that  single  WC stars are X-ray
+          quiet.  The  presence  of  a companion may thus be an essential
+          factor  in  elevating  the  X-ray  emission of WC + OB stars to
+          detectable levels.
+
+
+  
+Cross-listings
+
+  
+Replacements
+
+  
+astro-ph/0511142 [abs, ps, pdf, other] :
+
+          Title: Magnetized hypermassive neutron star collapse: a central
+          engine for short gamma-ray bursts
+          Authors:  Masaru Shibata, Matthew D. Duez, Yuk Tung Liu, Stuart
+          L. Shapiro, Branson C. Stephens
+          Comments: 4 pages, 2 figures, submitted to Phys. Rev. Letter
+          A  hypermassive  neutron  star  (HMNS)  is a possible transient
+          formed after the merger of a neutron star binary. In the latest
+          magnetohydrodynamic  simulations in full general relativity, we
+          find  that  a magnetized HMNS undergoes `delayed' collapse to a
+          rotating  black  hole  (BH)  as  a  result  of angular momentum
+          transport   via  magnetic  braking  and  the  magnetorotational
+          instability.  The  outcome is a BH surrounded by a massive, hot
+          torus with a collimated magnetic field. The torus accretes onto
+          the  BH  at a quasi-steady accretion rate ~10 solar mass/s; the
+          lifetime  of  the  torus is ~10 ms. The torus has a temperature
+          \sim   10^{12}  K,  leading  to  copious  neutrino-antineutrino
+          thermal  radiation.  Therefore,  the  collapse  of an HMNS is a
+          promising  scenario  for  generating  short-duration  gamma-ray
+          bursts  and  an  accompanying  burst of gravitational waves and
+          neutrinos.
+
+
+  
+astro-ph/0511171 [abs, ps, pdf, other] :
+
+          Title: The impact of CoRoT on close binary research
+          Authors: Carla Maceroni, Ignasi Ribas
+          Comments:  6  pages, 2 figures, contribution to "Colse binaries
+          in  the  21th  century",  Syros  (Greece),  June  2005.  To  be
+          published by Ap&SS
+          The  space  experiment CoRoT will provide continuous monitoring
+          and  high  accuracy light curves of about sixty thousand stars.
+          Selected  binary  systems  will  be  observed in the Additional
+          Program  frame  as  targets  of  long  and  continuous  pointed
+          observations.   Moreover,   thousands   of  new  binaries  will
+          certainly  be detected and hundreds of them will have extremely
+          accurate  light curves. This will allow studies of fine effects
+          on  the  light  curves,  monitoring of stellar activity and, in
+          combination   with   ground-based  observations,  will  provide
+          exquisite determination of stellar parameters.
+          Among  the  new  discoveries  of interesting systems of special
+          value will be those of low mass binaries.
+
+
+  
+astro-ph/0511172 [abs, ps, pdf, other] :
+
+          Title:  Filling  factors  and  scale  heights of the DIG in the
+          Milky Way
+          Authors:  E.M.  Berkhuijsen (1), D. Mitra (1,2), P. Mueller (1)
+          ((1)  MPI fuer Radioastronomie, Bonn, Germany, (2) now at NCRA,
+          TIFR, Pune, India)
+          Comments: 16 pages, 13 figures. Accepted for publication in AN
+          The  combination  of  dispersion measures of pulsars, distances
+          from the model of Cordes and Lazio (2002) and emission measures
+          from  the  WHAM  survey enabled a statistical study of electron
+          densities  and filling factors of the diffuse ionized gas (DIG)
+          in  the  Milky  Way.  The  emission measures were corrected for
+          absorption  and  contributions from beyond the pulsar distance.
+          For  a sample of 157 pulsars at |b| > 5 degrees, mainly located
+          in  interarm  regions  within about 3 kpc from the Sun, we find
+          that:  (1)  The average volume filling factor along the line of
+          sight is inversely proportional to the mean electron density in
+          clouds. (2) The average volume filling factor increases towards
+          larger  distances from the Galactic plane. (3) The local volume
+          filling  factor may reach a maximum near |z| = 0.9 kpc, whereas
+          the local electron density continues to decrease at higher |z|,
+          thus  causing  the  observed  flattening in the distribution of
+          dispersion  measures  perpendicular  to  the  plane  above this
+          height.  (4)  The  scale  heights  of the electron density, the
+          volume filling factor and the emission measure are the same and
+          in the range 250-500 pc.
+
+
+  
+astro-ph/0511176 [abs, ps, pdf, other] :
+
+          Title: Binaries as astrophysical laboratories: an overview
+          Authors: Carla Maceroni
+          Comments:  13pages, 4 figures. Invited talk at ENEAS-PHD School
+          on Variable Stars. Pecs (Hungary), September 2005
+          The  study  of  binary  stars is worth to undertake not only to
+          learn  more  about the properties of binaries as such, but also
+          because  binaries  are  multi-purpose astrophysical tools. This
+          paper  reviews  some  of  the ways this effective "tool" can be
+          used, focusing on fundamental parameter determination, tests of
+          theoretical models, and the recent contribution of binary stars
+          to  establish  the  distance  to  the  Magellanic  Clouds,  and
+          therefore, the first rungs of the cosmological distance ladder.
+
+
+  
+astro-ph/0511179 [abs, ps, pdf, other] :
+
+          Title:  Minimal  models  of cooling neutron stars with accreted
+          envelopes
+          Authors:  A.D.  Kaminker  (1),  M.E. Gusakov (1), D.G. Yakovlev
+          (1),  O.Y.  Gnedin  (2)  ((1)  Ioffe  Institute, (2) Ohio State
+          University)
+          Comments:  19  pages,  4  figures;  accepted for publication in
+          MNRAS
+          We  study  the "minimal" cooling scenario of superfluid neutron
+          stars  with  nucleon  cores,  where  the direct Urca process is
+          forbidden  and the enhanced cooling is produced by the neutrino
+          emission  due  to  Cooper  pairing  of  neutrons. Extending our
+          previous  consideration  (Gusakov et al. 2004a), we include the
+          effects  of  accreted  envelopes  of  light elements. We employ
+          phenomenological    density-dependent   critical   temperatures
+          T_{cp}(\rho)  and  T_{cnt}(\rho)  of  singlet-state  proton and
+          triplet-state neutron pairing in a stellar core, as well as the
+          critical  temperature  T_{cns}(\rho)  of  singlet-state neutron
+          pairing  in  a  stellar  crust.  We  show  that the presence of
+          accreted    envelopes    simplifies   the   interpretation   of
+          observations  of  thermal radiation from isolated neutron stars
+          in  the scenario of Gusakov et al. (2004a) and widens the class
+          of  models  for nucleon superfluidity in neutron star interiors
+          consistent with the observations.
+
+
+  
+astro-ph/0511182 [abs, ps, pdf, other] :
+
+          Title: Unveiling the nature of INTEGRAL objects through optical
+          spectroscopy. II. The nature of four unidentified sources
+          Authors:  N.  Masetti,  E.  Mason,  L.  Bassani,  A.J. Bird, E.
+          Maiorano,  A.  Malizia,  E.  Palazzi, J.B. Stephen, A. Bazzano,
+          A.J. Dean, P. Ubertini, R. Walter
+          Comments:   10   pages,  2  figures,  2  tables,  accepted  for
+          publication  on  A&A,  main  journal. The quality of Fig. 1 was
+          degraded to fit the arXiv uploads size limits
+          We  present  the  results  of  our  optical  spectrophotometric
+          campaign  ongoing at the Astronomical Observatory of Bologna in
+          Loiano  (Italy)  on hard X-ray sources detected by INTEGRAL. We
+          observed spectroscopically the putative optical counterparts of
+          four  more  INTEGRAL sources, IGR J12391-1610, IGR J18406-0539,
+          2E  1853.7+1534 and IGR J19473+4452. These data have allowed us
+          to  determine their nature, finding that IGR J12391-1610 (=LEDA
+          170194) and IGR J19473+4452 are Seyfert 2 galaxies at redshifts
+          z  =  0.036  and  z = 0.053, respectively, IGR J18406-0539 (=SS
+          406) is a Be massive X-ray binary located at about 1.1 kpc from
+          Earth,  and  2E 1853.7+1534 is a Type 1 Seyfert galaxy with z =
+          0.084. Physical parameters for these objects are also evaluated
+          by  collecting  and  discussing  the  available multiwavelength
+          information. The determination of the extragalactic nature of a
+          substantial  fraction  of  sources  inside the INTEGRAL surveys
+          underlines  the  importance  of hard X-ray observations for the
+          study  of  background Active Galactic Nuclei located beyond the
+          `Zone of Avoidance' of the Galactic Plane.
+
+
+  
+astro-ph/0511185 [abs, ps, pdf, other] :
+
+          Title:  On  the  complex  X-ray structure tracing the motion of
+          Geminga
+          Authors:  A.  De Luca, P.A. Caraveo, F. Mattana, A. Pellizzoni,
+          G.F. Bignami
+          Comments: 5 pages, accepted for publication in A&A Letters
+          A deep (100 ks) XMM-Newton observation of Geminga has shown two
+          faint tails of diffuse X-ray emission, extending for ~2' behind
+          the pulsar, well aligned with the proper motion (PM) direction.
+          We  report  here  on a recent ~20 ks Chandra observation, which
+          unveils a new structure, ~25'' long and ~5'' thick, starting at
+          the   pulsar   position  and  perfectly  aligned  with  the  PM
+          direction, with a surface brightness ~40 times higher than that
+          of  the  XMM  Tails.  The  Chandra  comet-like  feature  has  a
+          remarkably   hard   spectrum   (photon  index  0.9-1.4)  and  a
+          luminosity of ~5.5x10^28 erg s^-1, comparable to the energetics
+          of  the  larger XMM one. Geminga is thus the first neutron star
+          to  show  a  clear  X-ray  evidence  of  a  large-scale,  outer
+          bow-shock as well as a short, inner cometary trail.
+
+
+  
+astro-ph/0511187 [abs, ps, pdf, other] :
+
+          Title: Supernovae astrophysics from Middle Age documents
+          Authors: Francesco Polcaro, Andrea Martocchia
+          Comments:  in:  Proc. of the IAU Symposium no.230, "Populations
+          of  High Energy Sources in Galaxies", held in Dublin (Ireland),
+          August  15-19,  2005.  Evert J.A. Meurs & G. Fabbiano, eds. (in
+          press)
+          The  supernova  explosion of 1054 AD, which originated the Crab
+          Nebula and Pulsar, is probably the astronomical event which has
+          been  most  deeply  studied  by  means  of  historical sources.
+          However,  many  mysteries  and  inconsistencies, both among the
+          different sources and between what is deduced by the historical
+          records  and  the  present day astronomical data, are demanding
+          extraordinary  efforts  by theoretical astrophysicists in order
+          to  put  all  the  data  in a meaningful framework. An accurate
+          analysis  of  the  historical  sources,  like  the  one  we are
+          presenting   here,  may  contribute  to  solve  some  of  these
+          problems.
+
+
+  
+astro-ph/0511193 [abs, ps, pdf, other] :
+
+          Title:  Binaries  Like  to  be  Twins:  Implications for Doubly
+          Degenerate   Binaries,   the   Supernova   Ia  Rate  and  Other
+          Interacting Binaries
+          Authors: M. H. Pinsonneault, K. Z. Stanek
+          Comments: 14 pages, 2 figures, ApJL, submitted
+          The  recent  sample  of  21  detached eclipsing binaries in the
+          Small  Magellanic  Cloud  (Harries et al. 2003, Hilditch et al.
+          2005)  provides a valuable test of the binary mass function for
+          massive  stars.  We  show  that  50%  of detached binaries have
+          companions  with  very  similar masses, q=M_2/M_1 > 0.87, where
+          M_1,  M_2 denote the masses of the two binary components, M_1 >
+          M_2.  A  Salpeter  relative  mass function for the secondary is
+          very  strongly excluded, and the data is consistent with a flat
+          mass  function  containing  55%  of  the systems and a ``twin''
+          population with q>0.95 containing the remainder. We also survey
+          the  vast  existing  literature  discussing  the  mass ratio in
+          binaries  and  conclude  that a significant twin population (of
+          more  than  20-25%)  exists  in  binaries  that  are  likely to
+          interact   across   a   broad   range  of  stellar  masses  and
+          metallicity.  Interactions  involving  nearly  equal mass stars
+          have distinctly different properties than those involving stars
+          of  unequal  mass;  the secondaries will tend to be evolved and
+          the  common  envelope evolution is qualitatively different. The
+          implications  of such a population for both binary interactions
+          and  star  formation  are  substantial,  and  we  present  some
+          examples.  We  argue  that  twin  systems may provide a natural
+          stellar  population  to  explain  the  recently proposed prompt
+          channel  for  type Ia SN, and the presence of a twin population
+          dramatically  reduces  the  maximum  inferred NS+BH merger rate
+          relative  to the NS+NS merger rate. Twins may also be important
+          for  understanding  the  tendency  of  WD and NS binaries to be
+          nearly  equal  in  mass,  and  inclusion of twins in population
+          studies will boost the blue straggler production rate.
+
+
+  
+astro-ph/0511194 [abs, ps, pdf, other] :
+
+          Title: Nucleosynthesis in Early Supernova Winds II: The Role of
+          Neutrinos
+          Authors:  J. Pruet, R.D. Hoffman, S.E. Woosley, H.-T. Janka, R.
+          Buras
+          One of the outstanding unsolved riddles of nuclear astrophysics
+          is the origin of the so called ``p-process'' nuclei from A = 92
+          to  126.  Both  the  lighter  and  heavier p-process nuclei are
+          adequately  produced  in the neon and oxygen shells of ordinary
+          Type  II  supernovae,  but  the  origin  of  these intermediate
+          isotopes,   especially  92,94Mo  and  96,98Ru,  has  long  been
+          mysterious.  Here  we explore the production of these nuclei in
+          the neutrino-driven wind from a young neutron star. We consider
+          such  early  times that the wind still contains a proton excess
+          because  the  rates for electron neutrino and positron captures
+          on  neutrons  are faster than those for the inverse captures on
+          protons.  Following  a  suggestion  by Frohlich et al. 2005, we
+          also  include the possibility that, in addition to the protons,
+          alpha-particles,  and  heavy  seed, a small flux of neutrons is
+          maintained  by  the  reaction  p(bar(nu_e),e+)n.  This  flux of
+          neutrons  is critical in bridging the long waiting points along
+          the  path  of  the rp-process by (n,p) and (n,gamma) reactions.
+          Using   the   unmodified   ejecta   histories   from  a  recent
+          two-dimensional  supernova  model by Janka et al. 2003, we find
+          synthesis of p-rich nuclei up to 102Pd. However, if the entropy
+          of  these ejecta is increased by a factor of two, the synthesis
+          extends to 120Te. Still larger increases in entropy, that might
+          reflect the role of magnetic fields or vibrational energy input
+          neglected in the hydrodynamical model, result in the production
+          of  numerous r-, s-, and p-process nuclei up to A approximately
+          170, even in winds that are proton-rich.
+
+
+  
+Cross-listings
+
+  
+gr-qc/0511019 [abs, ps, pdf, other] :
+
+          Title:  Formalism for Testing Theories of Gravity Using Lensing
+          by Compact Objects. I: Static, Spherically Symmetric Case
+          Authors: Charles R. Keeton (Rutgers), A. O. Petters (Duke)
+          Comments: accepted in PRD
+          We  are  developing a general, unified, and rigorous analytical
+          framework for using gravitational lensing by compact objects to
+          test  different  theories of gravity beyond the weak-deflection
+          limit.  In  this  paper  we present the formalism for computing
+          corrections  to  lensing  observables  for  static, spherically
+          symmetric  gravity  theories  in  which  the corrections to the
+          weak-deflection limit can be expanded as a Taylor series in one
+          parameter,  namely the gravitational radius of the lens object.
+          We  take  care to derive coordinate-independent expressions and
+          compute  quantities  that  are  directly observable. We compute
+          first-  and  second-order  corrections  to the image positions,
+          magnifications,  and  time  delays. Interestingly, we find that
+          the  first-order  corrections  to  the  total magnification and
+          centroid  position  vanish  in  all gravity theories that agree
+          with  general relativity in the weak-deflection limit, but they
+          can  remain  nonzero in modified theories that disagree with GR
+          in the weak-deflection limit. For the Reissner-Nordstrom metric
+          and   a  related  metric  from  heterotic  string  theory,  our
+          formalism  reveals  an  intriguing  connection  between lensing
+          observables  and  the condition for having a naked singularity,
+          which  could  provide  an  observational method for testing the
+          existence  of  such  objects.  We  apply  our  formalism to the
+          Galactic  black  hole  and  predict that the corrections to the
+          image  positions are at the level of 10 micro-arcseconds, while
+          the  correction  to  the  time  delay  is a few hundredths of a
+          second. These corrections would be measurable today if a pulsar
+          were  found  to  be lensed by the Galactic black hole; and they
+          should be readily detectable with planned missions like MAXIM.
+
+
+  
+Replacements
+
+  
+astro-ph/0509484 [abs, ps, pdf, other] :
+
+          Title:  Neutron  Star  Kicks  in  Isolated  and Binary Pulsars:
+          Observational Constraints and Implications for Kick Mechanisms
+          Authors: Chen Wang, Dong Lai, JinLin Han
+          Comments: 30 pages, 2 figures, accepted for publication by ApJ
+          Note:  replaced  with  revised version Sun, 6 Nov 2005 09:39:25
+          GMT (36kb)
+
+  
+astro-ph/0511204 [abs, ps, pdf, other] :
+
+          Title: Polarimetry of binary stars
+          Authors: N. Manset
+          Comments:  12  pages,  no  figures,  invited review, conference
+          proceedings, in press
+          Astronomical  polarimetry  is  a  powerful  technique  that can
+          provide  physical information sometimes difficult or impossible
+          to  obtain by any other type of observation. Almost every class
+          of  binary  star  can  benefit  from polarimetric observations:
+          pre-main-sequence   objects,   close   or   contact   binaries,
+          mass-transfer systems, evolved binaries, cataclysmic variables,
+          eclipsing binaries, etc. In these systems, polarimetry can help
+          determine  the  geometry  of  the circumstellar or circumbinary
+          matter  distribution,  yield  information  on  asymmetries  and
+          anisotropies,  identify obscured sources, map starspots, detect
+          magnetic fields, and establish orbital parameters, to name just
+          a few examples. The orbital inclination in particular is a very
+          important  piece  of information for a binary system because it
+          can  lead  to  the determination of the components' masses, the
+          fundamental   parameter   that   determines  a  star's  initial
+          structure and subsequent evolution. This review will illustrate
+          the  usefulness  of  polarimetric  techniques  for the study of
+          binary  stars,  with examples of results obtained for a variety
+          of  binary  systems, and an overview of models, including those
+          used to retrieve the orbital inclination.
+
+
+  
+astro-ph/0511207 [abs, ps, pdf, other] :
+
+          Title:  A  spectroscopic  study  of  southern (candidate) gamma
+          Doradus stars. I. Time series analysis
+          Authors: P. De Cat (1,2), L. Eyer (3), J. Cuypers (1), C. Aerts
+          (2,4), B. Vandenbussche (2), K. Uytterhoeven (2,5), K. Reyniers
+          (2),  K.  Kolenberg (2,6), M. Groenewegen (2), G. Raskin (2,7),
+          T. Maas (2), S. Jankov (8,9) ((1) Royal Observatory of Belgium,
+          (2) Katholieke Universiteit Leuven, (3) Observatoire de Geneve,
+          (4)  Radboud  University  Nijmegen,  (5)  University of Central
+          Lancashire,  (6)  Universitat Wien, (7) Mercator telescope, (8)
+          Observatoire   de   la   Cote  d'Azur,  (9)  Laboratoire  Univ.
+          d'Astroph. de Nice)
+          Comments:  13  pages  (+  10  pages  online material), 10 (+16)
+          figures. Accepted for publication by A&A
+          We  present  results  of  a  spectroscopic study of 37 southern
+          (candidate)  gamma  Doradus stars based on echelle spectra. The
+          observed   spectra  were  cross-correlated  with  the  standard
+          template spectrum of an F0-type star for an easier detection of
+          binary  and  intrinsic  variations. We identified 15 objects as
+          spectroscopic  binaries,  including  7  new ones, and another 3
+          objects are binary suspects. At least 12 objects show composite
+          spectra.  We  could  determine  the  orbital  parameters  for 9
+          binaries,  of which 4 turn out to be ellipsoidal variables. For
+          6  binaries, we estimated the expected time-base of the orbital
+          variations.  Clear  profile  variations  are  observed  for  17
+          objects,  pointing towards stellar pulsation. For 8 of them, we
+          have  evidence  that  the  main  spectroscopic  and photometric
+          periods  coincide.  Our  results,  in  combination  with  prior
+          knowledge from the literature, lead to the classification of 10
+          objects  as  new bona-fide gamma Doradus stars, 1 object as new
+          bona-fide  delta  Scuti  star, and 8 objects as constant stars.
+          Finally,  we  determined the projected rotational velocity with
+          two  independent methods. The resulting vsini values range from
+          3  to  135  km/s.  For  the  bona-fide gamma Doradus stars, the
+          majority has vsini below 60 km/s.
+
+
+  
+astro-ph/0511213 [abs, pdf] :
+
+          Title:  On the Question of the Behavior of O-C Residuals of the
+          Active Algol-Like Binary RZ Cassiopeiae
+          Authors: Alex Golovin, Elena Pavlenko
+          Comments: Accepted to JAAVSO vol. 34
+          We  present  an analysis of the RZ Cassiopeia O-C diagram for a
+          30-year  period,  based on data published by the AAVSO. The new
+          parabolic   light-elements   are   determined   and  P-dot  was
+          estimated. This enabled us to establish the value of M-dot, the
+          rate  of the mass transfer between components of this eclipsing
+          binary.  Deviations from the parabola in the RZ Cas O-C diagram
+          have  a  wavelike trend. The pulsation of the primary component
+          influences  the scatter of O-C points, as well as it influences
+          the  shape  of  the  eclipse.  Some physical points on such O-C
+          behavior are presented.
+
+
+  
+astro-ph/0511224 [abs, ps, pdf, other] :
+
+          Title: Nearby young single black holes
+          Authors:  M.E.  Prokhorov  (1),  S.B.  Popov (1) (1 - Sternberg
+          Astronomical Institute)
+          Comments: 14 pages with 7 figures
+          Journal-ref:  Astronomy Letters (2002) 28, 536; PAZh (2002) 28,
+          609
+          We  consider  nearby  young  black holes formed after supernova
+          explosions  in  close  binaries  whose secondary components are
+          currently  observed  as the so-called runaway stars. Using data
+          on  runaway  stars  and making reasonable assumptions about the
+          mechanisms  of  supernova  explosions  and  binary  breakup, we
+          estimate  the present position of nearby young black holes. For
+          two  objects, we obtained relatively small error regions ($\sim
+          50$-100  deg$^2$).  The  possibility  of detecting these nearby
+          young black holes is discussed.
+
+
+  
+astro-ph/0511237 [abs, ps, pdf, other] :
+
+          Title:  V0332+53  in  the  outburst  of  2004--2005: luminosity
+          dependence of the cyclotron line and pulse profile
+          Authors:  S.  S.  Tsygankov (1,2), A. A. Lutovinov (1,2), E. M.
+          Churazov  (1,2),  R.  A.  Sunyaev  (1,2)  (1  -  Space Research
+          Institute   (Moscow,  Russia);  2  -  Max-Plank  Institute  for
+          Astrophysics (Garching, Germany))
+          Comments: submitted to MNRAS, 10 pages, 8 figures
+          We  present  results  of  observations  of  the transient X-ray
+          pulsar  V0332+53  performed  during a very powerful outburst in
+          Dec, 2004 -- Feb, 2005 with the INTEGRAL and RXTE observatories
+          in  a  wide  (3-100  keV)  energy  band.  A cyclotron resonance
+          scattering  line  at  an energy of ~26 keV has been detected in
+          the  source  spectrum together with its two higher harmonics at
+          ~50  and  ~73 keV, respectively. We show that the energy of the
+          line  is  not  constant  but  linearly  changes with the source
+          luminosity.  Strong  pulse  profile variations, especially near
+          the  cyclotron  line,  are revealed for different levels of the
+          source  intensity.  We discuss the obtained results in terms of
+          the theoretical models of X-ray pulsars.
+
+
+  
+Cross-listings
+
+  
+Replacements
+
+  
+astro-ph/0503259 [abs, ps, pdf, other] :
+
+          Title:  Discovery  of  disc precession in the M31 dipping X-ray
+          binary Bo 158
+          Authors:  R. Barnard, S. B. Foulkes, C. A. Haswell, U. Kolb, J.
+          P. Osborne, J. R. Murray
+          Comments:  9  pages,  6  figures,  accepted  for publication by
+          MNRAS, changed content
+          Note:  replaced  with  revised version Tue, 8 Nov 2005 15:26:58
+          GMT (453kb)
+
+  
+astro-ph/0511239 [abs, ps, pdf, other] :
+
+          Title: The BATSE-Swift luminosity and redshift distributions of
+          short-duration GRBs
+          Authors: Dafne Guetta, Tsvi Piran
+          We  compare  the luminosity function and rate inferred from the
+          BATSE  short hard bursts (SHBs) peak flux distribution with the
+          redshift  and  luminosity  distributions  of  SHBs  observed by
+          Swift/HETE   II.   While   the  Swift/HETE  II  SHB  sample  is
+          incompatible   with   SHB  population  that  follows  the  star
+          formation rate, it is compatible with a SHB rate that reflect a
+          distribution  of  delay  times after the SFR. This would be the
+          case  if  SHBs are associated with binary neutron star mergers.
+          The  available data allows, however, different interpretations.
+          For  example,  a  population  whose  rate is independent of the
+          redshift fits the data very well. The implied SHB rates that we
+          find range from $\sim 8$ to $\sim
+          30h_{70}^3$Gpc$^{-3}$yr$^{-1}$. This is a much higher rate than
+          what  was previously estimated. A detailed (2 dimensional) look
+          at the best fit models shows, however, some discrepancy between
+          the four Swift/HETE II SHBs and the models based on BATSE SHBs.
+          This  could  be  a  statistical fluke. It could also arise from
+          wrong  estimates  of  the triggering criteria or from selection
+          effects.  If  real  it  may  indicate  the existence of two SHB
+          populations  with  different  luminosity functions and redshift
+          distributions.
+
+
+  
+astro-ph/0511242 [abs, ps, pdf, other] :
+
+          Title:  Three-Body  Kick  to  a Bright Quasar out of Its Galaxy
+          During a Merger
+          Authors: Loren Hoffman, Abraham Loeb (Harvard U.)
+          Comments: 13 pages, 2 figures, submitted to Nature
+          The  quasar HE0450-2958 was recently discovered to reside ~7kpc
+          away  from  a  galaxy  that  was  likely  disturbed by a recent
+          merger.  The  lack  of  a  massive spheroid of stars around the
+          quasar  raised  the unlikely suggestion that it may have formed
+          in  a  dark galaxy. Here we explain this discovery as a natural
+          consequence  of  a  dynamical kick imparted to the quasar as it
+          interacted  with  a  binary  black  hole system during a galaxy
+          merger  event.  The  typical stalling radius (~1pc) for a ~10^9
+          solar  mass binary provides a kick of order the escape velocity
+          of  the stellar spheroid, bringing the quasar out to around the
+          observed radius before it turns around. This is consistent with
+          the  observed  low relative velocity between the quasar and the
+          merger-remnant  galaxy.  The  gas  carried  with the black hole
+          throughout  the three-body interaction fuels the quasar for the
+          duration of its journey, ~2x10^7 years. Gravitational radiation
+          recoil could not have produced the required kick.
+
+
+  
+astro-ph/0511245 [abs, ps, pdf, other] :
+
+          Title:  Possible  evidence  for  the ejection of a supermassive
+          black hole from an ongoing merger of galaxies
+          Authors:  Martin  G.  Haehnelt  (IoA), Melvyn B. Davies (Lund),
+          Martin J. Rees (IoA)
+          Comments: 4 pages, LaTeX, no figures; MNRAS in press
+          Attempts  of  Magain  et al (2005) to detect the host galaxy of
+          the  bright  QSO  HE0450--2958  have  not  been  successful. We
+          suggest  that  the supermassive black hole powering the QSO was
+          ejected from the observed ULIRG at the same redshift and at 1.5
+          arcsec distance. Ejection could have either be caused by recoil
+          due  to gravitational wave emission from a coalescing binary of
+          supermassive  black  holes  or  the  gravitational slingshot of
+          three or more supermassive black holes in the ongoing merger of
+          galaxies  which  triggered the starburst activity in the ULIRG.
+          We  discuss implications for the possible hierarchical build-up
+          of  supermassive  black  holes from intermediate and/or stellar
+          mass   black   holes,  and  for  the  detection  of  coalescing
+          supermassive binary black holes by LISA.
+
+
+  
+astro-ph/0511246 [abs, ps, pdf, other] :
+
+          Title:  Rotational  Broadening of Atomic Spectral Features from
+          Neutron Stars
+          Authors: P. Chang, S. Morsink, L. Bildsten, I. Wasserman
+          Comments: 4 pages, 4 figures, to appear in ApJ Letters
+          The  discovery of the first gravitationally redshifted spectral
+          line from a neutron star (NS) by Cottam, Paerels and Mendez has
+          triggered  theoretical  studies  of  the physics of atomic line
+          formation  in  NS  atmospheres.  Chang,  Bildsten and Wasserman
+          showed  that  the hydrogenic Fe H$\alpha$ line formed above the
+          photosphere  of  a  bursting  NS is intrinsically broad. We now
+          include  rotational  broadening  within  general relativity and
+          compare  the  resulting  profile to that observed during Type I
+          bursts  from  EXO  0748-676.  We  show  that the fine structure
+          splitting  of the line precludes a meaningful constraint on the
+          radius.  Our  fitting of the data show that the line forming Fe
+          column    is    ${\rm    log}_{10}    (N_{\rm   Fe,   n=2}/{\rm
+          cm^{-2}})=17.9_{-0.42}^{+0.27}$ and gravitational redshift $1+z
+          =1.345_{-0.008}^{+0.005}$ with 95% confidence. We calculate the
+          detectability  of  this  spectral  feature for a large range of
+          spins  and  inclinations  assuming that the emission comes from
+          the  entire  surface.  We find that at 300 (600) Hz only 10-20%
+          (5-10%)  of  NSs  would  have spectral features as deep as that
+          seen in EXO 0748-676.
+
+
+  
+astro-ph/0511247 [abs, ps, pdf, other] :
+
+          Title:  Exposing  the Nuclear Burning Ashes of Radius Expansion
+          Type I X-ray Bursts
+          Authors:  Nevin  N.  Weinberg  (Caltech,  KITP),  Lars Bildsten
+          (KITP, UCSB), Hendrik Schatz (MSU, JINA)
+          Comments: 15 pages, 15 figures (emulateapj), accepted to ApJ
+          We  solve  for  the  evolution  of  the  vertical extent of the
+          convective  region of a neutron star atmosphere during a Type I
+          X-ray  burst. The convective region is well-mixed with ashes of
+          nuclear  burning and its extent determines the rise time of the
+          burst  light  curve.  Using a full nuclear reaction network, we
+          show  that the maximum vertical extent of the convective region
+          during   photospheric  radius  expansion  (RE)  bursts  can  be
+          sufficiently  great that: (1) some ashes of burning are ejected
+          by  the radiation driven wind during the RE phase and, (2) some
+          ashes  of  burning  are  exposed  at  the  neutron star surface
+          following the RE phase. We find that ashes with mass number A ~
+          30  -  60  are mixed in with the ejected material. We calculate
+          the  expected  column  density  of ejected and surface ashes in
+          hydrogen-like states and determine the equivalent widths of the
+          resulting  photoionization edges from both the wind and neutron
+          star  surface.  We  find  that  these can exceed 100 eV and are
+          potentially  detectable.  A  detection  would probe the nuclear
+          burning processes and might enable a measurement of the neutron
+          star  gravitational  redshift.  In  addition,  we  find that in
+          bursts with pure helium burning layers, protons from (alpha, p)
+          reactions  cause  a  rapid onset of the 12C(p, gamma)13N(alpha,
+          p)16O  reaction  sequence. The sequence bypasses the relatively
+          slow  12C(alpha, gamma)16O reaction and leads to a sudden surge
+          in  energy production that is directly observable as a rapid (~
+          ms) increase in flux during burst rise.
+
+
+  
+astro-ph/0511254 [abs, ps, pdf, other] :
+
+          Title: The Local Rate and the Progenitor Lifetime of Short-Hard
+          Gamma-Ray Bursts: Synthesis and Predictions for LIGO
+          Authors: Ehud Nakar, Avishay Gal-Yam, Derek B. Fox
+          The  properties  of the short-hard gamma-ray bursts (SHBs) with
+          known  host-galaxies  suggest  that  these events result from a
+          long-lived progenitor system. The most popular progenitor model
+          of  SHBs invokes the merger of either double neutron star (DNS)
+          binaries  or  neutron  star-black  hole  (NS-BH)  systems. Such
+          events  produce  strong  gravitational waves (GWs) at frequency
+          range   that  is  accessible  to  current  and  next-generation
+          ground-based  GW  observatories.  In  this  work we combine the
+          census of SHB observations with refined theoretical analysis to
+          critically  evaluate  the  compact  binary progenitor model. We
+          then explore the implications for GW detection of these events.
+          Beginning  from the measured star-formation rate through cosmic
+          time,  we  consider  what  intrinsic  luminosity  and  lifetime
+          distributions  can  reproduce  both the known SHB redshifts and
+          luminosities, and the peak flux distribution of the large BATSE
+          SHB  sample.  We  find  that (1) Short progenitor lifetimes, <3
+          Gyr,  are ruled out, and lifetimes of about 6 Gyr favored. This
+          result  is  difficult to reconcile with the observed properties
+          of  the  DNS  population  in  our  galaxy. We show that for DNS
+          systems to remain viable SHB progenitors, a large population of
+          old  undetectable  NS  binaries must be postulated. (2) We find
+          that  the  local  rate  of SHBs is at least 10 Gpc^-3 yr^-1 and
+          likely as high as 10^5 Gpc^-3 yr-1, significantly above earlier
+          estimates.  (3)  We find that assuming that SHBs do result from
+          compact   binaries,  either  through  the  old  DNS  population
+          mentioned   above   or   from   NS-BH  mergers,  our  resulting
+          predictions  for the LIGO event rate are extremely encouraging:
+          several   detections   per  year  may  be  expected  at  design
+          sensitivity,   and   the   first   coincident   observation  of
+          electromagnetic  and  gravitational  radiation  from an SHB may
+          well be made with current facilities.
+
+
+  
+astro-ph/0511258 [abs, ps, pdf, other] :
+
+          Title: Binary and Millisecond Pulsars
+          Authors: D.R. Lorimer
+          Comments:  77 pages, 30 figures, available on-line at this http
+          URL
+          Journal-ref: Living Rev. Relativity 8, (2005), 7
+          We review the main properties, demographics and applications of
+          binary  and  millisecond  radio pulsars. Our knowledge of these
+          exciting  objects has greatly increased in recent years, mainly
+          due  to  successful surveys which have brought the known pulsar
+          population   to   over  1700.  There  are  now  80  binary  and
+          millisecond pulsars associated with the disk of our Galaxy, and
+          a  further 103 pulsars in 24 of the Galactic globular clusters.
+          Recent  highlights  have  been  the discovery of the first ever
+          double  pulsar  system  and  a  recent flurry of discoveries in
+          globular clusters, in particular Terzan 5.
+
+
+  
+astro-ph/0511264 [abs, ps, pdf, other] :
+
+          Title:  Astrometric  Light-Travel  Time signature of sources in
+          nonlinear motion
+          Authors: Guillem Anglada, Jordi Torra
+          Comments: 10 pages, 2 figures
+          Context:Very  precise  planned  space  astrometric missions and
+          recent  improvements on imaging capabilities require a detailed
+          review of the assumptions of classical astrometric modeling.
+          Aims:We  show that Light-Travel Time must be taken into account
+          to  model  the  kinematics of astronomical objects in nonlinear
+          motion, even at stellar distances.
+          Methods:A closed expression to include Light-Travel Time in the
+          actual  astrometric  models  with nonlinear motion is provided.
+          Using   a   perturbative   approach   the   expression  of  the
+          Light-Travel  Time signature is derived. We propose a practical
+          form  of the astrometric modelling to be applied in astrometric
+          data reduction of sources at stellar distances($d>1 pc$).
+          Results  :We  show  that  the  Light-Travel  Time  signature is
+          relevant  at  $\muas$  accuracy (or even at $mas$) depending on
+          the  time  span of the astrometric measurements. We explain how
+          information  about  the  radial  motion  of  a  source  can  be
+          obtained. Some estimative numbers are provided for known nearby
+          binary systems
+          Conclusions  :In the light of the obtained results, it is clear
+          that  this  effect  must be taken into account to interpret any
+          kind   of  precise  astrometric  measurements.  The  effect  is
+          particularly  interesting  in  measurements  performed  by  the
+          planned   astrometric   space  missions  (GAIA,  SIM,  JASMINE,
+          TPF/DARWIN).  Finally  an  objective  criterion  is provided to
+          quickly  evaluate  whether  the  Light-Travel  Time modeling is
+          required for a given source or system.
+
+
+  
+astro-ph/0511270 [abs, ps, pdf, other] :
+
+          Title: Observation of V0332+53 over the 2004/2005 outburst with
+          Integral
+          Authors:  I. Kreykenbohm, N. Mowlavi, K. Pottschmidt, J. Wilms,
+          S.  E.  Shaw,  R.  E.  Rothschild,  N.  Produit,  W. Coburn, P.
+          Kretschmar, A. Santangelo, R. Staubert
+          Comments:  2  pages, 2 figures. To appear in the proceedings of
+          "The  X-ray Universe 2005", San Lorenzo de El Escorial (Spain),
+          26-30   September   2005,   from  a  detailed  paper  (Mowlavi,
+          Kreykenbohm, Shaw et al) submitted to A&A in September 2005
+          We  present the spectral and temporal analysis of the 2004/2005
+          outburst  of  the  transient  X-ray pulsar V0332+53 as observed
+          with  Integral. After the discovery of the third cyclotron line
+          in  phase averaged spectra (Kreykenbohm et al 2005, Pottschmidt
+          et   al  2005),  detailed  pulse  phase  spectroscopy  revealed
+          remarkably  little  variability  of the cyclotron lines through
+          the  4.4s  X-ray  pulse  (Pottschmidt  et  al 2005). During the
+          decline  of  the  outburst,  the  flux  was  observed  to decay
+          exponentially  until  2005  Feb 10 and linearly thereafter. The
+          spectrum  was  found  to  become  harder  with  time, while the
+          folding energy remained constant. The energy of the fundamental
+          cyclotron  line  increased  with  time from 26.5kev in the RXTE
+          observation  up  to 29.5kev in the last Integral one indicating
+          that the emission region is moving closer to the surface of the
+          neutron  star.  For  a  detailed  analysis,  see  Mowlavi et al
+          (2005).
+
+
+  
+astro-ph/0511276 [abs, pdf] :
+
+          Title: Investigating Galaxy Evolution with Chandra
+          Authors: G. Fabbiano
+          Comments:  To  be  included  in  the  proceedings of the 'X-ray
+          universe  2005  meeting'  held  in  San  Lorenzo de El Escorial
+          (Spain), 26-30 Sep 2005
+          Chandra  observations show the importance of the X-ray band for
+          studying the evolution of galaxies. Binary X-ray sources are an
+          easily  detectable  tracer  of  the stellar population. Chandra
+          studies  of  these  populations are giving us insights into the
+          nature  and  formation of these binaries, and provide the basis
+          for   diagnostics   of   galaxy  evolution.  With  Chandra  and
+          XMM-Newton  we  can  explore relatively poorly known aspects of
+          the black hole population of the universe: ultra-luminous X-ray
+          sources,  that may be connected with the 'missing' intermediate
+          mass  black  holes  predicted  by hierarchical galaxy and black
+          hole  formation  scenarios;  and quiescent supermassive nuclear
+          black  holes and their surroundings, as a way to understand the
+          full  range  of  the  AGN  phenomenon.  Finally, the X-ray band
+          provides  the  only  way  to  explore  hot plasmas in galaxies;
+          recent  observations  are  revealing  the  importance  of these
+          plasmas as vehicles of both chemical enrichment and energy.
+
+
+  
+Cross-listings
+
+  
+Replacements
+
+  
+astro-ph/0508257 [abs, pdf] :
+
+          Title:  The discovery of PSR J1833-1034 : the pulsar associated
+          with the supernova remnant G21.5-0.9
+          Authors: Y. Gupta, D. Mitra, D.A. Green, A. Acharyya
+          Comments:  5  pages,  with  1  figure and 1 table; published in
+          Current Science
+          Journal-ref: Current Science, Vol. 89, No. 5, 10 September 2005
+          Note:  replaced  with  revised version Wed, 9 Nov 2005 05:41:04
+          GMT (217kb)
+
+  

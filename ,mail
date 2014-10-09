@@ -1,0 +1,1585 @@
+subject: New issues on archive
+From: zhuww@b59
+To: zhuww@bac.pku.edu.cn
+
+
+
+<HTML>
+<HEAD>
+<TITLE>Astrophysics  authors/titles "new"</TITLE>
+<LINK rel="alternate" TYPE="application/rss+xml" TITLE="Astrophysics " HREF="http://arXiv.org/rss/astro-ph">
+</HEAD>
+<BODY>
+<H1>Astrophysics </H1>
+<hr><H2>astro-ph new abstracts,  Fri, 28 Oct 05 00:00:09 GMT<br>
+0510751 -- 0510783 received</h2><hr>
+<DL>
+<DT>
+<H3><B><A NAME="astro-ph/0510751">astro-ph/0510751</A></B> [<A HREF="/abs/astro-ph/0510751">abs</A>, <a href="/ps/astro-ph/0510751">ps</a>, <a href="/pdf/astro-ph/0510751">pdf</a>, <a href="/format/astro-ph/0510751">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Pulsar Magnetosphere: Variation Priciple, Singularities, Estimate of
+  Power<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Gruzinov_A/0/1/0/all/0/1">Andrei Gruzinov</a> (CCPP, NYU)<BR />
+<B>Comments:</B> 8 pages, 2 figures<BR />
+<P>
+We formulate variation principle for force-free magnetosphere of an inclined
+pulsar: ${\cal E} +{\bf \Omega}\cdot {\bf M}$ ($\cal E$, ${\bf M}$ are
+electromagnetic energy and angular momentum, ${\bf \Omega}$ is the angular
+velocity of a star) is stationary under isotopological variations of magnetic
+field and arbitrary variations of electric field. The variation principle gives
+the reason for existence and proves local stability of current singular layers
+along magnetic separatrices. Magnetic field lines of inclined pulsar
+magnetosphere lie on magnetic surfaces, and do have magnetic separatrices.
+<BR />In the framework of the isotopological variation principle, inclined
+magnetospheres are expected to be simple deformations of the axisymmetric
+pulsar magnetosphere. A singular line should exist on the light cylinder, where
+inner separatrix terminates and outer separatrix emanates. The electromagnetic
+field should have an inverse square root singularity near the singular line
+inside the inner magnetic separatrix.
+<BR />Large distance asymptotic solution is calculated, and used to estimate the
+pulsar power, $L\approx c^{-3}\mu ^2\Omega^4$ for spin-dipole inclinations
+$\lesssim 30^{\circ}$ .
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510752">astro-ph/0510752</A></B> [<A HREF="/abs/astro-ph/0510752">abs</A>, <a href="/ps/astro-ph/0510752">ps</a>, <a href="/pdf/astro-ph/0510752">pdf</a>, <a href="/format/astro-ph/0510752">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> An ultra-cool white dwarf serendipitously found with COMBO-17<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Wolf_C/0/1/0/all/0/1">C. Wolf</a><BR />
+<B>Comments:</B> accepted for publication by A&amp;A Letters, 4 pages in print format<BR />
+<P>
+We report the discovery of an ultra-cool white dwarf in the COMBO-17 survey.
+So far, only seven objects have been discovered in this rare category of white
+dwarfs, which are characterized by strong flux depression in the far-red and
+near-infrared part of the spectrum, presumably due to collisionally induced
+absorption (CIA). The new object COMBO-17 J114356.08-0144032 has very similar
+colours to LHS 3250, which was the first of its kind to be recognized. However,
+at R=21.5 it is the faintest and possibly most distant such object discovered
+to date. It is the only such object in COMBO-17 at R&lt;23; due to the small sky
+coverage of 0.78 square degree this chance discovery can not provide any
+constraints on the abundance of faint ultra-cool white dwarfs. We speculate on
+the basis of the proper motion that this new object is probably a member of the
+Galactic (thin) disk.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510753">astro-ph/0510753</A></B> [<A HREF="/abs/astro-ph/0510753">abs</A>, <a href="/pdf/astro-ph/0510753">pdf</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> GOLF - NG spectrometer, a space prototype for studying the dynamics of
+  the deep solar interior<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Chieze_S/0/1/0/all/0/1">Sylvaine Turck Chieze</a>, 
+<a href="/find/astro-ph/1/au:+Carton_P/0/1/0/all/0/1">Pierre Henri Carton</a>, 
+<a href="/find/astro-ph/1/au:+Ballot_J/0/1/0/all/0/1">Jerome Ballot</a>, 
+<a href="/find/astro-ph/1/au:+Barriere_J/0/1/0/all/0/1">Jean Christophe Barriere</a>, 
+<a href="/find/astro-ph/1/au:+Thomas_P/0/1/0/all/0/1">Philippe Daniel Thomas</a>, 
+<a href="/find/astro-ph/1/au:+Delbart_A/0/1/0/all/0/1">Alain Delbart</a>, 
+<a href="/find/astro-ph/1/au:+Desforges_D/0/1/0/all/0/1">Daniel Desforges</a>, 
+<a href="/find/astro-ph/1/au:+Garcia_R/0/1/0/all/0/1">Rafael A. Garcia</a>, 
+<a href="/find/astro-ph/1/au:+Granelli_R/0/1/0/all/0/1">Remi Granelli</a>, 
+<a href="/find/astro-ph/1/au:+Mathur_S/0/1/0/all/0/1">Savita Mathur</a>, 
+<a href="/find/astro-ph/1/au:+Nunio_F/0/1/0/all/0/1">Francois Nunio</a>, 
+<a href="/find/astro-ph/1/au:+Piret_Y/0/1/0/all/0/1">Yves Piret</a>, 
+<a href="/find/astro-ph/1/au:+Palle_P/0/1/0/all/0/1">Pere. L. Palle</a>, 
+<a href="/find/astro-ph/1/au:+Jimenez_A/0/1/0/all/0/1">Antonio. J. Jimenez</a>, 
+<a href="/find/astro-ph/1/au:+Reyes_S/0/1/0/all/0/1">Sebastian J. Jimenez Reyes</a>, 
+<a href="/find/astro-ph/1/au:+Robillot_J/0/1/0/all/0/1">Jean Maurice Robillot</a>, 
+<a href="/find/astro-ph/1/au:+Fossat_E/0/1/0/all/0/1">Eric Fossat</a>, 
+<a href="/find/astro-ph/1/au:+EffDarwich_A/0/1/0/all/0/1">Antonio. M. EffDarwich</a>, 
+<a href="/find/astro-ph/1/au:+Gelly_B/0/1/0/all/0/1">Bernard Gelly</a><BR />
+<B>Comments:</B> Accepted in Advances in Space Research<BR />
+<P>
+The GOLFNG (Global Oscillations at Low Frequency New Generation) instrument
+is devoted to the search for solar gravity and acoustic modes, and also
+chromospheric modes from space. This instrument which is a successor to
+GOLF/SOHO will contribute to improve our knowledge of the dynamics of the solar
+radiative zone. It is a 15 points resonant scattering spectrometer, working on
+the D1 sodium line. A ground-based prototype is under construction to validate
+the difficult issues. It will be installed at the Teide Observatory, on
+Tenerife in 2006 to analyse the separation of the effects of the magnetic
+turbulence of the line from the solar oscillations. We are prepared to put a
+space version of this instrument including a capability of identification of
+the modes, in orbit during the next decade. This instrument should be included
+in the ILWS program as it offers a key to the improvement of our knowledge of
+the solar core in combination with observations from SDO and PICARD. We hope to
+determine the core rotation and magnetic field, through precise measurements of
+oscillation mode frequency splittings. Understanding the magnetic field of the
+radiative zone is important for progress in the study of solar activity
+sources, an important player for the long-term Sun-Earth relationship.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510754">astro-ph/0510754</A></B> [<A HREF="/abs/astro-ph/0510754">abs</A>, <a href="/ps/astro-ph/0510754">ps</a>, <a href="/pdf/astro-ph/0510754">pdf</a>, <a href="/format/astro-ph/0510754">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Principal component analysis of the X-ray variability in NGC 7469<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Blustin_A/0/1/0/all/0/1">A. J. Blustin</a>, 
+<a href="/find/astro-ph/1/au:+Fuerst_S/0/1/0/all/0/1">S. V. Fuerst</a>, 
+<a href="/find/astro-ph/1/au:+Branduardi_Raymont_G/0/1/0/all/0/1">G. Branduardi-Raymont</a>, 
+<a href="/find/astro-ph/1/au:+Page_M/0/1/0/all/0/1">M. J. Page</a>, 
+<a href="/find/astro-ph/1/au:+Behar_E/0/1/0/all/0/1">E. Behar</a>, 
+<a href="/find/astro-ph/1/au:+Kaastra_J/0/1/0/all/0/1">J. S. Kaastra</a><BR />
+<B>Comments:</B> 2 pages, 3 figures, presented at The X-ray Universe 2005, to appear
+  in the conference proceedings<BR />
+<P>
+We apply Principal Component Analysis (PCA) to study the variability of the
+X-ray continuum in the Seyfert 1 galaxy NGC 7469. The PCA technique is used to
+separate out linear components contributing to variability between multiple
+datasets; the technique is often used in analysis of optical spectra, but has
+rarely been applied to AGN X-ray spectroscopy. Running a PCA algorithm on
+0.3-10 keV EPIC data from a 150 ks XMM-Newton observation of NGC 7469, we
+describe the spectral components extracted and evaluate the usefulness of the
+PCA technique for understanding the X-ray continuum in AGN.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510755">astro-ph/0510755</A></B> [<A HREF="/abs/astro-ph/0510755">abs</A>, <a href="/ps/astro-ph/0510755">ps</a>, <a href="/pdf/astro-ph/0510755">pdf</a>, <a href="/format/astro-ph/0510755">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> High spatial resolution mapping of extinction in the SMC with the
+  Swift-UVOT<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Blustin_A/0/1/0/all/0/1">A. J. Blustin</a>, 
+<a href="/find/astro-ph/1/au:+Landsman_W/0/1/0/all/0/1">W. B. Landsman</a>, 
+<a href="/find/astro-ph/1/au:+Still_M/0/1/0/all/0/1">M. Still</a>, 
+<a href="/find/astro-ph/1/au:+Rosen_S/0/1/0/all/0/1">S. R. Rosen</a>, 
+<a href="/find/astro-ph/1/au:+Page_M/0/1/0/all/0/1">M. J. Page</a>, 
+<a href="/find/astro-ph/1/au:+Roming_P/0/1/0/all/0/1">P. W. A. Roming</a><BR />
+<B>Comments:</B> 2 pages, 2 figures, presented at The X-ray Universe 2005, to appear
+  in the conference proceedings<BR />
+<P>
+The wide range of UV extinction properties in the Small Magellanic Cloud
+(SMC) probably traces the effects of star formation on interstellar dust. The
+Swift UVOT, with its three UV filters (centred at 1800, 2200 and 2500 A
+respectively) and three optical filters, is an ideal instrument to map this
+extinction. We present preliminary results of six-band photometry in a ~ 3.3
+arcminute square field in the SMC. Fitting the resulting optical/UV spectral
+distributions with a dust model, we estimate the depths of extinction for 53
+stars and use this to map the distribution of dust in the observed field. We
+briefly discuss the relevance of this study for star forming galaxies,
+including the hosts of Gamma-Ray Bursts.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510756">astro-ph/0510756</A></B> [<A HREF="/abs/astro-ph/0510756">abs</A>, <a href="/ps/astro-ph/0510756">ps</a>, <a href="/pdf/astro-ph/0510756">pdf</a>, <a href="/format/astro-ph/0510756">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> The Globular Cluster System of the Virgo Dwarf Elliptical Galaxy VCC
+  1087<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Beasley_M/0/1/0/all/0/1">Michael A. Beasley</a>, 
+<a href="/find/astro-ph/1/au:+Strader_J/0/1/0/all/0/1">Jay Strader</a>, 
+<a href="/find/astro-ph/1/au:+Brodie_J/0/1/0/all/0/1">Jean P. Brodie</a>, 
+<a href="/find/astro-ph/1/au:+Cenarro_A/0/1/0/all/0/1">A. Javier Cenarro</a>, 
+<a href="/find/astro-ph/1/au:+Geha_M/0/1/0/all/0/1">M Geha</a><BR />
+<B>Comments:</B> 17 pages, 13 figures, to appear in the AJ<BR />
+<P>
+We have analysed the globular cluster (GC) system of the nucleated dwarf
+elliptical galaxy VCC 1087 in the Virgo cluster, based on Keck/LRIS
+spectroscopy and archival HST/ACS imaging. We estimate VCC 1087 hosts a total
+population of 77+/-19 GCs, which corresponds to a relatively high V-band
+specific frequency of 5.8+/-1.4. The g-z color distribution of the GCs shows a
+blue (metal-poor) peak with a tail of redder (metal-rich) clusters similar in
+color to those seen in luminous ellipticals. Spectroscopy of a subsample of 12
+GCs suggests that the GC system is old and coeval (~10 Gyr), with a fairly
+broad metallicity distribution (-1.8&lt;[m/H]&lt;-0.8). In contrast, an integrated
+spectrum of the underlying galaxy starlight reveals that its optical luminosity
+is dominated by metal-rich, intermediate-aged stars. Radial velocities of the
+GCs suggest rotation close to the major axis of the galaxy, and this rotation
+is dynamically significant with (v/sigma)^* &gt;1. A compilation of the kinematics
+of the GC systems of 9 early-type galaxies shows surprising diversity in the
+v/sigma parameter for GC systems. In this context, the GC system of VCC 1087
+exhibits the most significant rotation to velocity dispersion signature.
+Modeling the velocity dispersion profile of the GCs and galaxy stars suggest
+fairly constant mass-to-light ratios of ~3 out to 6.5 kpc. The present
+observations can entertain both baryonic and non-baryonic solutions, and GC
+velocities at larger radii would be most valuable with regard to this issue. We
+discuss the evolution of VCC 1087 in terms of the galaxy ``harassment''
+scenario, and conclude that this galaxy may well be the remains of a faded,
+tidally perturbed Sc spiral [abridged].
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510757">astro-ph/0510757</A></B> [<A HREF="/abs/astro-ph/0510757">abs</A>, <a href="/ps/astro-ph/0510757">ps</a>, <a href="/pdf/astro-ph/0510757">pdf</a>, <a href="/format/astro-ph/0510757">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Tidal dwarf galaxies candidates in a sample of minor merger of galaxies<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Pastoriza_D/0/1/0/all/0/1">D. L. Ferreiro; M. G. Pastoriza</a>, 
+<a href="/find/astro-ph/1/au:+Rickes_M/0/1/0/all/0/1">M. C. Rickes</a><BR />
+<B>Comments:</B> Send to A&amp;A, 8 pages, 2 figures<BR />
+<P>
+We present in this paper a list of candidates tidal dwarf galaxies selected
+among a sample of 117 HII region observed in 11 minor mergers. The
+classification of the HII regions was performed using the blue absolute
+magnitude (M$_B$ $&lt;$ -15), H$\alpha$ luminosity ($\cal L$$(H\alpha)$ $&gt;$
+10$^{39}$ erg s$^{-1}$) and the star formation rate ($SFR_{H\alpha}$ $&gt;$ 0.4
+M$_{\odot}$ y$^{-1}$) as parameters. The total number of UV photons, the number
+of the star of each spectral type and the total stellar mass of the cluster
+were computed for different models adopting Salpeter's IMF with $\alpha =
+-2.65$ for the ionizing cluster. The ionizing cluster model which better
+reproduce the observed properties are supermassive clusters with mass greater
+than 10$^6 \leq M/M_{\odot} \leq 10^7$.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510758">astro-ph/0510758</A></B> [<A HREF="/abs/astro-ph/0510758">abs</A>, <a href="/ps/astro-ph/0510758">ps</a>, <a href="/pdf/astro-ph/0510758">pdf</a>, <a href="/format/astro-ph/0510758">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Particle Diffusion and Acceleration by Shock Wave in Magnetized
+  Filamentary Turbulence<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Honda_M/0/1/0/all/0/1">Mitsuru Honda</a>, 
+<a href="/find/astro-ph/1/au:+Honda_Y/0/1/0/all/0/1">Yasuko S. Honda</a><BR />
+<B>Comments:</B> 39 pages, 2 figures, accepted for publication in ApJ<BR />
+<P>
+We expand the off-resonant scattering theory for particle diffusion in
+magnetized current filaments that can be typically compared to astrophysical
+jets, including active galactic nucleus jets. In a high plasma beta region
+where the directional bulk flow is a free-energy source for establishing
+turbulent magnetic fields via current filamentation instabilities, a novel
+version of quasi-linear theory to describe the diffusion of test particles is
+proposed. The theory relies on the proviso that the injected energetic
+particles are not trapped in the small-scale structure of magnetic fields
+wrapping around and permeating a filament but deflected by the filaments, to
+open a new regime of the energy hierarchy mediated by a transition compared to
+the particle injection. The diffusion coefficient derived from a quasi-linear
+type equation is applied to estimating the timescale for the stochastic
+acceleration of particles by the shock wave propagating through the jet. The
+generic scalings of the achievable highest energy of an accelerated ion and
+electron, as well as of the characteristic time for conceivable energy
+restrictions, are systematically presented. We also discuss a feasible method
+of verifying the theoretical predictions. The strong, anisotropic turbulence
+reflecting cosmic filaments might be the key to the problem of the acceleration
+mechanism of the highest energy cosmic rays exceeding 100 EeV (10^{20} eV),
+detected in recent air shower experiments.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510759">astro-ph/0510759</A></B> [<A HREF="/abs/astro-ph/0510759">abs</A>, <a href="/ps/astro-ph/0510759">ps</a>, <a href="/pdf/astro-ph/0510759">pdf</a>, <a href="/format/astro-ph/0510759">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Results from the adaptive optics coronagraph at the WHT<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Thompson_S/0/1/0/all/0/1">S. J. Thompson</a>, 
+<a href="/find/astro-ph/1/au:+Doel_A/0/1/0/all/0/1">A. P. Doel</a>, 
+<a href="/find/astro-ph/1/au:+Bingham_R/0/1/0/all/0/1">R. G. Bingham</a>, 
+<a href="/find/astro-ph/1/au:+Charalambous_A/0/1/0/all/0/1">A. Charalambous</a>, 
+<a href="/find/astro-ph/1/au:+Myers_R/0/1/0/all/0/1">R. M. Myers</a>, 
+<a href="/find/astro-ph/1/au:+Bissonauth_N/0/1/0/all/0/1">N. Bissonauth</a>, 
+<a href="/find/astro-ph/1/au:+Clark_P/0/1/0/all/0/1">P. Clark</a>, 
+<a href="/find/astro-ph/1/au:+Talbot_G/0/1/0/all/0/1">G. Talbot</a><BR />
+<B>Comments:</B> 9 pages, 16 figures. Accepted for publication in the Monthly Notices
+  of the Royal Astronomical Society. A higher res PDF can be downloaded at
+  <A HREF="http://www.star.ucl.ac.uk/~sjt/osca/MF693.pdf">this http URL</A><BR />
+<P>
+Described here is the design and commissioning of a coronagraph facility for
+the 4.2 metre William Herschel Telescope (WHT) and its Nasmyth Adaptive Optics
+system for Multi-purpose Instrumentation (NAOMI). The use of the NAOMI system
+gives an improved image resolution of ~0.15 arcsecs at a wavelength of 2.2um.
+This enables the Optimised Stellar Coronagraph for Adaptive optics (OSCA) to
+suppress stellar light using smaller occulting masks and thus allows regions
+closer to bright astronomical objects to be imaged. OSCA provides a selection
+of 10 different occulting masks with sizes of 0.25 - 2.0 arcsecs in diameter,
+including two with full greyscale Gaussian profiles. There is also a choice of
+different sized and shaped Lyot stops (pupil plane masks). Computer simulations
+of the different coronagraphic options with the NAOMI segmented mirror have
+relevance for the next generation of highly segmented extremely large
+telescopes.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510760">astro-ph/0510760</A></B> [<A HREF="/abs/astro-ph/0510760">abs</A>, <a href="/ps/astro-ph/0510760">ps</a>, <a href="/pdf/astro-ph/0510760">pdf</a>, <a href="/format/astro-ph/0510760">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Constraints on changes in fundamental constants from a cosmologically
+  distant OH absorber/emitter<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Kanekar_N/0/1/0/all/0/1">N. Kanekar</a> (NRAO), 
+<a href="/find/astro-ph/1/au:+Carilli_C/0/1/0/all/0/1">C. L. Carilli</a> (NRAO), 
+<a href="/find/astro-ph/1/au:+Langston_G/0/1/0/all/0/1">G. I. Langston</a> (NRAO), 
+<a href="/find/astro-ph/1/au:+Rocha_G/0/1/0/all/0/1">G. Rocha</a> (Cambridge), 
+<a href="/find/astro-ph/1/au:+Combes_F/0/1/0/all/0/1">F. Combes</a> (Observatoire de Paris - LERMA), 
+<a href="/find/astro-ph/1/au:+Subrahmanyan_R/0/1/0/all/0/1">R. Subrahmanyan</a> (ATNF), 
+<a href="/find/astro-ph/1/au:+Stocke_J/0/1/0/all/0/1">J. T. Stocke</a> (University of Colorado), 
+<a href="/find/astro-ph/1/au:+Menten_K/0/1/0/all/0/1">K. M. Menten</a> (MPIfR), 
+<a href="/find/astro-ph/1/au:+Briggs_F/0/1/0/all/0/1">F. H. Briggs</a> (ATNF/ANU), 
+<a href="/find/astro-ph/1/au:+Wiklind_T/0/1/0/all/0/1">T. Wiklind</a> (STScI/Onsala)<BR />
+<B>Comments:</B> 4 pages, 3 figures. Accepted for publication in Physical Review
+  Letters<BR />
+<P>
+We have detected the four 18cm OH lines from the $z \sim 0.765$ gravitational
+lens toward PMN J0134-0931. The 1612 and 1720 MHz lines are in conjugate
+absorption and emission, providing a laboratory to test the evolution of
+fundamental constants over a large lookback time. We compare the HI and OH
+main-line absorption redshifts of the different components in the $z \sim
+0.765$ absorber and the $z \sim 0.685$ lens toward B0218+357 to place stringent
+constraints on changes in $F \equiv g_p [\alpha^2/\mu]^{1.57}$. We obtain
+$[\Delta F/F] = (0.44 \pm 0.36^{\rm stat} \pm 1.0^{\rm syst}) \times 10^{-5}$,
+consistent with no changes in these constants over the redshift range $0 &lt; z &lt;
+0.7$. The measurements have a $2 \sigma$ sensitivity of $[\Delta \alpha/\alpha]
+&lt; 6.7 \times 10^{-6}$ and $[\Delta \mu/\mu] &lt; 1.4 \times 10^{-5}$ to fractional
+changes in $\alpha$ and $\mu$, over a period of $\sim 6.5$ Gyr, half the age of
+the Universe. These are among the most sensitive current constraints on changes
+in $\mu$.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510761">astro-ph/0510761</A></B> [<A HREF="/abs/astro-ph/0510761">abs</A>, <a href="/ps/astro-ph/0510761">ps</a>, <a href="/pdf/astro-ph/0510761">pdf</a>, <a href="/format/astro-ph/0510761">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> In Search of Circumstellar Disks Around Young Massive Stars<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Zapata_L/0/1/0/all/0/1">Luis Zapata</a> (CRyA/CfA), 
+<a href="/find/astro-ph/1/au:+Rodriguez_L/0/1/0/all/0/1">Luis Rodriguez</a> (CRyA), 
+<a href="/find/astro-ph/1/au:+Ho_P/0/1/0/all/0/1">Paul Ho</a> (CfA/ASIAA), 
+<a href="/find/astro-ph/1/au:+Beuther_H/0/1/0/all/0/1">Henrik Beuther</a> (MPIA), 
+<a href="/find/astro-ph/1/au:+Zhang_Q/0/1/0/all/0/1">Qizhou Zhang</a> (CfA)<BR />
+<B>Comments:</B> Accepted by the Astronomical Journal, 42 pages<BR />
+<P>
+We present 7 mm, 1.3 cm and 3.6 cm continuum observations made with the Very
+Large Array toward a sample of ten luminous IRAS sources that are believed to
+be regions of massive star formation. We detect compact 7 mm emission in four
+of these objects: IRAS 18089-1732(1), IRAS 18182-1433, IRAS 18264-1152 and IRAS
+18308-0841 and for the first time find that these IRAS sources are associated
+with double or triple radio sources separated by a few arcseconds. We discuss
+the characteristics of these sources based mostly on their spectral indices and
+find that their nature is diverse. Some features indicate that the 7 mm
+emission is dominated by dust from disks or envelopes. Toward other components
+the 7 mm emission appears to be dominated by free-free radiation, both from
+ionized outflows or from optically thick H II regions. Furthermore, there is
+evidence of synchrotron contamination in some of these sources. Finally, we
+found that the sources associated with ionized outflows, or thermal jets are
+correlated with CH$_3$OH masers.
+<BR />The precise determination of the nature of these objects requires additional
+multifrequency observations at high angular resolution. The 3.6 cm continuum
+observations also revealed seven UCHII regions in the vicinity of the sources
+IRAS 18089-1732(1) and two more in the source IRAS 18182-1433. We show that the
+small photoionized nebulae of these UCHII regions are produced by early B-type
+stars.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510762">astro-ph/0510762</A></B> [<A HREF="/abs/astro-ph/0510762">abs</A>, <a href="/ps/astro-ph/0510762">ps</a>, <a href="/pdf/astro-ph/0510762">pdf</a>, <a href="/format/astro-ph/0510762">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Large-scale Filamentary Structure around the Protocluster at Redshift
+  z=3.1<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Matsuda_Y/0/1/0/all/0/1">Y. Matsuda</a>, 
+<a href="/find/astro-ph/1/au:+Yamada_T/0/1/0/all/0/1">T. Yamada</a>, 
+<a href="/find/astro-ph/1/au:+Hayashino_T/0/1/0/all/0/1">T. Hayashino</a>, 
+<a href="/find/astro-ph/1/au:+Tamura_H/0/1/0/all/0/1">H. Tamura</a>, 
+<a href="/find/astro-ph/1/au:+Yamauchi_R/0/1/0/all/0/1">R. Yamauchi</a>, 
+<a href="/find/astro-ph/1/au:+Murayama_T/0/1/0/all/0/1">T. Murayama</a>, 
+<a href="/find/astro-ph/1/au:+Nagao_T/0/1/0/all/0/1">T. Nagao</a>, 
+<a href="/find/astro-ph/1/au:+Ohta_K/0/1/0/all/0/1">K. Ohta</a>, 
+<a href="/find/astro-ph/1/au:+Okamura_S/0/1/0/all/0/1">S. Okamura</a>, 
+<a href="/find/astro-ph/1/au:+Ouchi_M/0/1/0/all/0/1">M. Ouchi</a>, 
+<a href="/find/astro-ph/1/au:+Shimasaku_K/0/1/0/all/0/1">K. Shimasaku</a>, 
+<a href="/find/astro-ph/1/au:+Shioya_Y/0/1/0/all/0/1">Y. Shioya</a>, 
+<a href="/find/astro-ph/1/au:+Taniguchi_Y/0/1/0/all/0/1">Y. Taniguchi</a><BR />
+<B>Comments:</B> 11 pages, 3 figures, accepted for publication in ApJ Letters<BR />
+<P>
+We report the discovery of a large-scale coherent filamentary structure of
+Lyman alpha emitters in a redshift space at z=3.1. We carried out spectroscopic
+observations to map the three dimensional structure of the belt-like feature of
+the Lyman alpha emitters discovered by our previous narrow-band imaging
+observations centered on the protocluster at z=3.1. The feature was found to
+consist of at least three physical filaments connecting with each other. The
+result is in qualitative agreement with the prediction of the 'biased'
+galaxy-formation theories that galaxies preferentially formed in large-scale
+filamentary or sheet-like mass overdensities in the early Universe. We also
+found that the two known giant Lyman alpha emission-line nebulae showing high
+star-formation activities are located near the intersection of these filaments,
+which presumably evolves into a massive cluster of galaxies in the local
+Universe. This may suggest that massive galaxy formation occurs at the
+characteristic place in the surrounding large-scale structure at high redshift.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510763">astro-ph/0510763</A></B> [<A HREF="/abs/astro-ph/0510763">abs</A>, <a href="/ps/astro-ph/0510763">ps</a>, <a href="/pdf/astro-ph/0510763">pdf</a>, <a href="/format/astro-ph/0510763">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> On possible manifestation of feedback coupling between geometry and
+  matter in a phenomenon of an accelerating expansion of the Universe<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Kuzmichev_V/0/1/0/all/0/1">V. V. Kuzmichev</a>, 
+<a href="/find/astro-ph/1/au:+Kuzmichev_V/0/1/0/all/0/1">V. E. Kuzmichev</a> (Bogolyubov Institute for Theoretical Physics)<BR />
+<B>Comments:</B> 12 pages, 1 EPS figure; to be published in Ukr. J. Phys<BR />
+<P>
+It is shown that an accelerating expansion of the present-day Universe
+extracted from observed luminosity of the type Ia supernovae can be explained
+by quantum theory which takes into account feedback coupling between geometry
+and matter (like in Mach's principle). At the same time an accelerating
+expansion of the Universe is explained by the influence of small negative
+cosmological constant. A comparison with the model with positive cosmological
+constant (dark energy) which also has obtained its theoretical grounds in a
+structure of the developed formalism is made. Parameters of the Universe in the
+states with large quantum numbers are calculated.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510764">astro-ph/0510764</A></B> [<A HREF="/abs/astro-ph/0510764">abs</A>, <a href="/ps/astro-ph/0510764">ps</a>, <a href="/pdf/astro-ph/0510764">pdf</a>, <a href="/format/astro-ph/0510764">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> The 2003/2004 superoutburst of SDSS J013701.06-091234.9<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Imada_A/0/1/0/all/0/1">Akira Imada</a>, 
+<a href="/find/astro-ph/1/au:+Kato_T/0/1/0/all/0/1">Taichi Kato</a>, 
+<a href="/find/astro-ph/1/au:+Kubota_K/0/1/0/all/0/1">Kaori Kubota</a>, 
+<a href="/find/astro-ph/1/au:+Uemura_M/0/1/0/all/0/1">Makoto Uemura</a>, 
+<a href="/find/astro-ph/1/au:+Ishioka_R/0/1/0/all/0/1">Ryoko Ishioka</a>, 
+<a href="/find/astro-ph/1/au:+Kiyota_S/0/1/0/all/0/1">Seiichiro Kiyota</a>, 
+<a href="/find/astro-ph/1/au:+Kinugasa_K/0/1/0/all/0/1">Kenzo Kinugasa</a>, 
+<a href="/find/astro-ph/1/au:+Maehara_H/0/1/0/all/0/1">Hiroyuki Maehara</a>, 
+<a href="/find/astro-ph/1/au:+Nakajima_K/0/1/0/all/0/1">Kazuhiro Nakajima</a>, 
+<a href="/find/astro-ph/1/au:+Monard_L/0/1/0/all/0/1">L.A.G. Berto Monard</a>, 
+<a href="/find/astro-ph/1/au:+Starkey_D/0/1/0/all/0/1">Donn R. Starkey</a>, 
+<a href="/find/astro-ph/1/au:+Oksanen_A/0/1/0/all/0/1">Arto Oksanen</a>, 
+<a href="/find/astro-ph/1/au:+Nogami_D/0/1/0/all/0/1">Daisaku Nogami</a><BR />
+<B>Comments:</B> 11 pages, 6 figures, 4 tables. Accepted for PASJ<BR />
+<P>
+We report on time-resolved photometry of the superoutburst of an SU UMa-type
+dwarf nova, SDSS J013701.06-091234.9 in 2003 December-2004 January. The
+obtained light curves definitely show superhumps with a period of 0.056686 (12)
+d, which is one of the shortest superhump periods among those of SU UMa-type
+dwarf novae ever observed. Considering quiescent photometric studies, we
+estimated the fractional superhump excess to be 0.024. Spectroscopic
+observations by Szkody et al. (2003) provided evidence for TiO bands despite
+the short orbital period, implying that the system has a luminous secondary
+star. We draw a color-color diagram of SU UMa-type dwarf novae in quiescence
+using 2MASS archives, revealing that the location of this star in the
+color-color diagram is deviated from the general trend. The distance to the
+system was roughly estimated to be 300${\pm}$80 pc, using the empirical
+period-absolute magnitude relation and based on the proper motion.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510765">astro-ph/0510765</A></B> [<A HREF="/abs/astro-ph/0510765">abs</A>, <a href="/ps/astro-ph/0510765">ps</a>, <a href="/pdf/astro-ph/0510765">pdf</a>, <a href="/format/astro-ph/0510765">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> The footprint of large scale cosmic structure on the ultra-high energy
+  cosmic ray distribution<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Cuoco_A/0/1/0/all/0/1">A. Cuoco</a>, 
+<a href="/find/astro-ph/1/au:+Abrusco_R/0/1/0/all/0/1">R. D' Abrusco</a>, 
+<a href="/find/astro-ph/1/au:+Longo_G/0/1/0/all/0/1">G. Longo</a>, 
+<a href="/find/astro-ph/1/au:+Miele_G/0/1/0/all/0/1">G. Miele</a>, 
+<a href="/find/astro-ph/1/au:+Serpico_P/0/1/0/all/0/1">P. D. Serpico</a><BR />
+<B>Comments:</B> 20 pages, 14 figures<BR />
+<P>
+Current experiments collecting high statistics in ultra-high energy cosmic
+rays (UHECRs) are opening a new window on the universe. In this work we discuss
+a large scale structure model for the UHECR origin which evaluates the expected
+anisotropy in the UHECR arrival distribution starting from a given astronomical
+catalogue of the local universe. The model takes into account the main
+selection effects in the catalogue and the UHECR propagation effects. By
+applying this method to the IRAS PSCz catalogue, we derive the minimum
+statistics needed to significatively reject the hypothesis that UHECRs trace
+the baryonic distribution in the universe, in particular providing a forecast
+for the Auger experiment.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510766">astro-ph/0510766</A></B> [<A HREF="/abs/astro-ph/0510766">abs</A>, <a href="/ps/astro-ph/0510766">ps</a>, <a href="/pdf/astro-ph/0510766">pdf</a>, <a href="/format/astro-ph/0510766">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> The WHAT Project<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Shporer_A/0/1/0/all/0/1">A. Shporer</a>, 
+<a href="/find/astro-ph/1/au:+Mazeh_T/0/1/0/all/0/1">T. Mazeh</a>, 
+<a href="/find/astro-ph/1/au:+Moran_A/0/1/0/all/0/1">A. Moran</a>, 
+<a href="/find/astro-ph/1/au:+Bakos_G/0/1/0/all/0/1">G. Bakos</a>, 
+<a href="/find/astro-ph/1/au:+Kovacs_G/0/1/0/all/0/1">G. Kovacs</a>, 
+<a href="/find/astro-ph/1/au:+Mashal_E/0/1/0/all/0/1">E. Mashal</a><BR />
+<B>Comments:</B> 3 pages, 3 figures; to appear in the proceedings of Haute Provence
+  Observatory Colloquium (22-25 August 2005) "Tenth anniversary of 51 Peg-b:
+  Status of and prospects for hot Jupiter studies", ed. L. Arnold, F. Bouchy, &amp;
+  C. Moutou<BR />
+<P>
+We describe WHAT, a small-aperture short focal length automated telescope
+with an 8.2 deg X 8.2 deg field of view, located at the Wise Observatory. The
+system is aimed at searching for transiting extrasolar planets and variable
+stars. Preliminary results of 3892 exposures of a single field are presented,
+where the telescope achieved already a precision of a few mmag for the
+brightest objects. Additional information can be found at
+<A HREF="http://wise-obs.tau.ac.il/~what">this http URL</A> .
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510767">astro-ph/0510767</A></B> [<A HREF="/abs/astro-ph/0510767">abs</A>, <a href="/ps/astro-ph/0510767">ps</a>, <a href="/pdf/astro-ph/0510767">pdf</a>, <a href="/format/astro-ph/0510767">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Phase-resolved spectroscopy of the helium dwarf nova 'SN 2003aw' in
+  quiescence<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Roelofs_G/0/1/0/all/0/1">G. Roelofs</a>, 
+<a href="/find/astro-ph/1/au:+Groot_P/0/1/0/all/0/1">P. Groot</a> (Nijmegen), 
+<a href="/find/astro-ph/1/au:+Marsh_T/0/1/0/all/0/1">T. Marsh</a> (Warwick), 
+<a href="/find/astro-ph/1/au:+Steeghs_D/0/1/0/all/0/1">D. Steeghs</a> (CfA), 
+<a href="/find/astro-ph/1/au:+Nelemans_G/0/1/0/all/0/1">G. Nelemans</a> (Nijmegen)<BR />
+<B>Comments:</B> Accepted for publication in MNRAS<BR />
+<P>
+High time resolution spectroscopic observations of the ultra-compact helium
+dwarf nova 'SN 2003aw' in its quiescent state at V=20.5 reveal its orbital
+period at 2027.8 +/- 0.5 seconds or 33.80 minutes. Together with the
+photometric 'superhump' period of 2041.5 +/- 0.5 seconds, this implies a mass
+ratio q of 0.036. We compare both the average and time-resolved spectra of 'SN
+2003aw' and SDSS J124058.03-015919.2. Both show a DB white dwarf spectrum plus
+an optically thin, helium-dominated accretion disc. 'SN 2003aw' distinguishes
+itself from the SDSS source by its strong calcium H &amp; K emission lines,
+suggesting higher abundances of heavy metals than the SDSS source. The silicon
+and iron emission lines observed in the SDSS source are about twice as strong
+in 'SN 2003aw'. The peculiar 'double bright spot' accretion disc feature seen
+in the SDSS source is also present in time-resolved spectra of 'SN 2003aw',
+albeit much weaker.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510768">astro-ph/0510768</A></B> [<A HREF="/abs/astro-ph/0510768">abs</A>, <a href="/ps/astro-ph/0510768">ps</a>, <a href="/pdf/astro-ph/0510768">pdf</a>, <a href="/format/astro-ph/0510768">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> The SCUBA Local Universe Galaxy Survey - III. Dust along the Hubble
+  sequence<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Vlahakis_C/0/1/0/all/0/1">Catherine Vlahakis</a> (1), 
+<a href="/find/astro-ph/1/au:+Dunne_L/0/1/0/all/0/1">Loretta Dunne</a> (2), 
+<a href="/find/astro-ph/1/au:+Eales_S/0/1/0/all/0/1">Stephen Eales</a> (1) ((1) Cardiff University, (2) University of Nottingham)<BR />
+<B>Comments:</B> 36 pages including 16 figures and 8 tables. Accepted for publication
+  in MNRAS<BR />
+<P>
+We present new results from the SCUBA Local Universe Galaxy Survey (SLUGS),
+the first large systematic submillimetre survey of the local Universe. Since
+our initial survey of a sample of 104 IRAS-selected galaxies we have now
+completed a survey of a sample of 81 optically-selected galaxies, observed with
+the SCUBA camera on the James Clerk Maxwell Telescope. Since SCUBA is sensitive
+to the 90% of dust too cold to radiate significantly in the IRAS bands our new
+sample represents the first unbiased survey of dust in galaxies along the whole
+length of the Hubble sequence. We find little change in the properties of dust
+in galaxies along the Hubble sequence and detected 6 out of 11 elliptical
+galaxies. As in our earlier work on IRAS galaxies we find that the IRAS and
+submm fluxes are well-fitted by a two-component dust model with dust emissivity
+index beta=2. The major difference from our earlier work is that we find the
+ratio of the mass of cold dust to the mass of warm dust is much higher for our
+optically-selected galaxies and can reach values of ~1000. Comparison of the
+results for the IRAS- and optically-selected samples shows that there is a
+population of galaxies containing a large proportion of cold dust that is
+unrepresented in the IRAS sample. We derive local submm luminosity and dust
+mass functions, both directly from our optically-selected SLUGS sample, and by
+extrapolation from the IRAS PSCz survey using the method of Serjeant &amp;
+Harrison, and find excellent agreement between the two. We find them to be
+well-fitted by Schechter functions except at the highest luminosities. We find
+that as a consequence of the omission of cold galaxies from the IRAS sample the
+luminosity function presented in our earlier work is too low by a factor of 2.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510769">astro-ph/0510769</A></B> [<A HREF="/abs/astro-ph/0510769">abs</A>, <a href="/ps/astro-ph/0510769">ps</a>, <a href="/pdf/astro-ph/0510769">pdf</a>, <a href="/format/astro-ph/0510769">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Hadronic processes within collective stellar winds<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Domingo_Santamaria_E/0/1/0/all/0/1">Eva Domingo-Santamaria</a>, 
+<a href="/find/astro-ph/1/au:+Torres_D/0/1/0/all/0/1">Diego F. Torres</a><BR />
+<B>Comments:</B> Accepted for publication in A&amp;A<BR />
+<P>
+Recently, we have proposed that the interaction between relativistic protons
+resulting from Fermi first order acceleration in the superbubble of a stellar
+OB association or in other nearby accelerator and ions residing in single
+stellar winds of massive stars could lead to TeV sources without strong
+counterparts at lower energies. Here we refine this analysis in several
+directions. We study collective wind configurations produced by a number of
+massive stars, and obtain densities and expansion velocities of the stellar
+wind gas that is to be target of hadronic interactions. We study the expected
+$\gamma$-ray emission from these regions, considering in an approximate way the
+effect of cosmic ray modulation. We compute secondary particle production
+(electrons from knock-on interactions and electrons and positrons from charged
+pion decay), and solve the loss equation with ionization, synchrotron,
+bremsstrahlung, inverse Compton, and expansion losses. We provide examples
+where configurations can produce sources for GLAST satellite, and the
+MAGIC/HESS/VERITAS telescopes in non-uniform ways, i.e., with or without the
+corresponding counterparts. We show that in all cases we studied no EGRET
+source is expected. Finally, we comment on HESS J1303-631 and on Cygnus OB 2
+and Westerlund 1 as two associations where this scenario could be tested.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510770">astro-ph/0510770</A></B> [<A HREF="/abs/astro-ph/0510770">abs</A>, <a href="/ps/astro-ph/0510770">ps</a>, <a href="/pdf/astro-ph/0510770">pdf</a>, <a href="/format/astro-ph/0510770">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> An INTEGRAL Hard X-ray Survey of the Large Magellanic Cloud<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Gotz_D/0/1/0/all/0/1">D. Gotz</a>, 
+<a href="/find/astro-ph/1/au:+Mereghetti_S/0/1/0/all/0/1">S. Mereghetti</a>, 
+<a href="/find/astro-ph/1/au:+Merlini_D/0/1/0/all/0/1">D. Merlini</a>, 
+<a href="/find/astro-ph/1/au:+Sidoli_L/0/1/0/all/0/1">L. Sidoli</a>, 
+<a href="/find/astro-ph/1/au:+Belloni_T/0/1/0/all/0/1">T. Belloni</a><BR />
+<B>Comments:</B> 9 pages, 9 figures, accepted for publication in A&amp;A main journal<BR />
+<P>
+Two observation campaigns performed in 2003 and 2004 with the INTEGRAL
+satellite have provided the first sensitive survey of the Large Magellanic
+Cloud with an imaging instrument in the hard X-ray range (15 keV - 10 MeV). The
+high energy flux and long term variability of the black hole candidate LMC X-1
+was measured for the first time without the contamination of the nearby (~25')
+young pulsar PSR B0540-69. We studied the accreting pulsar LMC X-4,
+constraining the size of the hard X-ray emitting region (&lt;~3E10 cm) from the
+analysis of its eclipses, and measuring its spin period (13.497+/-0.005 s) in
+the 20-40 keV band. LMC X-3 was not detected, being in a soft state during the
+first observation and possibly in an extremely low state in the second one.
+Thanks to the large field of view of the IBIS instrument, we could study also
+other sources falling serendipitously in the observed sky region around the
+LMC: the Galactic low mass X-ray binary EXO 0748-676, the accreting pulsar SMC
+X-1 in the Small Magellanic Cloud, and the Active Galactic Nucleus IRAS
+04575--7537. In addition we discovered five new hard X-ray sources, two of
+which most likely belong to the LMC.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510771">astro-ph/0510771</A></B> [<A HREF="/abs/astro-ph/0510771">abs</A>, <a href="/ps/astro-ph/0510771">ps</a>, <a href="/pdf/astro-ph/0510771">pdf</a>, <a href="/format/astro-ph/0510771">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> On the accretion of phantom energy onto wormholes<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Gonzalez_Diaz_P/0/1/0/all/0/1">Pedro F. Gonzalez-Diaz</a> (IMAFF, CSIC)<BR />
+<B>Comments:</B> 4 pages, LaTex, to appear in Phys. Lett. B<BR />
+<P>
+By using a properly generalized accretion formalism it is argued that the
+accretion of phantom energy onto a wormhole does not make the size of the
+wormhole throat to comovingly scale with the scale factor of the universe, but
+instead induces an increase of that size so big that the wormhole can engulf
+the universe itself before it reaches the big rip singularity, at least
+relative to an asymptotic observer.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510772">astro-ph/0510772</A></B> [<A HREF="/abs/astro-ph/0510772">abs</A>, <a href="/ps/astro-ph/0510772">ps</a>, <a href="/pdf/astro-ph/0510772">pdf</a>, <a href="/format/astro-ph/0510772">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Comment on "mutual exclusion of normal particle diffusion in velocity
+  and configuration space"<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Shalchi_A/0/1/0/all/0/1">A. Shalchi</a><BR />
+<P>
+Stawicki (2005) has recently proposed, and used, a new approach that is based
+on the Newton-Lorentz equation and the recently derived NLGC-theory, to
+describe transport of charged cosmic rays in velocity and configuration space.
+Whereas the theoretical investigation of cosmic ray propagation is an
+interesting and important field of research, it is argued in this paper that
+Stawicki's conclusions are based on wrong mathematical and physical
+assumptions.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510773">astro-ph/0510773</A></B> [<A HREF="/abs/astro-ph/0510773">abs</A>, <a href="/ps/astro-ph/0510773">ps</a>, <a href="/pdf/astro-ph/0510773">pdf</a>, <a href="/format/astro-ph/0510773">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Signatures of restarted activity in core-dominated, triple radio sources
+  selected from the FIRST survey<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Marecki_A/0/1/0/all/0/1">A. Marecki</a> (1), 
+<a href="/find/astro-ph/1/au:+Thomasson_P/0/1/0/all/0/1">P. Thomasson</a> (2), 
+<a href="/find/astro-ph/1/au:+Mack_K/0/1/0/all/0/1">K.-H. Mack</a> (3), 
+<a href="/find/astro-ph/1/au:+Kunert_Bajraszewska_M/0/1/0/all/0/1">M. Kunert-Bajraszewska</a> (1) ((1) Torun Centre for Astronomy, N. Copernicus University, Poland, (2) Jodrell Bank Observatory, The University of Manchester, UK, (3) INAF - Istituto di Radioastronomia, Bologna, Italy)<BR />
+<B>Comments:</B> 9 pages, 5 figures, accepted for publication in A&amp;A<BR />
+<P>
+Signatures of re-occurrence of activity in radio-loud AGNs, indicated either
+by the so-called double-double or X-shaped structures, have been observed in a
+number of radio sources. All such objects known to date have linear sizes of
+the order of a megaparsec. A number of sources which are appreciably more
+compact than this, but which exhibit hints of a past phase of activity, have
+been found in the VLA FIRST survey. Their structures show symmetric relic lobes
+straddling relatively bright, unresolved cores. The cores of 15 of these have
+been observed with MERLIN at 5 GHz, which has shown that four of them are
+doubles or core-jets on the subarcsecond scale. Misalignments \Delta PA &gt; 30
+degrees between the axis of the inner structure and the line connecting the
+fitted maxima of the arcminute-scale relic lobes are clearly visible in three
+of the four sources. It can be readily inferred from these results that a rapid
+repositioning of the central engine in each of these three radio sources is the
+most plausible interpretation of the observed morphology and that a merger is
+the most likely the original cause of such a repositioning. In the case of TXS
+1033+026, the optical image extracted from the SDSS archives clearly suggests
+that two objects separated by only 2.7 kpc (projected onto the sky plane) are
+indeed merging. The inner parts of TXS 0818+214 and TXS 1312+563 could be
+interpreted as double-lobed and consequently, these sources could be of the
+double-double type, but further multifrequency observations are necessary to
+provide support for such an interpretation.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510774">astro-ph/0510774</A></B> [<A HREF="/abs/astro-ph/0510774">abs</A>, <a href="/ps/astro-ph/0510774">ps</a>, <a href="/pdf/astro-ph/0510774">pdf</a>, <a href="/format/astro-ph/0510774">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Optical and X-ray Identification of Faint Radio Sources in the GOODS-S
+  ACS Field<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Afonso_J/0/1/0/all/0/1">J. Afonso</a> (1,2), 
+<a href="/find/astro-ph/1/au:+Mobasher_B/0/1/0/all/0/1">B. Mobasher</a> (3), 
+<a href="/find/astro-ph/1/au:+Koekemoer_A/0/1/0/all/0/1">A. Koekemoer</a> (3), 
+<a href="/find/astro-ph/1/au:+Norris_R/0/1/0/all/0/1">R. P. Norris</a> (4), 
+<a href="/find/astro-ph/1/au:+Cram_L/0/1/0/all/0/1">L. Cram</a> (5) ((1) Astronomical Observatory of Lisbon, (2) Centre for Astronomy and Astrophysics of the University of Lisbon, (3) STScI, (4) Australia Telescope National Facility, (5) The Australian National University)<BR />
+<B>Comments:</B> 33 pages, 1 figure + 4 pages of postage stamps. AJ, in press
+  (February 2006 issue). Version with full-resolution figures is available at
+  <A HREF="http://www.oal.ul.pt/~jafonso/astronomy/hires_papers.html">this http URL</A><BR />
+<P>
+We present optical and X-ray identifications for the sixty-four radio sources
+in the GOODS-S ACS field revealed in the ATCA 1.4 GHz survey of the Chandra
+Deep Field South. Optical identifications are made using the ACS images and
+catalogs, while the X-ray view is provided by the Chandra X-ray Observatory 1
+Ms observations. Redshifts for the identified sources are drawn from publicly
+available catalogs of spectroscopic observations and multi-band
+photometric-based estimates. Using this multiwavelength information we provide
+a first characterization of the faint radio source population in this region.
+The sample contains a mixture of star-forming galaxies and active galactic
+nuclei, as identified by their X-ray properties and optical spectroscopy. A
+large number of morphologically disturbed galaxies is found, possibly related
+to the star-formation phenomena. In spite of the very deep optical data
+available in this field, seven of the sixty-four radio sources have no optical
+identification to z(850)~28 mag. Only one of these is identified in the X-rays.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510775">astro-ph/0510775</A></B> [<A HREF="/abs/astro-ph/0510775">abs</A>, <a href="/ps/astro-ph/0510775">ps</a>, <a href="/pdf/astro-ph/0510775">pdf</a>, <a href="/format/astro-ph/0510775">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> The 2005 outburst of GRO J1655-40: spectral evolution of the rise, as
+  observed by Swift<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Brocksopp_C/0/1/0/all/0/1">C.Brocksopp</a> (MSSL), 
+<a href="/find/astro-ph/1/au:+McGowan_K/0/1/0/all/0/1">K.E.McGowan</a>, 
+<a href="/find/astro-ph/1/au:+Krimm_H/0/1/0/all/0/1">H.Krimm</a>, 
+<a href="/find/astro-ph/1/au:+Godet_O/0/1/0/all/0/1">O.Godet</a>, 
+<a href="/find/astro-ph/1/au:+Roming_P/0/1/0/all/0/1">P.Roming</a>, 
+<a href="/find/astro-ph/1/au:+Mason_K/0/1/0/all/0/1">K.O.Mason</a>, 
+<a href="/find/astro-ph/1/au:+Gehrels_N/0/1/0/all/0/1">N.Gehrels</a>, 
+<a href="/find/astro-ph/1/au:+Still_M/0/1/0/all/0/1">M.Still</a>, 
+<a href="/find/astro-ph/1/au:+Page_K/0/1/0/all/0/1">K.Page</a>, 
+<a href="/find/astro-ph/1/au:+Moretti_A/0/1/0/all/0/1">A.Moretti</a>, 
+<a href="/find/astro-ph/1/au:+Shrader_C/0/1/0/all/0/1">C.R.Shrader</a>, 
+<a href="/find/astro-ph/1/au:+Campana_S/0/1/0/all/0/1">S.Campana</a>, 
+<a href="/find/astro-ph/1/au:+Kennea_J/0/1/0/all/0/1">J.Kennea</a><BR />
+<B>Comments:</B> Accepted for publication in MNRAS<BR />
+<P>
+We present Swift observations of the black hole X-ray transient, GRO
+J1655-40, during the recent outburst. With its multiwavelength capabilities and
+flexible scheduling, Swift is extremely well-suited for monitoring the spectral
+evolution of such an event. GRO J1655-40 was observed on 20 occasions and data
+were obtained by all instruments for the majority of epochs. X-ray spectroscopy
+revealed spectral shapes consistent with the ``canonical'' low/hard, high/soft
+and very high states at various epochs. The soft X-ray source (0.3-10 keV) rose
+from quiescence and entered the low/hard state, when an iron emission line was
+detected. The soft X-ray source then softened and decayed, before beginning a
+slow rebrightening and then spending $\sim 3$ weeks in the very high state. The
+hard X-rays (14-150 keV) behaved similarly but their peaks preceded those of
+the soft X-rays by up to a few days; in addition, the average hard X-ray flux
+remained approximately constant during the slow soft X-ray rebrightening,
+increasing suddenly as the source entered the very high state. These
+observations indicate (and confirm previous suggestions) that the low/hard
+state is key to improving our understanding of the outburst trigger and
+mechanism. The optical/ultraviolet lightcurve behaved very differently from
+that of the X-rays; this might suggest that the soft X-ray lightcurve is
+actually a composite of the two known spectral components, one gradually
+increasing with the optical/ultraviolet emission (accretion disc) and the other
+following the behaviour of the hard X-rays (jet and/or corona).
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510776">astro-ph/0510776</A></B> [<A HREF="/abs/astro-ph/0510776">abs</A>, <a href="/ps/astro-ph/0510776">ps</a>, <a href="/pdf/astro-ph/0510776">pdf</a>, <a href="/format/astro-ph/0510776">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Multiwavelength XMM-Newton observations of the Laor et al. sample of PG
+  quasars<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Brocksopp_C/0/1/0/all/0/1">C.Brocksopp</a> (MSSL), 
+<a href="/find/astro-ph/1/au:+Starling_R/0/1/0/all/0/1">R.L.C.Starling</a>, 
+<a href="/find/astro-ph/1/au:+Schady_P/0/1/0/all/0/1">P.Schady</a>, 
+<a href="/find/astro-ph/1/au:+Mason_K/0/1/0/all/0/1">K.O.Mason</a>, 
+<a href="/find/astro-ph/1/au:+Romero_Colmenero_E/0/1/0/all/0/1">E.Romero-Colmenero</a>, 
+<a href="/find/astro-ph/1/au:+Puchnarewicz_E/0/1/0/all/0/1">E.M.Puchnarewicz</a><BR />
+<B>Comments:</B> Accepted for publication in MNRAS<BR />
+<P>
+We present XMM-Newton/EPIC spectra for the Laor et al. sample of Palomar
+Green quasars. We find that a power-law provides a reasonable fit to the 2-5
+keV region of the spectra. Excess soft X-ray emission below 2 keV is present
+for all objects, with the exception of those known to contain a warm absorber.
+A single power-law is, however, a poor fit to the 0.3-10.0 keV spectrum and
+instead we find that a simple model, consisting of a broken power-law (plus an
+iron line), provides a reasonable fit in most cases. The equivalent width of
+the emission line is constrained in just twelve objects but with low (&lt;2 sigma)
+significance in most cases. For the sources whose spectra are well-fit by the
+broken power-law model, we find that various optical and X-ray line and
+continuum parameters are well-correlated; in particular, the power-law photon
+index is well-correlated with the FWHM of the Hbeta line and the photon indices
+of the low and high energy components of the broken power-law are
+well-correlated with each other. These results suggest that the 0.3-10 keV
+X-ray emission shares a common (presumably non-thermal) origin, as opposed to
+suggestions that the soft excess is directly produced by thermal disc emission
+or via an additional spectral component. We present XMM-Newton/OM data which we
+combine with the X-ray spectra so as to produce broad-band spectral energy
+distributions, free from uncertainties due to long-term variability in
+non-simultaneous data. Fitting these optical-UV spectra with a Comptonized disc
+model indicates that the soft X-ray excess is independent of the accretion
+disc, confirming our interpretation of the tight correlation between the hard
+and soft X-ray spectra.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510777">astro-ph/0510777</A></B> [<A HREF="/abs/astro-ph/0510777">abs</A>, <a href="/ps/astro-ph/0510777">ps</a>, <a href="/pdf/astro-ph/0510777">pdf</a>, <a href="/format/astro-ph/0510777">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Estimating stellar oscillation-related parameters and their
+  uncertainties with the moment method<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Ridder_J/0/1/0/all/0/1">Joris De Ridder</a>, 
+<a href="/find/astro-ph/1/au:+Molenberghs_G/0/1/0/all/0/1">Geert Molenberghs</a>, 
+<a href="/find/astro-ph/1/au:+Aerts_C/0/1/0/all/0/1">Conny Aerts</a><BR />
+<B>Comments:</B> The electronic online version from the publisher can be found at
+  <A HREF="http://www.blackwell-synergy.com/doi/abs/10.1111/j.1467-9876.2005.00487.x">this http URL</A><BR />
+<B>Journal-ref:</B> Applied Statistics, 2005, Vol. 54, Part 2, p. 1-16<BR />
+<P>
+The moment method is a well known mode identification technique in
+asteroseismology (where `mode' is to be understood in an astronomical rather
+than in a statistical sense), which uses a time series of the first 3 moments
+of a spectral line to estimate the discrete oscillation mode parameters l and
+m. The method, contrary to many other mode identification techniques, also
+provides estimates of other important continuous parameters such as the
+inclination angle alpha, and the rotational velocity v_e. We developed a
+statistical formalism for the moment method based on so-called generalized
+estimating equations (GEE). This formalism allows the estimation of the
+uncertainty of the continuous parameters taking into account that the different
+moments of a line profile are correlated and that the uncertainty of the
+observed moments also depends on the model parameters. Furthermore, we set up a
+procedure to take into account the mode uncertainty, i.e., the fact that often
+several modes (l,m) can adequately describe the data. We also introduce a new
+lack of fit function which works at least as well as a previous discriminant
+function, and which in addition allows us to identify the sign of the azimuthal
+order m. We applied our method to the star HD181558, using several numerical
+methods, from which we learned that numerically solving the estimating
+equations is an intensive task. We report on the numerical results, from which
+we gain insight in the statistical uncertainties of the physical parameters
+involved in the moment method.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510778">astro-ph/0510778</A></B> [<A HREF="/abs/astro-ph/0510778">abs</A>, <a href="/ps/astro-ph/0510778">ps</a>, <a href="/pdf/astro-ph/0510778">pdf</a>, <a href="/format/astro-ph/0510778">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> A Local Group Polar Ring Galaxy: NGC 6822<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Demers_S/0/1/0/all/0/1">Serge Demers</a>, 
+<a href="/find/astro-ph/1/au:+Battinelli_P/0/1/0/all/0/1">Paolo Battinelli</a>, 
+<a href="/find/astro-ph/1/au:+Kunkel_W/0/1/0/all/0/1">William E. Kunkel</a><BR />
+<B>Comments:</B> ApJ Letter submitted A full good quality figure 1 can be request to
+  the authors<BR />
+<P>
+Star counts, obtained from a 2x2 degree area centered on NGC 6822 have
+revealed an optical image of this galaxy composed of two components: in
+addition to the well-known HI disk with its young stellar component, there is a
+spheroidal stellar structure as extensive as its HI disk but with its major
+axis at roughly right angles to it which we traced to at least 9 scale lengths.
+Radial velocities of over 100 intermediate-age carbon stars found within this
+structure display kinematics contrasting strongly with those of the HI disk.
+These C stars belong to the spheroid. Although devoid of gas, the spheroid
+rotation is consistent with the I-band Tully-Fisher relation.
+<BR />The orientation of the rotation axis which minimizes the stellar velocity
+dispersion coincides with the minor axis of the stellar population ellipsoid,
+lying very nearly in the plane of the HI disk. We conclude: that the HI disk is
+a polar ring and the spheroidal component an erstwhile disk, a fossil remainder
+of a past close encounter episode.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510779">astro-ph/0510779</A></B> [<A HREF="/abs/astro-ph/0510779">abs</A>, <a href="/ps/astro-ph/0510779">ps</a>, <a href="/pdf/astro-ph/0510779">pdf</a>, <a href="/format/astro-ph/0510779">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Late time accelerated Brans-Dicke pressureless solutions and the
+  supernovae type Ia data<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Fabris_J/0/1/0/all/0/1">J.C. Fabris</a>, 
+<a href="/find/astro-ph/1/au:+Goncalves_S/0/1/0/all/0/1">S.V.B. Goncalves</a>, 
+<a href="/find/astro-ph/1/au:+Ribeiro_R/0/1/0/all/0/1">R. de Sa Ribeiro</a><BR />
+<B>Comments:</B> Latex file, 8 pages, 6 figures<BR />
+<P>
+Cosmological solutions for a pressureless fluid in the Brans-Dicke theory
+exhibit asymptotical accelerated phase for some range of values of the
+parameter $\omega$, interpolating a matter dominated phase and an inflationary
+phase. The effective gravitational coupling is negative. We test this model
+against the supernovae type Ia data. The fitting of the observational data is
+slightly better than that obtained from the $\Lambda CDM$ model. We make some
+speculations on how to reconcile the negative gravitational coupling in large
+scale with the local tests. Some considerations on the structure formation
+problem in this context are also made.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510780">astro-ph/0510780</A></B> [<A HREF="/abs/astro-ph/0510780">abs</A>, <a href="/ps/astro-ph/0510780">ps</a>, <a href="/pdf/astro-ph/0510780">pdf</a>, <a href="/format/astro-ph/0510780">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> The accretion and spreading of matter on white dwarfs<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Fisker_J/0/1/0/all/0/1">Jacob Lund Fisker</a>, 
+<a href="/find/astro-ph/1/au:+Balsara_D/0/1/0/all/0/1">Dinshaw S. Balsara</a>, 
+<a href="/find/astro-ph/1/au:+Burger_T/0/1/0/all/0/1">Tom Burger</a><BR />
+<B>Comments:</B> 6 pages, 5 figures, requires autart.cls<BR />
+<P>
+For a slowly rotating non-magnetized white dwarf the accretion disk extends
+all the way to the star. Here the matter impacts and spreads towards the poles
+as new matter continuously piles up behind it. We have solved the 3d
+compressible Navier-Stokes equations on an axisymmetric grid to determine the
+structure of this boundary layer for different viscosities corresponding to
+different accretion rates. The high viscosity cases show a spreading BL which
+sets off a gravity wave in the surface matter. The accretion flow moves
+supersonically over the cusp making it susceptible to the rapid development of
+gravity wave and/or Kelvin-Helmholtz instabilities. This BL is optically thick
+and extends more than 30 degrees to either side of the disk plane after 3/4 of
+a Keplerian rotation period (t=19s). The low viscosity cases also show a
+spreading BL, but here the accretion flow does not set off gravity waves and it
+is optically thin.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510781">astro-ph/0510781</A></B> [<A HREF="/abs/astro-ph/0510781">abs</A>, <a href="/ps/astro-ph/0510781">ps</a>, <a href="/pdf/astro-ph/0510781">pdf</a>, <a href="/format/astro-ph/0510781">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> On stability and spiral patterns in polar disks<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Theis_C/0/1/0/all/0/1">Ch. Theis</a> (1,2), 
+<a href="/find/astro-ph/1/au:+Sparke_L/0/1/0/all/0/1">L. Sparke</a> (3,4), 
+<a href="/find/astro-ph/1/au:+Gallagher_J/0/1/0/all/0/1">J. Gallagher</a> (4) ((1) Institute of Theoretical Physics and Astrophysics, Univ. Kiel, Germany (2) Institute of Astronomy, Univ. Vienna, Austria (3) MPA Garching, Germany (4) Univ. of Wisconsin, Dept. of Astronomy, Madison, USA)<BR />
+<B>Comments:</B> 14 pages including 23 figures, accepted for publication in Astronomy
+  &amp; Astrophysics<BR />
+<P>
+To investigate the stability properties of polar disks we performed
+two-dimensional hydrodynamical simulations for flat polytropic gaseous
+self-gravitating disks which were perturbed by a central S0-like component. Our
+disk was constructed to resemble that of the proto-typical galaxy NGC 4650A.
+This central perturbation induces initially a stationary two-armed
+tightly-wound leading spiral in the polar disk. For a hot disk (Toomre
+parameter Q&gt;1.7), the structure does not change over the simulation time of 4.5
+Gyr. In case of colder disks, the self-gravity of the spiral becomes dominant,
+it decouples from the central perturbation and grows, until reaching a
+saturation stage in which an open trailing spiral is formed, rather similar to
+that observed in NGC4650A. The timescale for developing non-linear structures
+is 1-2 Gyr; saturation is reached within 2-3 Gyr. The main parameter
+controlling the structure formation is the Toomre parameter. The results are
+surprisingly insensitive to the properties of the central component. If the
+polar disk is much less massive than that in NGC4650A, it forms a weaker
+tightly-wound spiral, similar to that seen in dust absorption in the dust disk
+of NGC2787. Our results are derived for a polytropic equation of state, but
+appear to be generic as the adiabatic exponent is varied between \gamma = 1
+(isothermal) and \gamma = 2 (very stiff).
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510782">astro-ph/0510782</A></B> [<A HREF="/abs/astro-ph/0510782">abs</A>, <a href="/ps/astro-ph/0510782">ps</a>, <a href="/pdf/astro-ph/0510782">pdf</a>, <a href="/format/astro-ph/0510782">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> GEMS Survey Data and Catalog<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Caldwell_J/0/1/0/all/0/1">J. A. R. Caldwell</a>, 
+<a href="/find/astro-ph/1/au:+McIntosh_D/0/1/0/all/0/1">D. H. McIntosh</a>, 
+<a href="/find/astro-ph/1/au:+Rix_H/0/1/0/all/0/1">H-W. Rix</a>, 
+<a href="/find/astro-ph/1/au:+Barden_M/0/1/0/all/0/1">M. Barden</a>, 
+<a href="/find/astro-ph/1/au:+Beckwith_S/0/1/0/all/0/1">S. V. W. Beckwith</a>, 
+<a href="/find/astro-ph/1/au:+Bell_E/0/1/0/all/0/1">E. F. Bell</a>, 
+<a href="/find/astro-ph/1/au:+Borch_A/0/1/0/all/0/1">A. Borch</a>, 
+<a href="/find/astro-ph/1/au:+Heymans_C/0/1/0/all/0/1">C. Heymans</a>, 
+<a href="/find/astro-ph/1/au:+Haeussler_B/0/1/0/all/0/1">B. Haeussler</a>, 
+<a href="/find/astro-ph/1/au:+Jahnke_K/0/1/0/all/0/1">K. Jahnke</a>, 
+<a href="/find/astro-ph/1/au:+Jogee_S/0/1/0/all/0/1">S. Jogee</a>, 
+<a href="/find/astro-ph/1/au:+Meisenheimer_K/0/1/0/all/0/1">K. Meisenheimer</a>, 
+<a href="/find/astro-ph/1/au:+Peng_C/0/1/0/all/0/1">C. Y. Peng</a>, 
+<a href="/find/astro-ph/1/au:+Sanchez_S/0/1/0/all/0/1">S. F. Sanchez</a>, 
+<a href="/find/astro-ph/1/au:+Somerville_R/0/1/0/all/0/1">R. S. Somerville</a>, 
+<a href="/find/astro-ph/1/au:+Wisotzki_L/0/1/0/all/0/1">L. Wisotzki</a>, 
+<a href="/find/astro-ph/1/au:+Wolf_C/0/1/0/all/0/1">C. Wolf</a><BR />
+<B>Comments:</B> submitted to ApJS, 23 pages, 6 figures<BR />
+<P>
+We describe the data reduction and object cataloging for the GEMS survey, a
+large-area (800 arcmin^2) two-band (F606W and F850LP) imaging survey with the
+Advanced Camera for Surveys on HST, centered on the Chandra Deep Field South.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510783">astro-ph/0510783</A></B> [<A HREF="/abs/astro-ph/0510783">abs</A>, <a href="/ps/astro-ph/0510783">ps</a>, <a href="/pdf/astro-ph/0510783">pdf</a>, <a href="/format/astro-ph/0510783">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Is the core of M87 the source of its TeV emission? Implications for
+  unified schemes<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Georganopoulos_M/0/1/0/all/0/1">Markos Georganopoulos</a>, 
+<a href="/find/astro-ph/1/au:+Perlman_E/0/1/0/all/0/1">Eric S. Perlman</a>, 
+<a href="/find/astro-ph/1/au:+Kazanas_D/0/1/0/all/0/1">Demosthenes Kazanas</a><BR />
+<B>Comments:</B> accepted to ApJ Letters<BR />
+<P>
+M87 has been recently shown to be a TeV source which is likely to be
+variable. Based on this, and on contemporaneous optical and X-ray monitoring,
+we argue that the source of the TeV emission is the core of M87 and not one of
+two jet knots (HST-1 and A) with X-ray brightness comparable to that of the
+core. We model the TeV emission in the core as inverse Compton (IC) emission
+from the base of the jet. Homogeneous models fail to reproduce the spectral
+energy distribution (SED) and, in particular, the TeV flux. They also fail to
+comply with the unified scheme of BL Lacertae (BL) objects and FR I radio
+galaxies. A jet that decelerates from a Lorentz factor Gamma ~ 20 down to Gamma
+\~ 5 over a length of ~ 0.1 pc reproduces the observed SED of the M87 core,
+and, when aligned to the line of sight, produces a SED similar to those of TeV
+BLs. The TeV flux in the decelerating jet model is successfully reproduced as
+upstream Compton (UC) scattering, a recently identified emission mechanism, in
+which energetic electrons of the upstream faster flow upscatter the low energy
+photons produced in the slower downstream part of the flow.
+</P>
+&nbsp;<BR />
+</DD>
+<DT><HR><H1>Cross-listings</H1></DT><DD><HR></DD>
+<DT>
+<H3><B><A NAME="gr-qc/0309003">gr-qc/0309003</A></B> [<A HREF="/abs/gr-qc/0309003">abs</A>, <a href="/ps/gr-qc/0309003">ps</a>, <a href="/pdf/gr-qc/0309003">pdf</a>, <a href="/format/gr-qc/0309003">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Comment on "Absence of trapped surfaces and singularities in cylindrical
+  collapse"<BR />
+<B>Authors:</B> 
+<a href="/find/gr-qc/1/au:+Wang_A/0/1/0/all/0/1">Anzhong Wang</a><BR />
+<B>Comments:</B> latex, 2 figures, the last version to appear in Phys. Rev. D<BR />
+<B>Subj-class:</B> General Relativity and Quantum Cosmology; Mathematical Physics<BR />
+<P>
+Recently, the gravitational collapse of an infinite cylindrical thin shell of
+matter in an otherwise empty spacetime with two hypersurface orthogonal Killing
+vectors was studied by Gon\c{c}alves [Phys. Rev. {\bf D65}, 084045 (2002).]. By
+using three "alternative" criteria for trapped surfaces, the author claimed to
+have shown that {\em they can never form either outside or on the shell,
+regardingless of the matter content for the shell, except at asymptotical
+future null infinite}.
+<BR />Following Penrose's original idea, we first define trapped surfaces in
+cylindrical spacetimes in terms of the expansions of null directions orthogonal
+to the surfaces, and then show that the first criterion used by Gon\c{c}alves
+is incorrect. We also show that his analysis of non-existence of trapped
+surfaces in vacuum is incomplete. To confirm our claim, we present an example
+that is a solution to the vacuum Einstein field equations and satisfies all the
+regular conditions imposed by Gon\c{c}alves. After extending the solution to
+the whole spacetime, we show explicitly that trapped surfaces exist in the
+extended region.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="gr-qc/0506122">gr-qc/0506122</A></B> [<A HREF="/abs/gr-qc/0506122">abs</A>, <a href="/ps/gr-qc/0506122">ps</a>, <a href="/pdf/gr-qc/0506122">pdf</a>, <a href="/format/gr-qc/0506122">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Density fluctuations in $\kappa$-deformed inflationary universe<BR />
+<B>Authors:</B> 
+<a href="/find/gr-qc/1/au:+Kim_H/0/1/0/all/0/1">Hyeong-Chan Kim</a>, 
+<a href="/find/gr-qc/1/au:+Yee_J/0/1/0/all/0/1">Jae Hyung Yee</a>, 
+<a href="/find/gr-qc/1/au:+Rim_C/0/1/0/all/0/1">Chaiho Rim</a><BR />
+<B>Comments:</B> final revision; 19 pages, 3 figures; to appear in Phys. Rev. D<BR />
+<P>
+We study the spectrum of metric fluctuation in $\kappa$-deformed inflationary
+universe. We write the theory of scalar metric fluctuations in the
+$\kappa-$deformed Robertson-Walker space, which is represented as a non-local
+theory in the conventional Robertson-Walker space. One important consequence of
+the deformation is that the mode generation time is naturally determined by the
+structure of the $\kappa-$deformation.
+<BR />We expand the non-local action in $H^2/\kappa^2$, with $H$ being the Hubble
+parameter and $\kappa$ the deformation parameter, and then compute the power
+spectra of scalar metric fluctuations both for the cases of exponential and
+power law inflations up to the first order in $H^2/\kappa^2$. We show that the
+power spectra of the metric fluctuation have non-trivial corrections on the
+time dependence and on the momentum dependence compared to the commutative
+space results. Especially for the power law inflation case, the power spectrum
+for UV modes is weakly blue shifted early in the inflation and its strength
+decreases in time. The power spectrum of far-IR modes has cutoff proportional
+to $k^3$ which may explain the low CMB quadrupole moment.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="gr-qc/0508012">gr-qc/0508012</A></B> [<A HREF="/abs/gr-qc/0508012">abs</A>, <a href="/ps/gr-qc/0508012">ps</a>, <a href="/pdf/gr-qc/0508012">pdf</a>, <a href="/format/gr-qc/0508012">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> On the impossibility of using certain existing spacecraft for the
+   measurement of the Lense-Thirring effect in the terrestrial gravitational field<BR />
+<B>Authors:</B> 
+<a href="/find/gr-qc/1/au:+Iorio_L/0/1/0/all/0/1">Lorenzo Iorio</a><BR />
+<B>Comments:</B> LaTex2e, 13 pages, no figures, no tables, 31 references. Reference
+   added, Section 2.4 added<BR />
+<B>Subj-class:</B> General Relativity and Quantum Cosmology; Space Physics<BR />
+<P>
+In the context of the currently ongoing efforts to improve the accuracy and
+reliability of the measurement of the Lense-Thirring effect in the
+gravitational field of the Earth it has recently been proposed to use the data
+from the existing spacecraft endowed with some active mechanisms of
+compensation of the non-gravitational accelerations like GRACE. In this paper
+we critically discuss this interesting possibility. Unfortunately, it turns out
+to be unpracticable because of the impact of the uncancelled even zonal
+harmonic coefficients of the multipolar expansion of the terrestrial
+gravitational potential and of some time-dependent tidal perturbations which
+would resemble as superimposed linear trends over the necessarily limited
+observational time span of the analysis.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="gr-qc/0510105">gr-qc/0510105</A></B> [<A HREF="/abs/gr-qc/0510105">abs</A>, <a href="/ps/gr-qc/0510105">ps</a>, <a href="/pdf/gr-qc/0510105">pdf</a>, <a href="/format/gr-qc/0510105">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> A comment on the possibility of testing the Dvali-Gabadadze-Porrati
+  gravity model with the outer planets of the Solar System<BR />
+<B>Authors:</B> 
+<a href="/find/gr-qc/1/au:+Iorio_L/0/1/0/all/0/1">Lorenzo Iorio</a><BR />
+<B>Comments:</B> LaTex, 7 pages, 2 tables, 0 figures, 18 references<BR />
+<B>Subj-class:</B> General Relativity and Quantum Cosmology; Space Physics<BR />
+<P>
+The multidimensional braneworld gravity model by Dvali, Gabadadze and Porrati
+was primarily put forth to explain the observed acceleration of the expansion
+of the Universe without resorting to dark energy. One of the most intriguing
+features of such a model is that it also predicts small effects on the orbital
+motion of test particles which could be tested in such a way that local
+measurements at Solar System scales would allow to get information on the
+global properties of the Universe. Lue and Starkman derived a secular
+extra-perihelion \omega precession of 5\times 10^-4 arcseconds per century,
+while Iorio showed that the mean longitude \lambda is affected by a secular
+precession of about 10^-3 arcseconds per century. Such effects depend only on
+the eccentricities e of the orbits via second-order terms: they are, instead,
+independent of their semimajor axes a. Up to now, the observational efforts
+focused on the dynamics of the inner planets of the Solar System whose orbits
+are the best known via radar ranging. Since the competing Newtonian and
+Einsteinian effects like the precessions due to the solar quadrupole mass
+moment J2, the gravitoelectric and gravitomagnetic part of the equations of
+motion reduce with increasing distances, it would be possible to argue that an
+analysis of the orbital dynamics of the outer planets of the Solar System, with
+particular emphasis on Saturn because of the ongoing Cassini mission with its
+precision ranging instrumentation, could be helpful in evidencing the predicted
+new features of motion. In this note we investigate this possibility in view of
+the latest results in the planetary ephemeris field. Unfortunately, the current
+level of accuracy rules out this appealing possibility and it appears unlikely
+that Cassini and GAIA will ameliorate the situation.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="hep-ex/0504029">hep-ex/0504029</A></B> [<A HREF="/abs/hep-ex/0504029">abs</A>, <a href="/ps/hep-ex/0504029">ps</a>, <a href="/pdf/hep-ex/0504029">pdf</a>, <a href="/format/hep-ex/0504029">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> MACRO results on atmospheric neutrinos<BR />
+<B>Authors:</B> 
+<a href="/find/hep-ex/1/au:+Giacomelli_G/0/1/0/all/0/1">G. Giacomelli</a>, 
+<a href="/find/hep-ex/1/au:+Margiotta_A/0/1/0/all/0/1">A. Margiotta</a> (Dipartimento di Fisica dell'Universita' and Sezione INFN - Bologna, Italy)<BR />
+<B>Comments:</B> 4 pages, 6 figures. Paper presented at the NOW 2004 Workshop, Conca
+   Specchiulla, Otranto, Italy, September 2004<BR />
+<P>
+We discuss the final results of the MACRO experiment on atmospheric neutrino
+oscillations. The data concern event topologies with average neutrino energies
+of ~3 and ~50 GeV. Multiple Coulomb Scattering of the high energy muons was
+used to estimate the neutrino energy event by event. The angular distributions,
+the L/E_nu distribution, the particle ratios and the absolute fluxes all favor
+nu_mu --&gt; nu_tau oscillations with maximal mixing and Delta m^2 ~0.0023 eV^2.
+Emphasis is given to measured ratios which are not affected by Monte Carlo (MC)
+absolute normalization; a discussion is made on MC uncertainties. A preliminary
+search for possible Lorentz invariance violation contributions to atmospheric
+neutrino oscillations is presented and discussed.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="hep-ph/0510340">hep-ph/0510340</A></B> [<A HREF="/abs/hep-ph/0510340">abs</A>, <a href="/ps/hep-ph/0510340">ps</a>, <a href="/pdf/hep-ph/0510340">pdf</a>, <a href="/format/hep-ph/0510340">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Leptonic Dark Energy and Baryogenesis<BR />
+<B>Authors:</B> 
+<a href="/find/hep-ph/1/au:+Bauer_F/0/1/0/all/0/1">Florian Bauer</a>, 
+<a href="/find/hep-ph/1/au:+Eisele_M/0/1/0/all/0/1">Marc-Thomas Eisele</a>, 
+<a href="/find/hep-ph/1/au:+Garny_M/0/1/0/all/0/1">Mathias Garny</a><BR />
+<B>Comments:</B> 10 pages, 5 figures<BR />
+<P>
+We consider a baryogenesis scenario, where the difference of baryon (B) and
+lepton (L) number is conserved in such a way that the B-L asymmetry in the
+standard model sector is compensated by an asymmetry of opposite sign stored in
+the dark energy sector. Therefore, we introduce a toy-model in which a complex
+quintessence field carries a B-L asymmetry at late times. We determine the
+produced baryon asymmetry in the visible sector for a large range of initial
+conditions and find it easy to achieve a value of the observed order of
+magnitude. While the size of the produced baryon asymmetry depends on details
+of the underlying inflationary model, it turns out to be independent of the
+reheating temperature in many cases. We also discuss possible sources of
+instability like the formation of Q-Balls.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="hep-ph/0510347">hep-ph/0510347</A></B> [<A HREF="/abs/hep-ph/0510347">abs</A>, <a href="/ps/hep-ph/0510347">ps</a>, <a href="/pdf/hep-ph/0510347">pdf</a>, <a href="/format/hep-ph/0510347">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Neutrino emission and cooling rates of spin-one color superconductors<BR />
+<B>Authors:</B> 
+<a href="/find/hep-ph/1/au:+Schmitt_A/0/1/0/all/0/1">Andreas Schmitt</a>, 
+<a href="/find/hep-ph/1/au:+Shovkovy_I/0/1/0/all/0/1">Igor A. Shovkovy</a>, 
+<a href="/find/hep-ph/1/au:+Wang_Q/0/1/0/all/0/1">Qun Wang</a><BR />
+<B>Comments:</B> 24 pages, 6 figures<BR />
+<B>Subj-class:</B> High Energy Physics - Phenomenology; Superconductivity<BR />
+<P>
+Neutrino emissivities due to direct Urca processes of several spin-one
+color-superconducting phases of dense quark matter are calculated. In
+particular, the role of anisotropies and nodes of the gap functions is
+analyzed. Results for the specific heat as well as for the cooling rates of the
+color-spin-locked, planar, polar, and {\it A} phases are presented and
+consequences for the physics of neutron stars are briefly discussed.
+Furthermore, it is shown that the {\em A} phase exhibits a helicity order,
+giving rise to a reflection asymmetry in the neutrino emissivity.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="hep-ph/0510351">hep-ph/0510351</A></B> [<A HREF="/abs/hep-ph/0510351">abs</A>, <a href="/ps/hep-ph/0510351">ps</a>, <a href="/pdf/hep-ph/0510351">pdf</a>, <a href="/format/hep-ph/0510351">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Space-time curvature coupling of spinors in early universe: Neutrino
+  asymmetry and a possible source of baryogenesis<BR />
+<B>Authors:</B> 
+<a href="/find/hep-ph/1/au:+Debnath_U/0/1/0/all/0/1">Ujjal Debnath</a> (JU), 
+<a href="/find/hep-ph/1/au:+Mukhopadhyay_B/0/1/0/all/0/1">Banibrata Mukhopadhyay</a> (Harvard), 
+<a href="/find/hep-ph/1/au:+Dadhich_N/0/1/0/all/0/1">Naresh Dadhich</a> (IUCAA)<BR />
+<B>Comments:</B> 9 RevTeX pages without any figure<BR />
+<P>
+It is well known that when a fermion propagates in curved space-time, its
+spin couples to the curvature of background space-time. We propose that this
+interaction for neutrinos propagating in early curved universe could give rise
+to a new set of dispersion relations and then neutrino asymmetry at
+equilibrium. We demonstrate this with the Bianchi models which describe the
+homogeneous but anisotropic and axially symmetric universe. If the lepton
+number violating processes freeze out at 10^{-37} second when temperature T ~
+10^{15} GeV, neutrino asymmetry of the order of 10^{-10} can be generated. A
+net baryon asymmetry of the same magnitude can thus be generated from this
+lepton asymmetry either by a GUT B-L symmetry or by the electro-week sphaleron
+processes which have B+L symmetry.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="hep-th/0506017">hep-th/0506017</A></B> [<A HREF="/abs/hep-th/0506017">abs</A>, <a href="/ps/hep-th/0506017">ps</a>, <a href="/pdf/hep-th/0506017">pdf</a>, <a href="/format/hep-th/0506017">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> On Gauge Choice of Spherically Symmetric 3-Branes<BR />
+<B>Authors:</B> 
+<a href="/find/hep-th/1/au:+Wang_A/0/1/0/all/0/1">Anzhong Wang</a><BR />
+<B>Comments:</B> Latex, final version to appear in Class. Quantum Grav<BR />
+<P>
+Gauge choice for a spherically symmetric 3-brane embedded in a D-dimensional
+bulk with arbitrary matter fields on and off the brane is studied. It is shown
+that Israel's junction conditions across the brane restrict severely the
+dependence of the matter fields on the spacetime coordinates. As examples, a
+scalar field or a Yang-Mills potential can be only either time-dependent or
+radial-coordinate dependent for the chosen gauge, while for a perfect fluid it
+must be co-moving.
+</P>
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="nlin.CD/0510069">nlin.CD/0510069</A></B> [<A HREF="/abs/nlin.CD/0510069">abs</A>, <a href="/ps/nlin.CD/0510069">ps</a>, <a href="/pdf/nlin.CD/0510069">pdf</a>, <a href="/format/nlin.CD/0510069">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Introduction to Statstical Theory of Fluid Turbulence<BR />
+<B>Authors:</B> 
+<a href="/find/nlin/1/au:+Verma_M/0/1/0/all/0/1">Mahendra K. Verma</a><BR />
+<B>Comments:</B> 40 pages; The labels in Feynman diagram missing due to tex problems.
+  Look at my webpage <A HREF="http://home.iitk.ac.in/~mkv//prof/publications.html">this http URL</A> for
+  proper Feynman diagrams<BR />
+<B>Subj-class:</B> Chaotic Dynamics; Statistical Mechanics; Fluid Dynamics<BR />
+<P>
+This is a brief introduction to the statistical theory of fluid turbulence,
+with emphasis on field-theoretic treatment of renormalized viscosity and energy
+fluxes.
+</P>
+&nbsp;<BR />
+</DD>
+<DT><HR><H1>Replacements</H1></DT><DD><HR><DD>
+<DT>
+<H3><B><A NAME="astro-ph/0503532">astro-ph/0503532</A></B> [<A HREF="/abs/astro-ph/0503532">abs</A>, <a href="/ps/astro-ph/0503532">ps</a>, <a href="/pdf/astro-ph/0503532">pdf</a>, <a href="/format/astro-ph/0503532">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Soft gamma repeaters outside the Local group<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Popov_S/0/1/0/all/0/1">S.B. Popov</a> (1), 
+<a href="/find/astro-ph/1/au:+Stern_B/0/1/0/all/0/1">B.E. Stern</a> (2,3,4) (1-Sternberg Astronomical Institute; 2 - Institute for Nuclear Research; 3 - Astro Space Center of Lebedev Physical Institute; 4 - University of Oulu)<BR />
+<B>Comments:</B> 14 pages with 3 figures; accepted to MNRAS (final version)<BR />
+<B>Note:</B> replaced with revised version Thu, 27 Oct 2005 07:39:18 GMT   (23kb)<BR />
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0505377">astro-ph/0505377</A></B> [<A HREF="/abs/astro-ph/0505377">abs</A>, <a href="/pdf/astro-ph/0505377">pdf</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> The Large-Scale Electrochemistry and Possible Consequences of Deep
+  Impact Mission to Tempel 1<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Drobyshevski_E/0/1/0/all/0/1">E.M.Drobyshevski</a>, 
+<a href="/find/astro-ph/1/au:+Kumzerova_E/0/1/0/all/0/1">E.A.Kumzerova</a>, 
+<a href="/find/astro-ph/1/au:+Schmidt_A/0/1/0/all/0/1">A.A.Schmidt</a><BR />
+<B>Comments:</B> 14 pages including 3 figures<BR />
+<B>Note:</B> replaced with revised version Thu, 27 Oct 2005 13:11:39 GMT   (260kb)<BR />
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0505406">astro-ph/0505406</A></B> [<A HREF="/abs/astro-ph/0505406">abs</A>, <a href="/ps/astro-ph/0505406">ps</a>, <a href="/pdf/astro-ph/0505406">pdf</a>, <a href="/format/astro-ph/0505406">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Magnetars origin and progenitors with enhanced rotation<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Popov_S/0/1/0/all/0/1">S.B. Popov</a> (1), 
+<a href="/find/astro-ph/1/au:+Prokhorov_M/0/1/0/all/0/1">M.E. Prokhorov</a> (1) (1-Sternberg Astronomical Institute)<BR />
+<B>Comments:</B> 11 pages, no figures (resubmitted to MNRAS)<BR />
+<B>Note:</B> replaced with revised version Thu, 27 Oct 2005 07:51:22 GMT   (11kb)<BR />
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0507521">astro-ph/0507521</A></B> [<A HREF="/abs/astro-ph/0507521">abs</A>, <a href="/ps/astro-ph/0507521">ps</a>, <a href="/pdf/astro-ph/0507521">pdf</a>, <a href="/format/astro-ph/0507521">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Differential Microlensing of the Continuum and Broad Emission Lines in
+  SDSS J0924+0219, the Most Anomalous Lensed Quasar<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Keeton_C/0/1/0/all/0/1">Charles R. Keeton</a>, 
+<a href="/find/astro-ph/1/au:+Burles_S/0/1/0/all/0/1">Scott Burles</a>, 
+<a href="/find/astro-ph/1/au:+Schechter_P/0/1/0/all/0/1">Paul L. Schechter</a>, 
+<a href="/find/astro-ph/1/au:+Wambsganss_J/0/1/0/all/0/1">Joachim Wambsganss</a><BR />
+<B>Comments:</B> accepted in ApJ; two figures have been added, and the statistical
+  analysis has been improved<BR />
+<B>Note:</B> replaced with revised version Wed, 26 Oct 2005 20:46:45 GMT   (140kb)<BR />
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0508498">astro-ph/0508498</A></B> [<A HREF="/abs/astro-ph/0508498">abs</A>, <a href="/ps/astro-ph/0508498">ps</a>, <a href="/pdf/astro-ph/0508498">pdf</a>, <a href="/format/astro-ph/0508498">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Coherent Radiation in Gamma-Ray Bursts and Relativistic Collisionless
+  Shocks<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Ioka_K/0/1/0/all/0/1">Kunihito Ioka</a><BR />
+<B>Comments:</B> 6 pages, accepted for publication in Progress of Theoretical Physics<BR />
+<B>Note:</B> replaced with revised version Thu, 27 Oct 2005 09:14:25 GMT   (8kb)<BR />
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0508691">astro-ph/0508691</A></B> [<A HREF="/abs/astro-ph/0508691">abs</A>, <a href="/ps/astro-ph/0508691">ps</a>, <a href="/pdf/astro-ph/0508691">pdf</a>, <a href="/format/astro-ph/0508691">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Simulating the boundary layer between a white dwarf and its accretion
+  disc<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Fisker_J/0/1/0/all/0/1">Jacob Lund Fisker</a>, 
+<a href="/find/astro-ph/1/au:+Balsara_D/0/1/0/all/0/1">Dinshaw S. Balsara</a><BR />
+<B>Comments:</B> 8 pages, 2 figures, accepted for publication in Astrophys. J. Letters<BR />
+<B>Note:</B> replaced with revised version Wed, 26 Oct 2005 21:12:36 GMT   (97kb)<BR />
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0509490">astro-ph/0509490</A></B> [<A HREF="/abs/astro-ph/0509490">abs</A>, <a href="/ps/astro-ph/0509490">ps</a>, <a href="/pdf/astro-ph/0509490">pdf</a>, <a href="/format/astro-ph/0509490">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Cluster Origin of Triple Star HD 188753 and its Planet<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Pfahl_E/0/1/0/all/0/1">Eric Pfahl</a> (KITP/Ucsb)<BR />
+<B>Comments:</B> Accepted by ApJL; minor changes from original<BR />
+<B>Note:</B> replaced with revised version Wed, 26 Oct 2005 21:32:29 GMT   (152kb)<BR />
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510566">astro-ph/0510566</A></B> [<A HREF="/abs/astro-ph/0510566">abs</A>, <a href="/ps/astro-ph/0510566">ps</a>, <a href="/pdf/astro-ph/0510566">pdf</a>, <a href="/format/astro-ph/0510566">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Swift and optical observations of GRB 050401<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Pasquale_M/0/1/0/all/0/1">Massimiliano De Pasquale</a>, 
+<a href="/find/astro-ph/1/au:+Beardmore_A/0/1/0/all/0/1">Andy P. Beardmore</a>, 
+<a href="/find/astro-ph/1/au:+Barthelmy_S/0/1/0/all/0/1">S.D. Barthelmy</a>, 
+<a href="/find/astro-ph/1/au:+Boyd_P/0/1/0/all/0/1">P. Boyd</a>, 
+<a href="/find/astro-ph/1/au:+Burrows_D/0/1/0/all/0/1">D.N. Burrows</a>, 
+<a href="/find/astro-ph/1/au:+Fink_R/0/1/0/all/0/1">R. Fink</a>, 
+<a href="/find/astro-ph/1/au:+Geherls_N/0/1/0/all/0/1">N. Geherls</a>, 
+<a href="/find/astro-ph/1/au:+Kobayashi_S/0/1/0/all/0/1">S. Kobayashi</a>, 
+<a href="/find/astro-ph/1/au:+Mason_K/0/1/0/all/0/1">K.O. Mason</a>, 
+<a href="/find/astro-ph/1/au:+McNought_R/0/1/0/all/0/1">R. McNought</a>, 
+<a href="/find/astro-ph/1/au:+Nousek_J/0/1/0/all/0/1">J.A. Nousek</a>, 
+<a href="/find/astro-ph/1/au:+Page_K/0/1/0/all/0/1">K.L. Page</a>, 
+<a href="/find/astro-ph/1/au:+Palmer_D/0/1/0/all/0/1">D.M. Palmer</a>, 
+<a href="/find/astro-ph/1/au:+Peterson_B/0/1/0/all/0/1">B.A. Peterson</a>, 
+<a href="/find/astro-ph/1/au:+Price_P/0/1/0/all/0/1">P.A. Price</a>, 
+<a href="/find/astro-ph/1/au:+Rich_J/0/1/0/all/0/1">J. Rich</a>, 
+<a href="/find/astro-ph/1/au:+Roming_P/0/1/0/all/0/1">P. Roming</a>, 
+<a href="/find/astro-ph/1/au:+Rosen_S/0/1/0/all/0/1">S.R. Rosen</a>, 
+<a href="/find/astro-ph/1/au:+Sakamoto_T/0/1/0/all/0/1">T. Sakamoto</a>, 
+<a href="/find/astro-ph/1/au:+Schimdt_B/0/1/0/all/0/1">B.P. Schimdt</a>, 
+<a href="/find/astro-ph/1/au:+Tueller_J/0/1/0/all/0/1">J. Tueller</a>, 
+<a href="/find/astro-ph/1/au:+Wells_A/0/1/0/all/0/1">A.A. Wells</a>, 
+<a href="/find/astro-ph/1/au:+Zane_S/0/1/0/all/0/1">S. Zane</a>, 
+<a href="/find/astro-ph/1/au:+Zhang_B/0/1/0/all/0/1">B. Zhang</a>, 
+<a href="/find/astro-ph/1/au:+Ziaeepour_H/0/1/0/all/0/1">H. Ziaeepour</a><BR />
+<B>Comments:</B> 13 pages, 5 figures. MNRAS accepted<BR />
+<B>Note:</B> replaced with revised version Thu, 27 Oct 2005 16:18:19 GMT   (93kb)<BR />
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510650">astro-ph/0510650</A></B> [<A HREF="/abs/astro-ph/0510650">abs</A>, <a href="/ps/astro-ph/0510650">ps</a>, <a href="/pdf/astro-ph/0510650">pdf</a>, <a href="/format/astro-ph/0510650">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> The Warped Nuclear Disk of Radio Galaxy 3C 449<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Tremblay_G/0/1/0/all/0/1">Grant R. Tremblay</a>, 
+<a href="/find/astro-ph/1/au:+Quillen_A/0/1/0/all/0/1">Alice C. Quillen</a>, 
+<a href="/find/astro-ph/1/au:+Floyd_D/0/1/0/all/0/1">David J. E. Floyd</a>, 
+<a href="/find/astro-ph/1/au:+Noel_Storr_J/0/1/0/all/0/1">Jacob Noel-Storr</a>, 
+<a href="/find/astro-ph/1/au:+Baum_S/0/1/0/all/0/1">Stefi A. Baum</a>, 
+<a href="/find/astro-ph/1/au:+Axon_D/0/1/0/all/0/1">David Axon</a>, 
+<a href="/find/astro-ph/1/au:+ODea_C/0/1/0/all/0/1">Christopher P. O'Dea</a>, 
+<a href="/find/astro-ph/1/au:+Chiaberge_M/0/1/0/all/0/1">Marco Chiaberge</a>, 
+<a href="/find/astro-ph/1/au:+Macchetto_F/0/1/0/all/0/1">F. Duccio Macchetto</a>, 
+<a href="/find/astro-ph/1/au:+Sparks_W/0/1/0/all/0/1">William B. Sparks</a>, 
+<a href="/find/astro-ph/1/au:+Miley_G/0/1/0/all/0/1">George K. Miley</a>, 
+<a href="/find/astro-ph/1/au:+Capetti_A/0/1/0/all/0/1">Alessandro Capetti</a>, 
+<a href="/find/astro-ph/1/au:+Madrid_J/0/1/0/all/0/1">Juan P. Madrid</a>, 
+<a href="/find/astro-ph/1/au:+Perlman_E/0/1/0/all/0/1">Eric Perlman</a><BR />
+<B>Comments:</B> 13 pages, 6 figures; will submit to ApJ or New Astronomy. Updated for
+  minor revisions<BR />
+<B>Note:</B> replaced with revised version Thu, 27 Oct 2005 02:38:10 GMT   (422kb)<BR />
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="astro-ph/0510703">astro-ph/0510703</A></B> [<A HREF="/abs/astro-ph/0510703">abs</A>, <a href="/ps/astro-ph/0510703">ps</a>, <a href="/pdf/astro-ph/0510703">pdf</a>, <a href="/format/astro-ph/0510703">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> X-rays from the radio-quiet quasar PG 1407+265: relativistic jet or
+  accretion disc emission?<BR />
+<B>Authors:</B> 
+<a href="/find/astro-ph/1/au:+Gallo_L/0/1/0/all/0/1">L. C. Gallo</a> (MPE)<BR />
+<B>Comments:</B> 9 pages, 8 figures. Accepted for publication in MNRAS. Correction
+  made to reported aox value. No changes in conclusions<BR />
+<B>Note:</B> replaced with revised version Thu, 27 Oct 2005 05:42:11 GMT   (159kb)<BR />
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="gr-qc/0504115">gr-qc/0504115</A></B> [<A HREF="/abs/gr-qc/0504115">abs</A>, <a href="/ps/gr-qc/0504115">ps</a>, <a href="/pdf/gr-qc/0504115">pdf</a>, <a href="/format/gr-qc/0504115">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Cosmological Solutions in Macroscopic Gravity<BR />
+<B>Authors:</B> 
+<a href="/find/gr-qc/1/au:+Coley_A/0/1/0/all/0/1">A.A. Coley</a>, 
+<a href="/find/gr-qc/1/au:+Pelavas_N/0/1/0/all/0/1">N. Pelavas</a>, 
+<a href="/find/gr-qc/1/au:+Zalaletdinov_R/0/1/0/all/0/1">R.M. Zalaletdinov</a><BR />
+<B>Comments:</B> 5 pages<BR />
+<B>Journal-ref:</B> Phys. Rev. Lett. 95, 151102 (2005)<BR />
+<B>Note:</B> replaced with revised version Thu, 27 Oct 2005 17:19:49 GMT   (9kb)<BR />
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="hep-ph/0503080">hep-ph/0503080</A></B> [<A HREF="/abs/hep-ph/0503080">abs</A>, <a href="/ps/hep-ph/0503080">ps</a>, <a href="/pdf/hep-ph/0503080">pdf</a>, <a href="/format/hep-ph/0503080">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Quintessential Kination and Cold Dark Matter Abundance<BR />
+<B>Authors:</B> 
+<a href="/find/hep-ph/1/au:+Pallis_C/0/1/0/all/0/1">C. Pallis</a><BR />
+<B>Comments:</B> Published version<BR />
+<B>Journal-ref:</B> JCAP 10(2005)015<BR />
+<B>Note:</B> replaced with revised version Thu, 27 Oct 2005 15:44:33 GMT   (442kb)<BR />
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="hep-th/0503010">hep-th/0503010</A></B> [<A HREF="/abs/hep-th/0503010">abs</A>, <a href="/ps/hep-th/0503010">ps</a>, <a href="/pdf/hep-th/0503010">pdf</a>, <a href="/format/hep-th/0503010">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Hawking Radiation from a (4+n)-Dimensional Rotating Black Hole on the
+  Brane<BR />
+<B>Authors:</B> 
+<a href="/find/hep-th/1/au:+Harris_C/0/1/0/all/0/1">C.M. Harris</a>, 
+<a href="/find/hep-th/1/au:+Kanti_P/0/1/0/all/0/1">P. Kanti</a><BR />
+<B>Comments:</B> 9 pages, Latex file, 5 figures, a new figure and a paragraph have
+  been added along with some clarifying comments, version to appear in Phys.
+  Lett. B<BR />
+<B>Note:</B> replaced with revised version Thu, 27 Oct 2005 13:34:07 GMT   (21kb)<BR />
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="hep-th/0509108">hep-th/0509108</A></B> [<A HREF="/abs/hep-th/0509108">abs</A>, <a href="/ps/hep-th/0509108">ps</a>, <a href="/pdf/hep-th/0509108">pdf</a>, <a href="/format/hep-th/0509108">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> A new picture for 4-dimensional 'spacetime' from intersecting D-branes
+  on the T^9<BR />
+<B>Authors:</B> 
+<a href="/find/hep-th/1/au:+Ott_T/0/1/0/all/0/1">Tassilo Ott</a><BR />
+<B>Comments:</B> 53 pages, 6 figures, v2:references added<BR />
+<B>Note:</B> replaced with revised version Thu, 27 Oct 2005 15:23:11 GMT   (928kb)<BR />
+&nbsp;<BR />
+</DD>
+<DT>
+<H3><B><A NAME="physics/0506010">physics/0506010</A></B> [<A HREF="/abs/physics/0506010">abs</A>, <a href="/ps/physics/0506010">ps</a>, <a href="/pdf/physics/0506010">pdf</a>, <a href="/format/physics/0506010">other</a>] :</H3>
+</DT>
+<DD>
+<B>Title:</B> Sifting data in the real world<BR />
+<B>Authors:</B> 
+<a href="/find/physics/1/au:+Block_M/0/1/0/all/0/1">Martin M. Block</a><BR />
+<B>Comments:</B> 29 pages, 13 figures. Version to appear in Nucl. Instr. &amp; Meth. A<BR />
+<B>Subj-class:</B> Data Analysis, Statistics and Probability<BR />
+<B>Note:</B> replaced with revised version Thu, 27 Oct 2005 18:34:27 GMT   (267kb)<BR />
+&nbsp;<BR />
+</DD>
+</DL>
+<HR><PRE>For subscribe options to combined physics archives,
+e-mail To: physics@arXiv.org, Subject: subscribe
+-----------------------------------------------------------------------------
+For help on viewing and making submissions, see <A HREF="http://arXiv.org/help/">this http URL</A>
+For a list of archive mirror sites, see <A HREF="http://arXiv.org/servers.html">this http URL</A>
+-----------------------------------------------------------------------------
+Third-party submissions cause excessive problems.
+Author self-submissions are exceedingly preferred.
+E-mail submissions have been discontinued in favor of better support for
+Web submissions. See <A HREF="http://arXiv.org/help/uploads">this http URL</A>
+</PRE>
+
+<FORM ACTION="/form/astro-ph">
+<H3><HR WIDTH="70%">Links to:
+<A HREF="/">arXiv</A>, 
+<A HREF="/archive/astro-ph">astro-ph</A>,
+/<A HREF="/find/astro-ph">find</A>,
+/<A HREF="/abs/astro-ph">abs</A>, /<A HREF="/list/astro-ph/recent">recent</a>, /<A HREF="/list/astro-ph/0510">0510</A>,
+<A HREF="/help/"><b>?</b></A>
+<INPUT TYPE="submit" NAME="MULTI" VALUE="form interface">
+<HR WIDTH="70%"></H3>
+</FORM>
+
+</BODY>
+</HTML>

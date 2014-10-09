@@ -1,0 +1,2 @@
+BEGIN {RS="@"}
+/ADAF/||/AGN/||/inary/||/inaries/||/tarburst/||/tar\ burst/||/accret/||/Accret/||/utflow/||/ULIRG/||/Begelman/||/Blandford/||/Narayan/||/an\ der\ Klis/||/Replacements/||/Cross\-listings/ {print $0}

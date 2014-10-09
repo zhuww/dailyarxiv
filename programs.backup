@@ -1,0 +1,12 @@
+s/arXiv/@arXiv/g
+s/astro-ph/@astro-ph/g
+s/gr-qc/@gr-qc/g
+s/hep-ph/@hep-ph/g
+s/hep-th/@hep-th/g
+s/hep-ex/@hep-ex/g
+s/physics\//@physics\//g
+s/quant-ph/@quant-ph/g
+s/nucl-ex/@nucl-ex/g
+s/nucl-th/@nucl-th/g
+s/Cross-listings/@Cross-listings/g
+s/Replacements/@Replacements/g

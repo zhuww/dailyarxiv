@@ -1,0 +1,79 @@
+subject: New issues on archive
+From: zhuww@b59
+To: zhuww@bac.pku.edu.cn
+cc: phil_pku@sohu.com
+
+
+astro-ph/0608682 [abs, ps, pdf, other] :
+          Title:  Proto-Neutron  Star  Winds  with  Magnetic  Fields  and
+          Rotation
+          Authors: Brian D. Metzger, Todd A. Thompson, Eliot Quataert
+          Comments: 21 pages, 12 figures, submitted to ApJ
+          We  solve  the  1D  neutrino-heated  non-relativistic  MHD wind
+          problem  for  conditions  that range from slowly rotating (spin
+          period  P > 10 ms) protoneutron stars (PNSs) with surface field
+          strengths   typical   of  radio  pulsars  (B  <  10^13  G),  to
+          "proto-magnetars"  with B ~ 10^14-10^15 G in their hypothesized
+          rapidly  rotating  initial  states  (P  ~  1  ms).  We  use the
+          simulations  of  Bucciantini  et al. (2006) to map our monopole
+          results  onto  a  more physical dipole geometry and to estimate
+          the spindown of PNSs when their winds are relativistic. We then
+          quantify  the  effects  of  rotation and magnetic fields on the
+          mass  loss,  energy  loss, and r-process nucleosynthesis in PNS
+          winds.  We  describe  the  evolution  of  PNS winds through the
+          Kelvin-Helmholtz  cooling  epoch,  emphasizing  the  transition
+          between   (1)  thermal  neutrino-driven,  (2)  non-relativistic
+          magnetically-dominated,        and       (3)       relativistic
+          magnetically-dominated  outflows.  We find that proto-magnetars
+          with  P  ~  1  ms and B > 10^15 G drive relativistic winds with
+          luminosities,  energies,  and  Lorentz  factors  (magnetization
+          sigma  ~ 1-1000) consistent with those required to produce long
+          duration gamma-ray bursts and hyper-energetic supernovae (SNe).
+          A   significant  fraction  of  the  rotational  energy  may  be
+          extracted  in only a few seconds, sufficiently rapidly to alter
+          the  asymptotic  energy of the SN remnant, its morphology, and,
+          potentially,  its  nucleosynthetic  yield. Winds from PNSs with
+          more   modest   rotation   periods   (2   -  10  ms)  and  with
+          magnetar-strength  fields produce conditions significantly more
+          favorable  for  the  r-process  than winds from slowly rotating
+          PNSs.  Lastly,  we  show that energy and momentum deposition by
+          convectively-excited  waves  further increase the likelihood of
+          successful r-process in PNS winds.
+
+
+   
+astro-ph/0608689 [abs, ps, pdf, other] :
+          Title:  On  the  role  of  the  current  loss  in  radio pulsar
+          evolution
+          Authors: V.S.Beskin, E.E.Nokhrina
+          Comments: 4 pages, to appear in Astrophysics and Space Science,
+          Special Issue: Isolated Neutron Stars
+          The  aim of this article is to draw attention to the importance
+          of  the  electric  current  loss  in the energy output of radio
+          pulsars.  We  remind  that  even  the  losses attributed to the
+          magneto-dipole  radiation  of a pulsar in vacuum can be written
+          as  a  result of an Ampere force action of the electric currens
+          flowing  over the neutron star surface (Michel, 1991, Beskin et
+          al.,  1993).  It  is  this  force  that  is responsible for the
+          transfer  of  angular momentum of a neutron star to an outgoing
+          magneto-dipole  wave.  If a pulsar is surrounded by plasma, and
+          there is no longitudinal current in its magnetosphere, there is
+          no  energy  loss (Beskin et al., 1993, Mestel et al., 1999). It
+          is the longitudinal current closing within the pulsar polar cap
+          that  exerts the retardation torque acting on the neutron star.
+          This  torque can be determined if the structure of longitudinal
+          current  is  known.  Here  we remind of the solution by Beskin,
+          Gurevitch  & Istomin (1993) and discuss the validity of such an
+          assumption.  The  behavior  of the recently observed "part-time
+          job"  pulsar  B1931+24  can  be  naturally explained within the
+          model  of  current  loss  while  the magneto-dipole model faces
+          difficulties.
+
+
+   
+Cross-listings
+
+   
+Replacements
+
+   

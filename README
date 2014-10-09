@@ -1,0 +1,6 @@
+A simple code searchs the new issues on arxiv.org for desired patterns.
+Based on lynx, sendmail and python.
+
+-Weiwei Zhu
+before 2005 (First written)
+uploade to git (09.10.2014)

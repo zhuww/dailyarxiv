@@ -1,0 +1,2 @@
+BEGIN {RS="@"}
+/Kaspi pattern McLaughlin/ {print $0}

@@ -1,0 +1,345 @@
+subject: New issues on archive
+From: zhuww@b59
+To: qianl@vega.bac.pku.edu.cn
+
+
+astro-ph/0608682 [abs, ps, pdf, other] :
+          Title:  Proto-Neutron  Star  Winds  with  Magnetic  Fields  and
+          Rotation
+          Authors: Brian D. Metzger, Todd A. Thompson, Eliot Quataert
+          Comments: 21 pages, 12 figures, submitted to ApJ
+          We  solve  the  1D  neutrino-heated  non-relativistic  MHD wind
+          problem  for  conditions  that range from slowly rotating (spin
+          period  P > 10 ms) protoneutron stars (PNSs) with surface field
+          strengths   typical   of  radio  pulsars  (B  <  10^13  G),  to
+          "proto-magnetars"  with B ~ 10^14-10^15 G in their hypothesized
+          rapidly  rotating  initial  states  (P  ~  1  ms).  We  use the
+          simulations  of  Bucciantini  et al. (2006) to map our monopole
+          results  onto  a  more physical dipole geometry and to estimate
+          the spindown of PNSs when their winds are relativistic. We then
+          quantify  the  effects  of  rotation and magnetic fields on the
+          mass  loss,  energy  loss, and r-process nucleosynthesis in PNS
+          winds.  We  describe  the  evolution  of  PNS winds through the
+          Kelvin-Helmholtz  cooling  epoch,  emphasizing  the  transition
+          between   (1)  thermal  neutrino-driven,  (2)  non-relativistic
+          magnetically-dominated,        and       (3)       relativistic
+          magnetically-dominated  outflows.  We find that proto-magnetars
+          with  P  ~  1  ms and B > 10^15 G drive relativistic winds with
+          luminosities,  energies,  and  Lorentz  factors  (magnetization
+          sigma  ~ 1-1000) consistent with those required to produce long
+          duration gamma-ray bursts and hyper-energetic supernovae (SNe).
+          A   significant  fraction  of  the  rotational  energy  may  be
+          extracted  in only a few seconds, sufficiently rapidly to alter
+          the  asymptotic  energy of the SN remnant, its morphology, and,
+          potentially,  its  nucleosynthetic  yield. Winds from PNSs with
+          more   modest   rotation   periods   (2   -  10  ms)  and  with
+          magnetar-strength  fields produce conditions significantly more
+          favorable  for  the  r-process  than winds from slowly rotating
+          PNSs.  Lastly,  we  show that energy and momentum deposition by
+          convectively-excited  waves  further increase the likelihood of
+          successful r-process in PNS winds.
+
+
+   
+astro-ph/0608683 [abs, ps, pdf, other] :
+          Title:   CO   line   emission   from  Lyman  Break  Galaxies  -
+          cosmological simulations and predictions for ALMA
+          Authors:  T. R. Greve (1), J. Sommer-Larsen (2) ((1) California
+          Institute  of Technology, (2) DARK Cosmology Centre, NBI, Univ.
+          of Copenhagen)
+          Comments:  10  pages  (preprint format), 1 figure. Submitted to
+          ApJ Letters
+          We present maps and spectra of rotational CO line emission from
+          a  cosmological  self-consistent  N-body/hydrodynamical TreeSPH
+          simulation  of  a  z~3 merger system with properties similar to
+          Lyman   Break   Galaxies   at  those  redshifts.  The  CO  line
+          intensities  and widths predicted by our simulation are in good
+          agreement  with  those  of  MS1512-cB58 -- the only Lyman break
+          system  detected  in  CO to date. We find that while supernovae
+          explosions  from  the  on-going  star formation carve out large
+          cavities  in  the  molecular  ISM,  they  do not generate large
+          enough  gas  outflows  to  make a substantial imprint on the CO
+          line profile. This implies that for most proto-galaxies at high
+          redshift  --  except possibly the most extreme cases -- stellar
+          feedback  effects  do  not  jeopardize  CO  as a dynamical mass
+          tracer.  Finally,  using  our  model  we  have simulated a mock
+          observation  with ALMA, from which we confirm that ALMA will be
+          able  to  detect CO in LBG-type galaxies at high-z on a routine
+          basis, and distinguish between edge-on and face-on disk systems
+          based on the shape of the CO line profile alone. In such cases,
+          we  find  that  dynamical  masses  can be inferred to within 20
+          per-cent  accuracy,  although  this  will  improve  for angular
+          resolutions  better than 0.1", which we find is the upper limit
+          at  which  LBGs  at  z~3 are robustly resolved in CO. This will
+          signify  an  important  step  forward  in  our understanding of
+          galaxy  formation  and  evolution,  since  LBGs  are the likely
+          progenitors of the bulk population of galaxies seen today.
+
+
+   
+astro-ph/0608690 [abs, ps, pdf, other] :
+          Title:  Environmental  Dependence  of  Cold  Dark  Matter  Halo
+          Formation
+          Authors: H.Y. Wang, H.J. Mo, Y.P. Jing
+          Comments: 18 pages, 21 figures, submitted to MNRas
+          We  use  a high-resolution $N$-body simulation to study how the
+          formation  of cold dark matter (CDM) halos is affected by their
+          environments,  and  how  such environmental effects produce the
+          age-dependence  of  halo clustering observed in recent $N$-body
+          simulations.  We  estimate, for each halo selected at $z=0$, an
+          `initial'  mass  $M_{\rm i}$ defined to be the mass enclosed by
+          the largest sphere which contains the initial barycenter of the
+          halo  particles  and  within  which  the mean linear density is
+          equal  to  the critical value for spherical collapse. For halos
+          of a given final mass, $M_{\rm h}$, the ratio $M_{\rm i}/M_{\rm
+          h}$  has  large scatter, and the scatter is larger for halos of
+          lower  final  masses.  Halos  that form earlier on average have
+          larger $M_{\rm i}/M_{\rm h}$, and so correspond to higher peaks
+          in the initial density field than their final masses imply. Old
+          halos are more strongly clustered than younger ones of the same
+          mass   because   their   initial   masses   are   larger.   The
+          age-dependence of clustering for low-mass halos is entirely due
+          to the difference in the initial/final mass ratio. Low-mass old
+          halos  are  almost  always  located  in  the  vicinity  of  big
+          structures, and their old ages are largely due to the fact that
+          their  mass  accretions  are suppressed by the hot environments
+          produced  by  the  tidal  fields  of  the larger structure. The
+          age-dependence  of  clustering is weaker for more massive halos
+          because  the  heating  by  large-scale  tidal  fields  is  less
+          important.
+
+
+   
+astro-ph/0608692 [abs, ps, pdf, other] :
+          Title:  XMM  search  for  $X$-ray  emission from the black hole
+          candidate MACHO-96-BLG-5
+          Authors:  A.  A. Nucita, F. De Paolis, G. Ingrosso, D. Elia, J.
+          de Plaa, J. S. Kaastra
+          Comments: in press on ApJ
+          MACHO-96-BLG-5  is  a  microlensing  event observed towards the
+          bulge  of  the Galaxy with exceptionally long duration of $\sim
+          970$  days.  The microlensing parallax fit parameters were used
+          to  estimate the lens mass $M=6^{+10}_{-3}$ M$_{\odot}$ and its
+          distance  $d$ which results to be in the range 0.5 kpc - 2 kpc.
+          The  upper  limit  on the absolute brightness for main-sequence
+          stars  of  the same mass is less than 1 $L_{\odot}$ so that the
+          lens  is  a  good  black hole candidate. If it is so, the black
+          hole  would  accrete by interstellar medium thereby emitting in
+          the  $X$-ray  band.  Here,  the  analysis  of an {\it XMM} deep
+          observation  towards  MACHO-96-BLG-5 lens position is reported.
+          Only  an upper limit (at 99.8% confidence level) to the $X$-ray
+          flux   from   the  lens  position  of  $9.10\times  10^{-15}$--
+          $1.45\times 10^{-14}$ erg cm$^{-2}$ s$^{-1}$ in the energy band
+          $0.2-10$  keV  has  been  obtained  from  that deep observation
+          allowing   to  constrain  the  putative  black  hole  accretion
+          parameters.
+
+
+   
+astro-ph/0608695 [abs, ps, pdf, other] :
+          Title:   Self-induced   conversion  in  dense  neutrino  gases:
+          Pendulum in flavour space
+          Authors:  S.Hannestad (Univ. Aarhus), G.G.Raffelt (MPI Physics,
+          Munich), G.Sigl (APC, Paris), Y.Y.Y.Wong (MPI Physics, Munich)
+          Comments: 20 pages, 8 figures, revtex format
+          Neutrino-neutrino  interactions  can lead to collective flavour
+          conversion  effects in supernovae and in the early universe. We
+          demonstrate  that  the  case of "bipolar" oscillations, where a
+          dense  gas  of  neutrinos  and  antineutrinos  in equal numbers
+          completely  converts  from  one  flavour to another even if the
+          mixing  angle  is small, is equivalent to a pendulum in flavour
+          space.  Bipolar  flavour conversion corresponds to the swinging
+          of  the  pendulum, which begins in an unstable upright position
+          (the  initial  flavour),  and  passes  through  momentarily the
+          vertically  downward position (the other flavour) in the course
+          of  its  motion.  The  time  scale  to  complete  one  cycle of
+          oscillation depends logarithmically on the vacuum mixing angle.
+          Likewise,  the  presence  of  an  ordinary  medium can be shown
+          analytically  to  contribute  to  a logarithmic increase in the
+          bipolar  conversion period. We further find that a more complex
+          (and  realistic)  system  of  unequal  numbers of neutrinos and
+          antineutrinos  is  analogous  to  a  spinning  top subject to a
+          torque.  This  analogy  easily  explains that such a system can
+          oscillate  in  both  the  bipolar  or  the  synchronised  mode,
+          depending   on  the  neutrino  density  and  the  size  of  the
+          neutrino-antineutrino  asymmetry.  Our  simple model applies to
+          isotropic  and  "single-angle"  systems,  as well as systems in
+          which  the  matrix  of  neutrino-neutrino  couplings  possesses
+          certain symmetries that prevent kinematical decoherence between
+          the  individual neutrino modes. In more general cases, however,
+          and  especially  in  the  case  of  neutrinos  emitted  from  a
+          supernova  core, these symmetries are not necessarily manifest.
+          As  a  result,  quick decoherence in flavour space, rather than
+          collective  bipolar  oscillations,  for  both  the  normal  and
+          inverted  mass hierarchies may in fact be the generic behaviour
+          of dense neutrino gases.
+
+
+   
+astro-ph/0608696 [abs, ps, pdf, other] :
+          Title: X-ray emission from the young brown dwarfs of the Taurus
+          Molecular Cloud
+          Authors:  N.  Grosso  (1),  K.R.  Briggs (2), M. Guedel (2), S.
+          Guieu  (1),  E. Franciosini (3), F. Palla (4), C. Dougados (1),
+          J.-L. Monin (1 and 5), F. Menard (1), J. Bouvier (1), M. Audard
+          (6),  A.  Telleschi  (2)  ((1)  Laboratoire  d'Astrophysique de
+          Grenoble,   (2)   Paul   Scherrer  Institut,  (3)  Osservatorio
+          Astronomico   di   Palermo,  (4)  Osservatorio  Astrofisico  di
+          Arcetri,  (5)  Institut  Universitaire  de France, (6) Columbia
+          University)
+          Comments:  20  pages and 19 Figures. Accepted by A&A, to appear
+          in a special section/issue dedicated to the XMM-Newton Extended
+          Survey  of  the  Taurus  Molecular  Cloud (XEST). Preprint with
+          higher resolution figures is available at this http URL
+          The  XMM-Newton  Extended  Survey  of the TMC (XEST) is a large
+          program   designed  to  systematically  investigate  the  X-ray
+          properties  of  young stellar/substellar objects in the TMC. In
+          particular,  the  area  surveyed by 15 XMM-Newton pointings (of
+          which  three  are archival observations), supplemented with one
+          archival  Chandra observation, allows us to study 17 BDs with M
+          spectral  types.  Half  of  this  sample  (9  out of 17 BDs) is
+          detected; 7 BDs are detected here for the first time in X-rays.
+          We  observed  a  flare from one BD. We confirm several previous
+          findings on BD X-ray activity: a log-log relation between X-ray
+          and  bolometric  luminosity for stars (with L*<10 Lsun) and BDs
+          detected  in  X-rays;  a shallow log-log relation between X-ray
+          fractional  luminosity  and  mass;  a  log-log relation between
+          X-ray   fractional  luminosity  and  effective  temperature;  a
+          log-log  relation  between  X-ray  surface  flux  and effective
+          temperature. We find no significant log-log correlation between
+          the  X-ray  fractional luminosity and EW(Halpha). Accreting and
+          nonaccreting  BDs  have  a similar X-ray fractional luminosity.
+          The  median  X-ray fractional luminosity of nonaccreting BDs is
+          about  4 times lower than the mean saturation value for rapidly
+          rotating  low-mass  field  stars. Our TMC BDs have higher X-ray
+          fractional  luminosity  than BDs in the Chandra Orion Ultradeep
+          Project. The X-ray fractional luminosity declines from low-mass
+          stars  to  M-type  BDs,  and  as  a  sample,  the  BDs are less
+          efficient  X-ray emitters than low-mass stars. We thus conclude
+          that  while  the  BD  atmospheres observed here are mostly warm
+          enough  to  sustain  coronal activity, a trend is seen that may
+          indicate  its  gradual  decline due to the drop in photospheric
+          ionization degree (abridged).
+
+
+   
+astro-ph/0608699 [abs, ps, pdf, other] :
+          Title:  Assessing  The  Starburst Contribution to the Gamma-Ray
+          and Neutrino Backgrounds
+          Authors:  Todd A. Thompson, Eliot Quataert, Eli Waxman, Abraham
+          Loeb
+          Comments: 3 pages, 2 figures, emulateapj
+          If  cosmic  ray  protons  interact with gas at roughly the mean
+          density  of the interstellar medium in starburst galaxies, then
+          pion  decay in starbursts is likely to contribute significantly
+          to the diffuse extra-galactic background in both gamma-rays and
+          high energy neutrinos. We describe the assumptions that lead to
+          this   conclusion   and  clarify  the  difference  between  our
+          estimates  and  those  of Stecker (2006). Detection of a single
+          starburst  by  GLAST would confirm the significant contribution
+          of  starburst  galaxies  to  the  extra-galactic  neutrino  and
+          gamma-ray backgrounds.
+
+
+   
+astro-ph/0608701 [abs, ps, pdf, other] :
+          Title: The Cosmic Battery Revisited
+          Authors:  Ioannis  Contopoulos  Demosthenes Kazanas Dimitris M.
+          Christodoulou
+          We  reinvestigate  the  generation and accumulation of magnetic
+          flux   in   optically   thin   accretion  flows  around  active
+          gravitating  objects.  The  source of the magnetic field is the
+          azimuthal     electric     current    associated    with    the
+          Poynting-Robertson  drag  on  the  electrons  of  the accreting
+          plasma.  This current generates magnetic field loops which open
+          up  because  of  the differential rotation of the flow. We show
+          through  simple  numerical  simulations that what regulates the
+          generation and accumulation of magnetic flux near the center is
+          the value of the plasma conductivity. Although the conductivity
+          is  usually considered to be effectively infinite for the fully
+          ionized  plasmas  expected  near  the  inner  edge of accretion
+          disks, the turbulence of those plasmas may actually render them
+          much   less   conducting  due  to  the  presence  of  anomalous
+          resistivity.  We  have  discovered  that  if the resistivity is
+          sufficiently  high  throughout  the  turbulent disk while it is
+          suppressed   interior   to   its  inner  edge,  an  interesting
+          steady-state  process  is  established:  accretion  carries and
+          accumulates magnetic flux of one polarity inside the inner edge
+          of  the disk, whereas magnetic diffusion releases magnetic flux
+          of  the opposite polarity to large distances. In this scenario,
+          magnetic flux of one polarity grows and accumulates at a steady
+          rate in the region inside the inner edge and up to the point of
+          equipartition  when  it becomes dynamically important. We argue
+          that    this   inward   growth   and   outward   expulsion   of
+          oppositely-directed magnetic fields that we propose may account
+          for  the  ~30  min  cyclic variability observed in the galactic
+          microquasar GRS1915+105.
+
+
+   
+astro-ph/0608709 [abs, ps, pdf, other] :
+          Title:  A multi-wavelength census of star formation activity in
+          the young embedded cluster around Serpens/G3-G6
+          Authors:  A.A.  Djupvik,  Ph.  Andre, S. Bontemps, F. Motte, G.
+          Olofsson, M. Gaalfalk, H.-G. Floren
+          Comments:  18  pages,  16 figures, 3 online tables, accepted by
+          A&A
+          Aims.  The  aim  of  this  paper  is  to  characterise the star
+          formation  activity  in  the  poorly  studied  embedded cluster
+          Serpens/G3-G6, located ~ 45' (3 pc) to the south of the Serpens
+          Cloud  Core, and to determine the luminosity and mass functions
+          of its population of Young Stellar Objects (YSOs).
+          Methods.  Multi-wavelength broadband photometry was obtained to
+          sample  the  near  and  mid-IR spectral energy distributions to
+          separate   YSOs   from   field   stars  and  classify  the  YSO
+          evolutionary  stage.  ISOCAM  mapping  in  the  two filters LW2
+          (5-8.5 um) and LW3 (12-18 um) of a 19' x 16' field was combined
+          with JHKs data from 2MASS, Ks data from Arnica/NOT, and L' data
+          from  SIRCA/NOT. Continuum emission at 1.3 mm (IRAM) and 3.6 cm
+          (VLA)   was  mapped  to  study  the  cloud  structure  and  the
+          coldest/youngest  sources. Deep narrow band imaging at the 2.12
+          um  S(1)  line of H2 from NOTCam/NOT was obtained to search for
+          signs of bipolar outflows.
+          Results. We have strong evidence for a stellar population of 31
+          Class  II  sources, 5 flat-spectrum sources, 5 Class I sources,
+          and  two  Class 0 sources. Our method does not sample the Class
+          III  sources.  The  cloud  is composed of two main dense clumps
+          aligned  along  a  ridge  over  ~  0.5  pc plus a starless core
+          coinciding with absorption features seen in the ISOCAM maps. We
+          find  two  S-shaped bipolar collimated flows embedded in the NE
+          clump,  and  propose  the  two  driving sources to be a Class 0
+          candidate  (MMS3) and a double Class I (MMS2). For the Class II
+          population we find a best age of ~ 2 Myr and compatibility with
+          recent  Initial Mass Functions (IMFs) by comparing the observed
+          Class  II  luminosity  function (LF), which is complete to 0.08
+          L_sun,  to  various  model  LFs  with  different star formation
+          scenarios and input IMFs.
+
+
+   
+Cross-listings
+
+   
+Replacements
+
+   
+astro-ph/0606665 [abs, ps, pdf, other] :
+          Title:   The   Starburst  Contribution  to  the  Extra-Galactic
+          Gamma-Ray Background
+          Authors: Todd A. Thompson, Eliot Quataert, Eli Waxman
+          Comments:  text  revised  and  updated in response to referee's
+          comments, 7 pages, 1 table, 1 figure, emulateapj
+          Note:  replaced  with revised version Thu, 31 Aug 2006 13:46:39
+          GMT (27kb)
+
+   
+astro-ph/0608605 [abs, ps, pdf, other] :
+          Title:   Two-component  magnetohydrodynamical  outflows  around
+          young  stellar objects Interplay between stellar magnetospheric
+          winds and disc-driven jets
+          Authors: Z. Meliani; F. Casse; C. Sauty
+          Comments: 16 pages, Accepted in A&A 04/08/2006
+          Note:  replaced  with revised version Thu, 31 Aug 2006 16:41:18
+          GMT (1894kb)
+
+   
