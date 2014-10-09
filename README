@@ -1,4 +1,4 @@
-A simple code searchs the new issues on arxiv.org for desired patterns.
+A simple code searches the new issues on arxiv.org for desired patterns.
 Based on lynx, sendmail and python.
 
 -Weiwei Zhu
