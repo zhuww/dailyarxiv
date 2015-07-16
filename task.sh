@@ -1,6 +1,13 @@
 cd /homes/zhuww/work/shell/lynxget
-. ./updat_archive
-sed -f delete new > new.txt
+sleep 30
+#. ./update_archive http://arxiv.org/list/astro-ph/new
+python lynx.py http://arxiv.org/list/astro-ph/new
+cat new > todaynews
+sleep 30
+#. ./update_archive http://arxiv.org/list/gr-qc/new
+python lynx.py http://arxiv.org/list/gr-qc/new
+cat new >> todaynews
+sed -f delete todaynews > new.txt
 sed -f programs new.txt > news.txt
 #for name in zhuww xubx qianl
 for name in zhuww 
@@ -14,3 +21,4 @@ cat mailbody.$name >> database.$name
 python body2html.py
 python sendmail.py
 done
+rm -f new todaynews new.txt news.txt

@@ -1,0 +1,2 @@
+lynx -cmd_script=cmdlog $* 
+lynx -cmd_script=cmdlog $* 

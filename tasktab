@@ -1,1 +1,1 @@
-30 0 * * 1-7 . /homes/zhuww/work/shell/lynxget/task.sh > /dev/null 2>&1
+30 10 * * 1-5 . /homes/zhuww/work/shell/lynxget/task.sh > /dev/null 2>&1

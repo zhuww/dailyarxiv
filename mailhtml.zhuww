@@ -2,592 +2,1243 @@
 <html>
     <head></head>
         <body>
-New submissions for Thu, 9 Oct 14<br>
-<br>
-   [1]  <br>
-<a href="http://arxiv.org/abs/arXiv:1410.1874">arXiv:1410.1874</a> [<a href="http://arxiv.gov/pdf/arXiv:1410.1874">pdf</a>, <a href="http://arxiv.gov/ps/arXiv:1410.1874">ps</a>, other]<br>
-          Title: Neutrino viscosity and drag: impact on the<br>
-          magnetorotational instability in proto-neutron stars<br>
-<br>
-          Authors: Jerome Guilet, Ewald Mueller, Hans-Thomas Janka (Max<br>
-          Planck Institute for Astrophysics)<br>
-<br>
-          Comments: 13 pages, 10 figures, submitted to MNRAS<br>
-<br>
-          Subjects: High Energy Astrophysical Phenomena (astro-ph.HE);<br>
-          Solar and Stellar Astrophysics (astro-ph.SR)<br>
-<br>
-          The magneto-rotational instability (MRI) is a promising<br>
-          mechanism to amplify the magnetic field in fast rotating<br>
-          proto-neutron stars (PNS). The diffusion of neutrinos trapped in<br>
-          the proto-neutron star induces a transport of momentum, which<br>
-          can be modeled as a viscosity on length scales longer than the<br>
-          neutrino mean free path. This neutrino-viscosity can slow down<br>
-          the growth of MRI modes to such an extent that a minimum initial<br>
-          magnetic field strength of $\gtrsim 10^{12}\, {\rm G}$ is needed<br>
-          for the MRI to grow on a sufficiently short timescale to<br>
-          potentially affect the explosion. It is uncertain whether the<br>
-          magnetic field of fast rotating progenitor cores is strong<br>
-          enough to yield such an initial magnetic field in proto-neutron<br>
-          stars. At MRI wavelengths shorter than the neutrino mean free<br>
-          path, on the other hand, neutrino radiation does not act as a<br>
-          viscosity but rather induces a drag on the velocity with a<br>
-          damping rate independent of the wavelength. We perform a linear<br>
-          analysis of the MRI in this regime, and apply our analytical<br>
-          results to the proto-neutron star structure from a<br>
-          one-dimensional numerical simulation. We show that in the outer<br>
-          layers of the PNS, the MRI can grow from weak magnetic fields at<br>
-          wavelengths shorter than the neutrino mean free path, while<br>
-          deeper in the PNS MRI growth takes place in the viscous regime<br>
-          and requires a minimum magnetic field strength.<br>
-<br>
-   [2]  <br>
-<a href="http://arxiv.org/abs/arXiv:1410.1876">arXiv:1410.1876</a> [<a href="http://arxiv.gov/pdf/arXiv:1410.1876">pdf</a>, other]<br>
-          Title: Polarimetric and spectroscopic optical observations of<br>
-          the ultra-compact X-ray binary 4U 0614+091<br>
-<br>
-          Authors: M. C. Baglio, D. Mainetti, P. D'Avanzo, S. Campana, S.<br>
-          Covino, D. M. Russell, T. Shahbaz<br>
-<br>
-          Comments: 8 pages, 6 figures, 4 tables. Accepted for publication<br>
-          in Astronomy & Astrophysics (Section 7)<br>
-<br>
-          Subjects: Solar and Stellar Astrophysics (astro-ph.SR); High<br>
-          Energy Astrophysical Phenomena (astro-ph.HE)<br>
-<br>
-          Aims: We present a polarimetric and spectroscopic study of the<br>
-          persistent ultra compact X-ray binary 4U 0614+091 aimed at<br>
-          searching for the emission of a relativistic particle jet and at<br>
-          unveiling the orbital period of the system. Methods: We obtained<br>
-          r-band polarimetric observations with the Telescopio Nazionale<br>
-          Galileo (TNG) equipped with the PAOLO polarimeter and with the<br>
-          Nordic Optical Telescope (NOT) equipped with the ALFOSC<br>
-          instrument, covering ~ 2 hours and ~ 0.5 hours observations,<br>
-          respectively. We carried out low resolution spectroscopy of the<br>
-          system using the ESO Very Large Telescope equipped with FORS1<br>
-          for ~ 1.5 hours (16 spectra covering the range 430-800 nm).<br>
-          Results: The polarimetric analysis performed starting from the<br>
-          TNG dataset revealed a polarisation degree in the r-band of 3 %<br>
-          +/- 1 %. From the NOT dataset, due to the lower S/N ratio, we<br>
-          could obtain only a 3 sigma upper limit of 3.4 %. From the<br>
-          joining of a spectroscopic and photometric analysis, through the<br>
-          study of the equivalent width variations of the CII 724 nm line<br>
-          and the r-band light curve, we could find a hint of a ~ 45 min<br>
-          periodicity. Conclusions: A polarisation degree P of ~ 3 % in<br>
-          the r-band is consistent with the emission of a relativistic<br>
-          particle jet, which is supposed to emit intrinsically linearly<br>
-          polarised synchrotron radiation. Since no variations of P with<br>
-          time have been detected, and the accretion disc of the system<br>
-          does not contain ionised hydrogen, scattering by free electrons<br>
-          in the accretion disc has been rejected. The period of ~ 45 min<br>
-          obtained through the analysis of the system light curve and of<br>
-          the equivalent width variations of the selected spectral line is<br>
-          probably linked to the presence of a hot spot or a superhump in<br>
-          the accretion disc, and lead to an orbital period > 1 hour for<br>
-          the binary system.<br>
-<br>
-   [3]  <br>
-<a href="http://arxiv.org/abs/arXiv:1410.1878">arXiv:1410.1878</a> [<a href="http://arxiv.gov/pdf/arXiv:1410.1878">pdf</a>, <a href="http://arxiv.gov/ps/arXiv:1410.1878">ps</a>, other]<br>
-          Title: A Density Spike on Astrophysical Scales from an<br>
-          $\mathcal{N}$-Field Waterfall Transition<br>
-<br>
-          Authors: Illan F. Halpern, Mark P. Hertzberg, Matthew A. Joss,<br>
-          Evangelos I. Sfakianakis<br>
-<br>
-          Comments: 14 pages in double column format, 6 figures<br>
-<br>
-          Subjects: Cosmology and Nongalactic Astrophysics (astro-ph.CO);<br>
-          General Relativity and Quantum Cosmology (gr-qc); High Energy<br>
-          Physics - Phenomenology (hep-ph); High Energy Physics - Theory<br>
-          (hep-th)<br>
-<br>
-          Hybrid inflation models are especially interesting as they lead<br>
-          to a spike in the density power spectrum on small scales,<br>
-          compared to the CMB. Here we study hybrid inflation with<br>
-          $\mathcal{N}$ waterfall fields sharing a global<br>
-          $SO(\mathcal{N})$ symmetry. The inclusion of many waterfall<br>
-          fields has the obvious advantage of avoiding topologically<br>
-          stable defects for $\mathcal{N}>3$. We find that it also has<br>
-          another advantage: it is easier to engineer models that can<br>
-          simultaneously (i) be compatible with constraints on the<br>
-          primordial spectral index, which tends to otherwise disfavor<br>
-          hybrid models, and (ii) produce a spike on astrophysically large<br>
-          length scales. The latter may have significant consequences,<br>
-          possibly seeding the formation of astrophysically large black<br>
-          holes. We calculate correlation functions of the time-delay, a<br>
-          measure of density perturbations, produced by the waterfall<br>
-          fields, as a convergent power series in both $1/\mathcal{N}$ and<br>
-          the field's correlation function $\Delta(x)$. We show that for<br>
-          large $\mathcal{N}$, the two-point function is $<\delta t({\bf<br>
-          x})\,\delta t({\bf 0})>\propto\Delta^2(|{\bf x}|)/\mathcal{N}$<br>
-          and the three-point function is $<\delta t({\bf x})\,\delta<br>
-          t({\bf y})\,\delta t({\bf 0})>\propto\Delta(|{\bf x}-{\bf<br>
-          y}|)\Delta(|{\bf x}|)\Delta(|{\bf y}|)/\mathcal{N}^2$. In<br>
-          accordance with the central limit theorem, the density<br>
-          perturbations on the scale of the spike are Gaussian for large<br>
-          $\mathcal{N}$ and non-Gaussian for small $\mathcal{N}$.<br>
-<br>
-   [4]  <br>
-astro.ucla.edu<br>
-<br>
-          Subjects: High Energy Astrophysical Phenomena (astro-ph.HE);<br>
-          Astrophysics of Galaxies (astro-ph.GA)<br>
-<br>
-          We report new observations of Galactic Center source G2 from the<br>
-          W. M. Keck Observatory. G2 is a dusty red object associated with<br>
-          gas that shows tidal interactions as it nears closest approach<br>
-          (periapse) with the Galaxy's central black hole. Our<br>
-          observations, conducted as G2 passed through periapse, were<br>
-          designed to test the proposal that G2 is a 3 earth mass gas<br>
-          cloud. Such a cloud should be tidally disrupted during periapse<br>
-          passage. The data were obtained using the Keck II laser guide<br>
-          star adaptive optics system (LGSAO) and the facility<br>
-          near-infrared camera (NIRC2) through the K' [2.1 $\mu$m] and L'<br>
-          [3.8 $\mu$m] broadband filters. Several key results emerge from<br>
-          these observations: 1) G2 has survived its closest approach to<br>
-          the central black hole as a compact, unresolved source at L'; 2)<br>
-          G2's L' brightness measurements are consistent with those over<br>
-          the last decade; 3) G2's motion continues to be consistent with<br>
-          a Keplerian model. These results rule out G2 as a pure gas cloud<br>
-          and imply that G2 has a central star. This star has a luminosity<br>
-          of 30 $L_{\odot} $ and is surrounded by a large (2 AU) optically<br>
-          thick dust shell. We suggest that G2 is a binary star merger<br>
-          product and will ultimately appear similar to the B-stars that<br>
-          are tightly clustered around the black hole (the so-called<br>
-          S-star cluster). In memoriam of Gerry Neugebauer (1932-2014).<br>
-<br>
-   [7]  <br>
-<a href="http://arxiv.org/abs/arXiv:1410.1891">arXiv:1410.1891</a> [<a href="http://arxiv.gov/pdf/arXiv:1410.1891">pdf</a>, <a href="http://arxiv.gov/ps/arXiv:1410.1891">ps</a>, other]<br>
-          Title: The origins of light and heavy r-process elements<br>
-          identified by chemical tagging of metal-poor stars<br>
-<br>
-          Authors: Takuji Tsujimoto, Toshikazu Shigeyama<br>
-<br>
-          Comments: 4 pages including 2 figures, accepted for publication<br>
-          in ApJ Letters<br>
-<br>
-          Subjects: Astrophysics of Galaxies (astro-ph.GA)<br>
-<br>
-          Growing interests in neutron star (NS) mergers as the origin of<br>
-          r-process elements have sprouted since the discovery of evidence<br>
-          for the ejection of these elements from a short-duration<br>
-          gamma-ray burst. The hypothesis of a NS merger origin is<br>
-          reinforced by a theoretical update of nucleosynthesis in NS<br>
-          mergers successful in yielding r-process nuclides with A>130. On<br>
-          the other hand, whether the origin of light r-process elements<br>
-          are associated with nucleosynthesis in NS merger events remains<br>
-          unclear. We find a signature of nucleosynthesis in NS mergers<br>
-          from peculiar chemical abundances of stars belonging to the<br>
-          Galactic globular cluster M15. This finding combined with the<br>
-          recent nucleosynthesis results implies a potential diversity of<br>
-          nucleosynthesis in NS mergers. Based on these considerations, we<br>
-          are successful in the interpretation of an observed correlation<br>
-          between [light r-process/Eu] and [Eu/Fe] among Galactic halo<br>
-          stars and accordingly narrow down the role of supernova<br>
-          nucleosynthesis in the r-process production site. We conclude<br>
-          that the tight correlation by a large fraction of halo stars is<br>
-          attributable to the fact that core-collapse supernovae produce<br>
-          light r-process elements while heavy r-process elements such as<br>
-          Eu and Ba are produced by NS mergers. On the other hand, stars<br>
-          in the outlier, composed of r-enhanced stars ([Eu/Fe]>+1) such<br>
-          as CS22892-052, were exclusively enriched by matter ejected by a<br>
-          subclass of NS mergers that is inclined to be massive and<br>
-          consist of both light and heavy r-process nuclides.<br>
-<br>
-   [10]  <br>
-<a href="http://arxiv.org/abs/arXiv:1410.2050">arXiv:1410.2050</a> [<a href="http://arxiv.gov/pdf/arXiv:1410.2050">pdf</a>, <a href="http://arxiv.gov/ps/arXiv:1410.2050">ps</a>, other]<br>
-          Title: Probing Rotation of Core-collapse Supernova with<br>
-          Concurrent Analysis of Gravitational Waves and Neutrinos<br>
-<br>
-          Authors: Takaaki Yokozawa, Mitsuhiro Asano, Tsubasa Kayano,<br>
-          Yudai Suwa, Nobuyuki Kanda, Yusuke Koshio, Mark R. Vagins<br>
-<br>
-          Comments: 30pages, 18figures, submit to ApJ<br>
-<br>
-          Subjects: High Energy Astrophysical Phenomena (astro-ph.HE);<br>
-          High Energy Physics - Experiment (hep-ex)<br>
-<br>
-          When a core-collapse supernova (SN) happens in our galaxy,<br>
-          various detectors will detect gravitational waves (GWs) and<br>
-          neutrinos. Current numerical simula- tions have successfully<br>
-          introduced multi-dimensional effects to produce exploding SN<br>
-          models, but thus far the explosion mechanism is not well<br>
-          understood. In this paper, we focus on an investigation of<br>
-          progenitor core rotation via comparison of the start time of GW<br>
-          emission and that of the neutronization burst. The GW and<br>
-          neutrino detectors are assumed to be the KAGRA detector and<br>
-          EGADS detector, respectively. Our detection simulation studies<br>
-          show that for a nearby supernova(<0.2 kpc) we can confirm the<br>
-          lack of core rotation close to 100% of the time, and the<br>
-          presence of core rotation about 90% of the time.<br>
-<br>
-   [22]  <br>
-<a href="http://arxiv.org/abs/arXiv:1410.2055">arXiv:1410.2055</a> [<a href="http://arxiv.gov/pdf/arXiv:1410.2055">pdf</a>, <a href="http://arxiv.gov/ps/arXiv:1410.2055">ps</a>, other]<br>
-          Title: Historical light curve of the black hole binary V4641 Sgr<br>
-          based on the Moscow and Sonneberg plate archives<br>
-<br>
-          Authors: E. A. Barsukova, V. P. Goranskij, P. Kroll<br>
-<br>
-          Comments: 5 pages, 3 figures, Astroplate Workshop, 2014 March<br>
-          18-21, Prague, Czech Republic<br>
-<br>
-          Subjects: High Energy Astrophysical Phenomena (astro-ph.HE)<br>
-<br>
-          We performed digital processing of a large set of photographic<br>
-          plates for X-ray binary system V4641 Sgr containing a black<br>
-          hole. A total of 277 plates were found in archives dated between<br>
-          1960 and 1992. Photographic observations revealed lower level of<br>
-          outburst activity if to compare with CCD data after the large<br>
-          1999 outburst. Only single outburst which happened in 1978 was<br>
-          confirmed. If archive photographic data are used along with<br>
-          contemporary CCD observations, the orbital period may be<br>
-          improved, and its value is 2.81728 +/-0.00004 day.<br>
-<br>
-   [24]  <br>
-<a href="http://arxiv.org/abs/arXiv:1410.2060">arXiv:1410.2060</a> [<a href="http://arxiv.gov/pdf/arXiv:1410.2060">pdf</a>, other]<br>
-          Title: ALMA data suggest the presence of a spiral structure in<br>
-          the inner wind of CW Leo<br>
-<br>
-          Authors: L. Decin, A.M.S. Richards, D. Neufeld, W. Steffen, G.<br>
-          Melnick, R. Lombaert<br>
-<br>
-          Comments: 22 pages, 18 Figures, Astronomy & Astrophysics<br>
-<br>
-          Subjects: Solar and Stellar Astrophysics (astro-ph.SR)<br>
-<br>
-          (abbreviated) We aim to study the inner wind of the well-known<br>
-          AGB star CW Leo. Different diagnostics probing different<br>
-          geometrical scales have pointed toward a non-homogeneous<br>
-          mass-loss process: dust clumps are observed at milli-arcsec<br>
-          scale, a bipolar structure is seen at arcsecond-scale and<br>
-          multi-concentric shells are detected beyond 1". We present the<br>
-          first ALMA Cycle 0 band 9 data around 650 GHz. The<br>
-          full-resolution data have a spatial resolution of 0".42x0".24,<br>
-          allowing us to study the morpho-kinematical structure within<br>
-          ~6". Results: We have detected 25 molecular lines. The emission<br>
-          of all but one line is spatially resolved. The dust and<br>
-          molecular lines are centered around the continuum peak position.<br>
-          The dust emission has an asymmetric distribution with a central<br>
-          peak flux density of ~2 Jy. The molecular emission lines trace<br>
-          different regions in the wind acceleration region and suggest<br>
-          that the wind velocity increases rapidly from about 5 R* almost<br>
-          reaching the terminal velocity at ~11 R*. The channel maps for<br>
-          the brighter lines show a complex structure; specifically for<br>
-          the 13CO J=6-5 line different arcs are detected within the first<br>
-          few arcseconds. The curved structure present in the PV map of<br>
-          the 13CO J=6-5 line can be explained by a spiral structure in<br>
-          the inner wind, probably induced by a binary companion. From<br>
-          modeling the ALMA data, we deduce that the potential orbital<br>
-          axis for the binary system lies at a position angle of ~10-20<br>
-          deg to the North-East and that the spiral structure is seen<br>
-          almost edge-on. We infer an orbital period of 55 yr and a binary<br>
-          separation of 25 au (or ~8.2 R*). We tentatively estimate that<br>
-          the companion is an unevolved low-mass main-sequence star. The<br>
-          ALMA data hence provide us for the first time with the crucial<br>
-          kinematical link between the dust clumps seen at milli-arcsecond<br>
-          scale and the almost concentric arcs seen at arcsecond scale.<br>
-<br>
-   [25]  <br>
-<a href="http://arxiv.org/abs/arXiv:1410.2178">arXiv:1410.2178</a> [<a href="http://arxiv.gov/pdf/arXiv:1410.2178">pdf</a>, <a href="http://arxiv.gov/ps/arXiv:1410.2178">ps</a>, other]<br>
-          Title: Variable stars in the open cluster NGC 2141<br>
-<br>
-          Authors: Yanping Luo<br>
-<br>
-          Comments: Accepted To Research in Astronomy and Astrophysics<br>
-<br>
-          Subjects: Solar and Stellar Astrophysics (astro-ph.SR)<br>
-<br>
-          We report the results of a search for variable stars in the open<br>
-          cluster NGC 2141. Ten variable stars are detected, among which<br>
-          nine are new variable stars and they are classified as three<br>
-          short period W UMa type eclipsing binaries, two EA type<br>
-          eclipsing binaries, one EB type eclipsing binary, one very short<br>
-          period RS CVn type eclipsing binary, one d type RR Lyrae<br>
-          variable star, and one unknown type variable star. The<br>
-          membership and physical properties are discussed, based on their<br>
-          light curves, positions in the CMDs, spatial locations and<br>
-          periods. A known EB type eclipsing binary is also identified as<br>
-          a blue struggler candidate of the cluster. Furthermore, we find<br>
-          that all eclipsing contact binaries have prominently asymmetric<br>
-          eclipses and O Connell effect (O Connell 1951) which increases<br>
-          with the decrease of the orbital periods. This suggests that the<br>
-          O Connell effect is probably related to the evolution of the<br>
-          orbital period in short period eclipsing binary systems.<br>
-<br>
-   [36]  <br>
-<a href="http://arxiv.org/abs/arXiv:1410.2197">arXiv:1410.2197</a> [<a href="http://arxiv.gov/pdf/arXiv:1410.2197">pdf</a>, other]<br>
-          Title: Disordered nuclear pasta, magnetic field decay, and crust<br>
-          cooling in neutron stars<br>
-<br>
-          Authors: C. J. Horowitz, D. K. Berry, C. M. Briggs, M. E.<br>
-          Caplan, A. Cumming, A. S. Schneider<br>
-<br>
-          Comments: 5 pages, 2 figures<br>
-<br>
-          Subjects: High Energy Astrophysical Phenomena (astro-ph.HE);<br>
-          Nuclear Theory (nucl-th)<br>
-<br>
-          Nuclear pasta, with non-spherical shapes, is expected near the<br>
-          base of the crust in neutron stars. Large scale molecular<br>
-          dynamics simulations of pasta show long lived topological<br>
-          defects that could increase electron scattering and reduce both<br>
-          the thermal and electrical conductivities. We model a possible<br>
-          low conductivity pasta layer by increasing an impurity parameter<br>
-          Q_{imp}. Predictions of light curves for the low mass X-ray<br>
-          binary MXB 1659-29, assuming a large Q_{imp}, find continued<br>
-          late time cooling that is consistent with Chandra observations.<br>
-          The electrical and thermal conductivities are likely related.<br>
-          Therefore observations of late time crust cooling can provide<br>
-          insight on the electrical conductivity and the possible decay of<br>
-          neutron star magnetic fields (assuming these are supported by<br>
-          currents in the crust).<br>
-<br>
-   [38]  <br>
-<a href="http://arxiv.org/abs/arXiv:1410.2218">arXiv:1410.2218</a> [<a href="http://arxiv.gov/pdf/arXiv:1410.2218">pdf</a>, <a href="http://arxiv.gov/ps/arXiv:1410.2218">ps</a>, other]<br>
-          Title: The physical structure of planetary nebulae around sdO<br>
-          stars: Abell36, DeHt2, and RWT152<br>
-<br>
-          Authors: A. Aller, L. F. Miranda, L. Olguín, R. Vázquez, P. F.<br>
-          Guillén, R. Oreiro, A. Ulla, E. Solano<br>
-<br>
-          Comments: 14 pages, 14 figures, accepted in Monthly Notices of<br>
-          the Royal Astronomical Society<br>
-<br>
-          Subjects: Solar and Stellar Astrophysics (astro-ph.SR)<br>
-<br>
-          We present narrow-band Halpha and [OIII] images, and<br>
-          high-resolution, long-slit spectra of the planetary nebulae<br>
-          (PNe) Abell36, DeHt2, and RWT152 aimed at studying their<br>
-          morphology and internal kinematics. These data are complemented<br>
-          with intermediate-resolution, long-slit spectra to describe the<br>
-          spectral properties of the central stars and nebulae. The<br>
-          morphokinematical analysis shows that Abell36 consists of an<br>
-          inner spheroid and two bright point-symmetric arcs; DeHt2 is<br>
-          elliptical with protruding polar regions and a bright<br>
-          non-equatorial ring; and RWT152 is bipolar. The formation of<br>
-          Abell36 and DeHt2 requires several ejection events including<br>
-          collimated bipolar outflows that probably are younger than and<br>
-          have disrupted the main shell. The nebular spectra of the three<br>
-          PNe show a high excitation and also suggest a possible<br>
-          deficiency in heavy elements in DeHt2 and RWT152. The spectra of<br>
-          the central stars strongly suggest an sdO nature and their<br>
-          association with PNe points out that they have most probably<br>
-          evolved through the asymptotic giant branch. We analyze general<br>
-          properties of the few known sdOs associated to PNe and find that<br>
-          most of them are relatively or very evolved PNe, show complex<br>
-          morphologies, host binary central stars, and are located at<br>
-          relatively high Galactic latitudes.<br>
-<br>
-   [39]  <br>
-<a href="http://arxiv.org/abs/arXiv:1410.2236">arXiv:1410.2236</a> [<a href="http://arxiv.gov/pdf/arXiv:1410.2236">pdf</a>, other]<br>
-          Title: Macro Dark Matter<br>
-<br>
-          Authors: David M. Jacobs, Glenn D. Starkman<br>
-<br>
-          Comments: 27 pages, 1 table, 3 figures, 1 appendix, LaTex in<br>
-          JHEP style<br>
-<br>
-          Subjects: Cosmology and Nongalactic Astrophysics (astro-ph.CO);<br>
-          Astrophysics of Galaxies (astro-ph.GA); High Energy Physics -<br>
-          Phenomenology (hep-ph)<br>
-<br>
-          Dark matter is a vital component of the current best model of<br>
-          our universe, $\Lambda$CDM. There are leading candidates for<br>
-          what the dark matter could be (e.g. weakly-interacting massive<br>
-          particles, or axions), but no compelling observational or<br>
-          experimental evidence exists to support these particular<br>
-          candidates, nor any beyond-the-Standard-Model physics that might<br>
-          produce such candidates. This suggests that other dark matter<br>
-          candidates, including ones that might arise in the Standard<br>
-          Model, should receive increased attention. Here we consider a<br>
-          general class of dark matter candidates with characteristic<br>
-          masses and interaction cross-sections characterized in units of<br>
-          grams and cm$^2$, respectively -- we therefore dub these<br>
-          macroscopic objects as Macros. Such dark matter candidates could<br>
-          potentially be assembled out of Standard Model particles (quarks<br>
-          and leptons) in the early universe. A combination of<br>
-          earth-based, astrophysical, and cosmological observations<br>
-          constrain a portion of the Macro parameter space; however a<br>
-          large region remains, most notably for nuclear-dense objects<br>
-          with masses in the range between about $50 - 10^{17}$g and<br>
-          $10^{20} - 10^{24}$g.<br>
-<br>
-   [42]  <br>
-<a href="http://arxiv.org/abs/arXiv:1403.6813">arXiv:1403.6813</a> (cross-list from hep-th)  [<a href="http://arxiv.gov/pdf/arXiv:1403.6813">pdf</a>, other]<br>
-          Title: Unification of Galileon Dualities<br>
-<br>
-          Authors: Karol Kampf, Jiri Novotny<br>
-<br>
-          Comments: 73 pages, 5 figures, 1 table; Accepted for publication<br>
-          in JHEP, a revised and enlarged version, discussion of<br>
-          superluminal propagation included<br>
-<br>
-          Subjects: High Energy Physics - Theory (hep-th); Cosmology and<br>
-          Nongalactic Astrophysics (astro-ph.CO); General Relativity and<br>
-          Quantum Cosmology (gr-qc)<br>
-<br>
-          We study dualities of the general Galileon theory in d<br>
-          dimensions in terms of coordinate transformations on the coset<br>
-          space corresponding to the spontaneously broken Galileon group.<br>
-          The most general duality transformation is found to be<br>
-          determined uniquely up to four free parameters and under<br>
-          compositions these transformations form a group which can be<br>
-          identified with GL(2,R). This group represents a unified<br>
-          framework for all the up to now known Galileon dualities. We<br>
-          discuss a representation of this group on the Galileon theory<br>
-          space and using concrete examples we illustrate its<br>
-          applicability both on the classical and quantum level.<br>
-<br>
-   [44]  <br>
-<a href="http://arxiv.org/abs/arXiv:1410.1894">arXiv:1410.1894</a> (cross-list from gr-qc)  [<a href="http://arxiv.gov/pdf/arXiv:1410.1894">pdf</a>, <a href="http://arxiv.gov/ps/arXiv:1410.1894">ps</a>, other]<br>
-          Title: Thermodynamics of quantum lightspheres<br>
-<br>
-          Authors: M. C. Baldiotti, Walace S. Elias, C. Molina, Thiago S.<br>
-          Pereira<br>
-<br>
-          Comments: 6 pages<br>
-<br>
-          Subjects: General Relativity and Quantum Cosmology (gr-qc); High<br>
-          Energy Astrophysical Phenomena (astro-ph.HE); High Energy<br>
-          Physics - Theory (hep-th); Quantum Physics (quant-ph)<br>
-<br>
-          Lightspheres, surfaces where massless particles are confined in<br>
-          closed orbits, are expected to be common astrophysical<br>
-          structures surrounding ultra-compact objects. In this paper a<br>
-          semi-classical treatment to photons in a lightspheres is<br>
-          proposed. We consider the quantum Maxwell field and derive its<br>
-          energy spectra. A thermodynamic approach for the quantum<br>
-          lightsphere is explored. Within this treatment, an expression<br>
-          for the spectral energy density of the emitted radiation is<br>
-          presented. Our results suggest that lightspheres populated by<br>
-          photons, when thermalized with their environment, have non-usual<br>
-          thermodynamic properties, which could lead to distinct<br>
-          observational signatures.<br>
-<br>
-   [47]  <br>
-<a href="http://arxiv.org/abs/arXiv:1410.1996">arXiv:1410.1996</a> (cross-list from hep-th)  [<a href="http://arxiv.gov/pdf/arXiv:1410.1996">pdf</a>, <a href="http://arxiv.gov/ps/arXiv:1410.1996">ps</a>, other]<br>
-          Title: A new quasidilaton theory of massive gravity<br>
-<br>
-          Authors: Shinji Mukohyama<br>
-<br>
-          Subjects: High Energy Physics - Theory (hep-th); Cosmology and<br>
-          Nongalactic Astrophysics (astro-ph.CO); General Relativity and<br>
-          Quantum Cosmology (gr-qc)<br>
-<br>
-          We present a new quasidilaton theory of Poincare invariant<br>
-          massive gravity, based on the recently proposed framework of<br>
-          matter coupling that makes it possible for the kinetic energy of<br>
-          the quasidilaton scalar to couple to both physical and fiducial<br>
-          metrics simultaneously. We find a scaling-type exact solution<br>
-          that expresses a self-accelerating de Sitter universe, and then<br>
-          analyze linear perturbations around it. It is shown that in a<br>
-          range of parameters all physical degrees of freedom have<br>
-          non-vanishing quadratic kinetic terms and are stable in the<br>
-          subhorizon limit, while the effective Newton's constant for the<br>
-          background is kept positive.<br>
-<br>
-   [48]  <br>
-<a href="http://arxiv.org/abs/arXiv:1410.2130">arXiv:1410.2130</a> (cross-list from gr-qc)  [<a href="http://arxiv.gov/pdf/arXiv:1410.2130">pdf</a>, <a href="http://arxiv.gov/ps/arXiv:1410.2130">ps</a>, other]<br>
-          Title: The Kerr Metric<br>
-<br>
-          Authors: Saul A. Teukolsky<br>
-<br>
-          Comments: 37 pages. Submitted to Classical and Quantum Gravity<br>
-          for its "Milestones of General Relativity" focus issue to be<br>
-          published during the Centenary Year of GR<br>
-<br>
-          Subjects: General Relativity and Quantum Cosmology (gr-qc); High<br>
-          Energy Astrophysical Phenomena (astro-ph.HE); High Energy<br>
-          Physics - Theory (hep-th)<br>
-<br>
-          This review describes the events leading up to the discovery of<br>
-          the Kerr metric in 1963 and the enormous impact the discovery<br>
-          has had in the subsequent 50 years. The review discusses the<br>
-          Penrose process, the four laws of black hole mechanics,<br>
-          uniqueness of the solution, and the no-hair theorems. It also<br>
-          includes Kerr perturbation theory and its application to black<br>
-          hole stability and quasi-normal modes. The Kerr metric's<br>
-          importance in the astrophysics of quasars and accreting<br>
-          stellar-mass black hole systems is detailed. A theme of the<br>
-          review is the "miraculous" nature of the solution, both in<br>
-          describing in a simple analytic formula the most general<br>
-          rotating black hole, and in having unexpected mathematical<br>
-          properties that make many calculations tractable. Also included<br>
-          is a pedagogical derivation of the solution suitable for a first<br>
-          course in general relativity.<br>
-<br>
-<br>
-Replacements for Thu, 9 Oct 14<br>
-<br>
-   [49]  <br>
-<a href="http://arxiv.org/abs/arXiv:1402.5427">arXiv:1402.5427</a> (replaced)  [<a href="http://arxiv.gov/pdf/arXiv:1402.5427">pdf</a>, <a href="http://arxiv.gov/ps/arXiv:1402.5427">ps</a>, other]<br>
-          Title: $R^n$ Extension of Starobinsky Model in Old Minimal<br>
-          Supergravity<br>
-<br>
-          Authors: Mehmet Ozkan, Yi Pang<br>
-<br>
-          Comments: 18 pages, new section added on the dual model, typos<br>
-          fixed, references added, version appeared in CQG<br>
-<br>
-          Journal-ref: Class. Quantum Grav. 31 (2014) 205004<br>
-<br>
-          Subjects: High Energy Physics - Theory (hep-th); Cosmology and<br>
-          Nongalactic Astrophysics (astro-ph.CO); General Relativity and<br>
-          Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology<br>
-          (hep-ph)<br>
-<br>
-   [51]  <br>
-<a href="http://arxiv.org/abs/arXiv:1407.4899">arXiv:1407.4899</a> (replaced)  [<a href="http://arxiv.gov/pdf/arXiv:1407.4899">pdf</a>, <a href="http://arxiv.gov/ps/arXiv:1407.4899">ps</a>, other]<br>
-          Title: Comparison of two approximation schemes for solving<br>
-          perturbations in a LTB cosmological model<br>
-<br>
-          Authors: Ryusuke Nishikawa, Ken-ichi Nakao, Chul-Moon Yoo<br>
-<br>
-          Comments: 10 pages, no figures<br>
-<br>
-          Subjects: Cosmology and Nongalactic Astrophysics (astro-ph.CO);<br>
-          General Relativity and Quantum Cosmology (gr-qc)<br>
-<br>
-   [62]  <br>
-<a href="http://arxiv.org/abs/arXiv:1409.8284">arXiv:1409.8284</a> (replaced)  [<a href="http://arxiv.gov/pdf/arXiv:1409.8284">pdf</a>, other]<br>
-          Title: New Gravitational Scales in Cosmological Surveys<br>
-<br>
-          Authors: Tessa Baker, Pedro G. Ferreira, C. Danielle Leonard,<br>
-          Mariele Motta<br>
-<br>
-          Comments: 7+5 pages, submitted to PRD<br>
-<br>
-          Subjects: Cosmology and Nongalactic Astrophysics (astro-ph.CO);<br>
-          General Relativity and Quantum Cosmology (gr-qc)<br>
-<br>
-   [71]  <br>
-<a href="http://arxiv.org/abs/arXiv:1410.0631">arXiv:1410.0631</a> (replaced)  [<a href="http://arxiv.gov/pdf/arXiv:1410.0631">pdf</a>, <a href="http://arxiv.gov/ps/arXiv:1410.0631">ps</a>, other]<br>
-          Title: Inflation in scale-invariant theories of gravity<br>
-<br>
-          Authors: Massimiliano Rinaldi, Guido Cognola, Luciano Vanzo,<br>
-          Sergio Zerbini<br>
-<br>
-          Comments: References and comments added. Submitted for<br>
-          publication<br>
-<br>
-          Subjects: General Relativity and Quantum Cosmology (gr-qc);<br>
-          Cosmology and Nongalactic Astrophysics (astro-ph.CO); High<br>
-          Energy Physics - Theory (hep-th)<br>
-<br>
-   [72]  <br>
-<a href="http://arxiv.org/abs/arXiv:1410.1055">arXiv:1410.1055</a> (replaced)  [<a href="http://arxiv.gov/pdf/arXiv:1410.1055">pdf</a>, other]<br>
-          Title: The neutron star in HESS J1731-347: CCOs as laboratories<br>
-          to study the equation of state of superdense matter<br>
-<br>
-          Authors: D. Klochkov, V. Suleimanov, G. Pühlhofer, D. G.<br>
-          Yakovlev, A. Santangelo, K. Werner<br>
-<br>
-          Comments: Accepted for publication in Astronomy & Astrophysics;<br>
-          a small error in the last section is corrected<br>
-<br>
-          Subjects: High Energy Astrophysical Phenomena (astro-ph.HE)<br>
-<br>
-   [73]  <br>
+New submissions for Thu, 16 Jul 15<br>
+<br>
+[1]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.03992">arXiv:1507.03992</a> [<a href="http://arxiv.org/pdf/arXiv:1507.03992">pdf</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Frontier Fields: Subaru Weak-Lensing Analysis of the Merging Galaxy  Cluster A2744<br>
+<br>
+<br>
+Authors:<br>
+Elinor Medezinski, <br>
+Keiichi Umetsu, <br>
+Nobuhiro Okabe, <br>
+Mario Nonino, <br>
+Sandor Molnar, <br>
+Richard Massey, <br>
+Renato Dupke, <br>
+Julian Merten<br>
+<br>
+<br>
+Comments: 17 pages, 10 figures, 6 tables, submitted to ApJ<br>
+<br>
+<br>
+Subjects: Cosmology and Nongalactic Astrophysics (astro-ph.CO)<br>
+<br>
+We present a weak-lensing analysis of the merging {\em Frontier Fields} (FF)<br>
+cluster Abell~2744 using new Subaru/Suprime-Cam imaging. The wide-field lensing<br>
+mass distribution reveals this cluster is comprised of four distinct<br>
+substructures. Simultaneously modeling the two-dimensional reduced shear field<br>
+using a combination of a Navarro--Frenk--White (NFW) model for the main core<br>
+and truncated NFW models for the subhalos, we determine their masses and<br>
+locations. The total mass of the system is constrained as $M_\mathrm{200c} =<br>
+(2.06\pm0.42)\times10^{15}\,M_\odot$. The most massive clump is the southern<br>
+component with $M_\mathrm{200c} = (7.7\pm3.4)\times10^{14}\,M_\odot$, followed<br>
+by the western substructure ($M_\mathrm{200c} =<br>
+(4.5\pm2.0)\times10^{14}\,M_\odot$) and two smaller substructures to the<br>
+northeast ($M_\mathrm{200c} = (2.8\pm1.6)\times10^{14}\,M_\odot$) and northwest<br>
+($M_\mathrm{200c} = (1.9\pm1.2)\times10^{14}\,M_\odot$). The presence of the<br>
+four substructures supports the picture of multiple mergers. Using a composite<br>
+of hydrodynamical binary simulations we explain this complicated system without<br>
+the need for a "slingshot" effect to produce the northwest X-ray interloper, as<br>
+previously proposed. The locations of the substructures appear to be offset<br>
+from both the gas ($87^{+34}_{-28}$ arcsec, 90\% CL) and the galaxies<br>
+($72^{+34}_{-53}$ arcsec, 90\% CL) in the case of the northwestern and western<br>
+subhalos. To confirm or refute these findings, high resolution space-based<br>
+observations extending beyond the current FF limited coverage to the west and<br>
+northwestern area are essential.<br>
+<br>
+<br>
+<br>
+[5]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.03994">arXiv:1507.03994</a> [<a href="http://arxiv.org/pdf/arXiv:1507.03994">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1507.03994">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Limits on thermal variations in a dozen quiescent neutron stars over a  decade<br>
+<br>
+<br>
+Authors:<br>
+Arash Bahramian, <br>
+Craig O. Heinke, <br>
+Nathalie Degenaar, <br>
+Laura Chomiuk, <br>
+Rudy Wijnands, <br>
+Jay Strader, <br>
+Wynn C. G. Ho, <br>
+David Pooley<br>
+<br>
+<br>
+Comments: 16 pages, 5 figures, MNRAS, in press<br>
+<br>
+<br>
+Subjects: High Energy Astrophysical Phenomena (astro-ph.HE)<br>
+<br>
+In quiescent low-mass X-ray binaries (qLMXBs) containing neutron stars, the<br>
+origin of the thermal X-ray component may be either release of heat from the<br>
+core of the neutron star, or continuing low-level accretion. In general, heat<br>
+from the core should be stable on timescales $<10^4$ years, while continuing<br>
+accretion may produce variations on a range of timescales. While some quiescent<br>
+neutron stars (e.g. Cen X-4, Aql X-1) have shown variations in their thermal<br>
+components on a range of timescales, several others, particularly those in<br>
+globular clusters with no detectable nonthermal hard X-rays (fit with a<br>
+powerlaw), have shown no measurable variations. Here, we constrain the spectral<br>
+variations of 12 low mass X-ray binaries in 3 globular clusters over $\sim10$<br>
+years. We find no evidence of variations in 10 cases, with limits on<br>
+temperature variations below 11% for the 7 qLMXBs without powerlaw components,<br>
+and limits on variations below 20% for 3 other qLMXBs that do show non-thermal<br>
+emission. However, in 2 qLMXBs showing powerlaw components in their spectra<br>
+(NGC 6440 CX 1 & Terzan 5 CX 12) we find marginal evidence for a 10% decline in<br>
+temperature, suggesting the presence of continuing low-level accretion. This<br>
+work adds to the evidence that the thermal X-ray component in quiescent neutron<br>
+stars without powerlaw components can be explained by heat deposited in the<br>
+core during outbursts. Finally, we also investigate the correlation between<br>
+hydrogen column density (N$_H$) and optical extinction (A$_V$) using our sample<br>
+and current models of interstellar X-ray absorption, finding $N_H ({\rm<br>
+cm}^{-2}) = (2.81\pm0.13)\times10^{21} A_V$.<br>
+<br>
+<br>
+<br>
+[6]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.03996">arXiv:1507.03996</a> [<a href="http://arxiv.org/pdf/arXiv:1507.03996">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1507.03996">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Accretion disk dynamo as the trigger for X-ray binary state transitions<br>
+<br>
+<br>
+Authors:<br>
+Mitchell C. Begelman, <br>
+Philip J. Armitage, <br>
+Christopher S. Reynolds<br>
+<br>
+<br>
+Comments: ApJ, in press<br>
+<br>
+<br>
+Subjects: High Energy Astrophysical Phenomena (astro-ph.HE)<br>
+<br>
+Magnetohydrodynamic accretion disk simulations suggest that much of the<br>
+energy liberated by the magnetorotational instability (MRI) can be channeled<br>
+into large-scale toroidal magnetic fields through dynamo action. Under certain<br>
+conditions, this field can dominate over gas and radiation pressure in<br>
+providing vertical support against gravity, even close to the midplane. Using a<br>
+simple model for the creation of this field, its buoyant rise, and its coupling<br>
+to the gas, we show how disks could be driven into this magnetically dominated<br>
+state and deduce the resulting vertical pressure and density profiles. Applying<br>
+an established criterion for MRI to operate in the presence of a toroidal<br>
+field, we show that magnetically supported disks can have two distinct<br>
+MRI-active regions, separated by a "dead zone" where local MRI is suppressed,<br>
+but where magnetic energy continues to flow upward from the dynamo region<br>
+below. We suggest that the relative strengths of the MRI zones, and the local<br>
+poloidal flux, determine the spectral states of X-ray binaries. Specifically,<br>
+"intermediate" and "hard" accretion states occur when MRI is triggered in the<br>
+hot, upper zone of the corona, while disks in "soft" states do not develop the<br>
+upper MRI zone. We discuss the conditions under which various transitions<br>
+should take place and speculate on the relationship of dynamo activity to the<br>
+various types of quasi-periodic oscillations that sometimes appear in the hard<br>
+spectral components. The model also explains why luminous accretion disks in<br>
+the "soft" state show no signs of the thermal/viscous instability predicted by<br>
+standard alpha models.<br>
+<br>
+<br>
+<br>
+[8]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.04021">arXiv:1507.04021</a> [<a href="http://arxiv.org/pdf/arXiv:1507.04021">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1507.04021">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: A systematic synchro-curvature modelling of pulsar $$-ray spectra  unveils hidden trends<br>
+<br>
+<br>
+Authors:<br>
+Daniele Vigan, <br>
+Diego F. Torres, <br>
+Jonatan Martn<br>
+<br>
+<br>
+Comments: Accepted for publication in MNRAS main journal. 25 pages, 4 tables, 16 figures<br>
+<br>
+<br>
+Subjects: High Energy Astrophysical Phenomena (astro-ph.HE)<br>
+<br>
+$\gamma$-ray radiation from pulsars is usually thought to be mostly produced<br>
+by the synchro-curvature losses of accelerated particles. Here we present a<br>
+systematic study of all currently reported, good-quality Fermi-LAT pulsar<br>
+spectral data. We do so by applying a model which follows the particle dynamics<br>
+and consistently computes the emission of synchro-curvature radiation. By<br>
+fitting observational data on a case by case basis, we are able to obtain<br>
+constraints about the parallel electric field, the typical lengthscale over<br>
+which particles emit the bulk of the detected radiation, and the number of<br>
+involved particles. The model copes well with data of several dozens of<br>
+millisecond and young pulsars. By correlating the inferred model parameters<br>
+with the observed timing properties, some trends are discovered. First, a<br>
+non-negligible part of the radiation comes from the loss of perpendicular<br>
+momentum soon after pair creation. Second, the electric field strongly<br>
+correlates with both the inverse of the emission lengthscale and the magnetic<br>
+field at light cylinder, thus ruling out models with high-energy photon<br>
+production close to the surface. These correlations unify young and millisecond<br>
+pulsars under the same physical scenario, and predict that magnetars are<br>
+intrinsically $\gamma$-ray quiet via syncrhro-curvature processes, since<br>
+magnetospheric particles are not accelerated enough to emit a detectable<br>
+$\gamma$-ray flux.<br>
+<br>
+<br>
+<br>
+[15]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.04049">arXiv:1507.04049</a> [<a href="http://arxiv.org/pdf/arXiv:1507.04049">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1507.04049">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Characterizing X-ray and Radio emission in the Black Hole X-Ray Binary  V404 Cygni during Quiescence<br>
+<br>
+<br>
+Authors:<br>
+Vikram Rana, <br>
+Alan Loh, <br>
+Stephane Corbel, <br>
+John A. Tomsick, <br>
+Deepto Chakrabarty, <br>
+Dominic J. Walton, <br>
+Didier Barret, <br>
+Steven E. Boggs, <br>
+Finn E. Christensen, <br>
+William Craig, <br>
+Felix Fuerst, <br>
+Poshak Gandhi, <br>
+Brian W. Grefenstette, <br>
+Charles Hailey, <br>
+Fiona A. Harrison, <br>
+Kristin K. Madsen, <br>
+Farid Rahoui, <br>
+Daniel Stern, <br>
+Shriharsh Tendulkar, <br>
+William W. Zhang<br>
+<br>
+<br>
+Comments: 14 pages including 9 figures and 3 tables, Submitted to ApJ<br>
+<br>
+<br>
+Subjects: High Energy Astrophysical Phenomena (astro-ph.HE)<br>
+<br>
+We present results from multi-wavelength simultaneous X-ray and radio<br>
+observations of the black hole X-ray binary V404 Cyg in quiescence. Our<br>
+coverage with NuSTAR provides the very first opportunity to study the X-ray<br>
+spectrum of V404 Cyg at energies above 10 keV. The unabsorbed broad-band<br>
+(0.3-30 keV) quiescent luminosity of the source is 8.9$\times$10$^{32}$ erg<br>
+s$^{-1}$ for a distance of 2.4 kpc. The source shows clear variability on short<br>
+time scales in radio, soft X-ray and hard X-ray bands in the form of multiple<br>
+flares. The broad-band X-ray spectra obtained from XMM-Newton and NuSTAR can be<br>
+characterized with a power-law model having photon index {\Gamma}=2.13$\pm$0.07<br>
+(90% confidence errors); however, residuals at high energies indicate spectral<br>
+curvature significant at a 3{\sigma} confidence level with e-folding energy of<br>
+the cutoff to be 19$^{+19}_{-7}$ keV. Such curvature can be explained using<br>
+synchrotron emission from the base of a jet outflow. Radio observations using<br>
+the JVLA reveal that the spectral index evolves on very fast time-scales,<br>
+switching between optically thick and thin synchrotron emission, possibly due<br>
+to instabilities in the compact jet or stochastic instabilities in accretion<br>
+rate. We explore different scenarios to explain this fast variability.<br>
+<br>
+<br>
+<br>
+[17]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.04075">arXiv:1507.04075</a> [<a href="http://arxiv.org/pdf/arXiv:1507.04075">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1507.04075">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Photospheric Abundances of Polar Jets on the Sun Observed by Hinode<br>
+<br>
+<br>
+Authors:<br>
+Kyoung-Sun Lee, <br>
+David H. Brooks, <br>
+Shinsuke Imada<br>
+<br>
+<br>
+Comments: 16 pages, 6 figures, 2 tables, accepted for publication in ApJ<br>
+<br>
+<br>
+Subjects: Solar and Stellar Astrophysics (astro-ph.SR)<br>
+<br>
+Many jets are detected at X-ray wavelengths in the Sun's polar regions, and<br>
+the ejected plasma along the jets has been suggested to contribute mass to the<br>
+fast solar wind. From in-situ measurements in the magnetosphere, it has been<br>
+found that the fast solar wind has photospheric abundances while the slow solar<br>
+wind has coronal abundances. Therefore, we investigated the abundances of polar<br>
+jets to determine whether they are the same as that of the fast solar wind. For<br>
+this study, we selected 22 jets in the polar region observed by Hinode/EIS (EUV<br>
+Imaging Spectrometer) and XRT (X-Ray Telescope) simultaneously on 2007 November<br>
+1-3. We calculated the First Ionization Potential (FIP) bias factor from the<br>
+ratio of the intensity between high (S) and low (Si, Fe) FIP elements using the<br>
+EIS spectra. The values of the FIP bias factors for the polar jets are around<br>
+0.7-1.9, and 75$\%$ of the values are in the range of 0.7-1.5, which indicates<br>
+that they have photospheric abundances similar to the fast solar wind. The<br>
+results are consistent with the reconnection jet model where photospheric<br>
+plasma emerges and is rapidly ejected into the fast wind.<br>
+<br>
+<br>
+<br>
+[20]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.04097">arXiv:1507.04097</a> [<a href="http://arxiv.org/pdf/arXiv:1507.04097">pdf</a>]<br>
+<br>
+<br>
+<br>
+Title: A new and improved ephemeris for the hot subdwarf eclipsing binary SDSS  J082053.53+000843.4<br>
+<br>
+<br>
+Authors:<br>
+David Pulley, <br>
+Derek Smith, <br>
+George Faillace, <br>
+Americo Watkins<br>
+<br>
+<br>
+Comments: 7 pages, 2 figures and 1 table<br>
+<br>
+<br>
+Subjects: Solar and Stellar Astrophysics (astro-ph.SR)<br>
+<br>
+SDSS J082053.53+000843.4 belongs to the HW Vir family of short period binary<br>
+systems and was first identified by Geier in 2011. Whilst three subsequent<br>
+papers have focused on the morphology of this system, little has been published<br>
+on the system period and its constancy. Here we provide the first published<br>
+times of minima together with a revised ephemeris and a binary period,<br>
+0.0962404(1)d, that is four orders of magnitude more precise than previous<br>
+declared values.<br>
+<br>
+<br>
+<br>
+[26]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.04206">arXiv:1507.04206</a> [<a href="http://arxiv.org/pdf/arXiv:1507.04206">pdf</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Statistical theory of thermal evolution of neutron stars - II.  Limitations on direct Urca threshold<br>
+<br>
+<br>
+Authors:<br>
+M. V. Beznogov, <br>
+D. G. Yakovlev<br>
+<br>
+<br>
+Comments: 10 pages, 10 figures<br>
+<br>
+<br>
+Journal-ref: MNRAS, 452, 540, 2015<br>
+<br>
+<br>
+Subjects: Solar and Stellar Astrophysics (astro-ph.SR)<br>
+<br>
+We apply our recently suggested statistical approach to thermal evolution of<br>
+isolated neutron stars and accreting quasistationary neutron stars in X-ray<br>
+transients for constraining the position and relative broadening alpha of the<br>
+direct Urca threshold of powerful neutrino emission in neutron star cores. We<br>
+show that most likely explanation of observations corresponds to alpha = 0.08 -<br>
+0.10 and to the neutron star mass, at which the direct Urca process is open,<br>
+M_D = (1.6 - 1.8) M_sun.<br>
+<br>
+<br>
+<br>
+[37]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.04274">arXiv:1507.04274</a> [<a href="http://arxiv.org/pdf/arXiv:1507.04274">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1507.04274">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Orbital phase resolved spectroscopy of 4U1538-52 with MAXI<br>
+<br>
+<br>
+Authors:<br>
+J. J. Rodes-Roca (1, 2 and 3), <br>
+T. Mihara (3), <br>
+S. Nakahira (4), <br>
+J. M. Torrejn (1 and 2), <br>
+. Gimnez-Garca (1, 2 and 5), <br>
+G. Bernabu (1 and 2) ((1) University of Alicante (Spain), (2) IUFACyT (Spain), (3) RIKEN (Japan), (4) JAXA (Japan), (5) Monash University (Australia))<br>
+<br>
+<br>
+Comments: 12 pages, 5 figures, accepted to be published by A&A<br>
+<br>
+<br>
+Subjects: High Energy Astrophysical Phenomena (astro-ph.HE)<br>
+<br>
+4U 1538-52, an absorbed high mass X-ray binary with an orbital period of 3.73<br>
+days, shows moderate orbital intensity modulations with a low level of counts<br>
+during the eclipse. Several models have been proposed to explain the accretion<br>
+at different orbital phases by a spherically symmetric stellar wind from the<br>
+companion. The aim of this work is to study both the light curve and orbital<br>
+phase spectroscopy of this source in the long term. Particularly, the folded<br>
+light curve and the changes of the spectral parameters with orbital phase to<br>
+analyse the stellar wind of QV Nor, the mass donor of this binary system. We<br>
+used all the observations made from the Gas Slit Camera on board MAXI of 4U<br>
+1538-52 covering many orbits continuously. We obtained the good interval times<br>
+for every orbital phase range which were the input to extract our data. We<br>
+estimated the orbital period of the system and then folded the light curves and<br>
+we fitted the X-ray spectra with the same model for every orbital phase<br>
+spectrum. We also extracted the averaged spectrum of all the MAXI data<br>
+available. The MAXI spectra in the 2-20 keV energy range were fitted with an<br>
+absorbed Comptonization of cool photons on hot electrons. We found a strong<br>
+orbital dependence of the absorption column density but neither the<br>
+fluorescence iron emission line nor low energy excess were needed to fit the<br>
+MAXI spectra. The variation of the spectral parameters over the binary orbit<br>
+were used to examine the mode of accretion onto the neutron star in 4U 1538-52.<br>
+We deduce a best value of $\dot{M}/v_\infty=0.65\times 10^{-9}$ $M_{\odot} \,<br>
+yr^{-1}/(km \, s^{-1})$ for QV Nor.<br>
+<br>
+<br>
+<br>
+[42]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.04217">arXiv:1507.04217</a> (cross-list from gr-qc)  [<a href="http://arxiv.org/pdf/arXiv:1507.04217">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1507.04217">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Influence of a plasma on the shadow of a spherically symmetric black  hole<br>
+<br>
+<br>
+Authors:<br>
+Volker Perlick, <br>
+Oleg Yu. Tsupko, <br>
+Gennady S. Bisnovatyi-Kogan<br>
+<br>
+<br>
+Comments: 18 pages, figures<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE)<br>
+<br>
+<br>
+We analytically calculate the influence of a plasma on the shadow of a black<br>
+hole (or of another compact object). We restrict to spherically symmetric and<br>
+static situations, where the shadow is circular. The plasma is assumed to be<br>
+non-magnetized and pressure-less. We derive the general formulas for a<br>
+spherically symmetric plasma density on an unspecified spherically symmetric<br>
+and static spacetime. The formalism applies not only to black holes but also,<br>
+e.g., to wormholes. As examples for the underlying spacetime model, we consider<br>
+the Schwarzschild spacetime and the Ellis wormhole. In particular, we treat the<br>
+case that the plasma is in radial free fall from infinity onto a Schwarzschild<br>
+black hole. The perspectives of actually observing the influence of a plasma on<br>
+the shadows of supermassive black holes are discussed.<br>
+<br>
+<br>
+<br>
+[60]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.04306">arXiv:1507.04306</a> (cross-list from gr-qc)  [<a href="http://arxiv.org/pdf/arXiv:1507.04306">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1507.04306">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: A dynamical system analysis of hybrid metric-Palatini cosmologies<br>
+<br>
+<br>
+Authors:<br>
+Sante Carloni, <br>
+Tomi Koivisto, <br>
+Francisco S. N. Lobo<br>
+<br>
+<br>
+Comments: 13 pages<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th)<br>
+<br>
+<br>
+The so called $f(X)$ hybrid metric-Palatini gravity presents a unique viable<br>
+generalisation of the $f(R)$ theories within the metric-affine formalism. Here<br>
+the cosmology of the $f(X)$ theories is studied using the dynamical system<br>
+approach. The method consists of formulating the propagation equation in terms<br>
+of suitable (expansion-normalised) variables as an autonomous system. The fixed<br>
+points of the system then represent exact cosmological solutions described by<br>
+power-law or de Sitter expansion. The formalism is applied to two classes of<br>
+$f(X)$ models, revealing both standard cosmological fixed points and new<br>
+accelerating solutions that can be attractors in the phase space. In addition,<br>
+the fixed point with vanishing expansion rate are considered with special care<br>
+in order to characterise the stability of Einstein static spaces and bouncing<br>
+solutions.<br>
+<br>
+<br>
+<br>
+[61]  <br>
+Replacements for Thu, 16 Jul 15<br>
+<br>
+[62]  <br>
+<a href="http://arxiv.org/abs/arXiv:1411.6803">arXiv:1411.6803</a> (replaced)  [<a href="http://arxiv.org/pdf/arXiv:1411.6803">pdf</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Statistical theory of thermal evolution of neutron stars<br>
+<br>
+<br>
+Authors:<br>
+M. V. Beznogov, <br>
+D. G. Yakovlev<br>
+<br>
+<br>
+Comments: 13 pages, 20 figures<br>
+<br>
+<br>
+Journal-ref: MNRAS 447, 1598 (2015)<br>
+<br>
+<br>
+Subjects: Solar and Stellar Astrophysics (astro-ph.SR); High Energy Astrophysical Phenomena (astro-ph.HE)<br>
+<br>
+<br>
+<br>
+<br>
+[67]  <br>
+<a href="http://arxiv.org/abs/arXiv:1505.00794">arXiv:1505.00794</a> (replaced)  [<a href="http://arxiv.org/pdf/arXiv:1505.00794">pdf</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Cosmological Signatures of Anisotropic Spatial Curvature<br>
+<br>
+<br>
+Authors:<br>
+Thiago S. Pereira, <br>
+Guillermo A. Mena Marugn, <br>
+Saulo Carneiro<br>
+<br>
+<br>
+Comments: 21 pages, 1 figure. To appear in JCAP<br>
+<br>
+<br>
+Subjects: Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc)<br>
+<br>
+<br>
+<br>
+<br>
+[79]  <br>
+arXiv, <br>
+form interface,<br>
+find,<br>
+astro-ph, recent, 1507,<br>
+contact,<br>
+help<br>
+(Access key information)<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+General Relativity and Quantum Cosmology  authors/titles "new"<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Cornell University<br>
+Library<br>
+<br>
+<br>
+<br>
+We gratefully acknowledge support fromthe Simons Foundation and Max Planck Digital Library<br>
+<br>
+<br>
+<br>
+<br>
+arXiv.org > gr-qc<br>
+<br>
+Search or Article-id<br>
+(Help | Advanced search)<br>
+<br>
+<br>
+<br>
+All papers<br>
+Titles<br>
+Authors<br>
+Abstracts<br>
+Full text<br>
+Help pages<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+General Relativity and Quantum Cosmology <br>
+New submissions<br>
+Submissions received from  Tue 14 Jul 15  to  Wed 15 Jul 15, announced Thu, 16 Jul 15<br>
+<br>
+New submissions<br>
+Replacements<br>
+<br>
+[ total of 24 entries:  1-24  ]<br>
+[ showing up to 2000 entries per page:  fewer |  more ]<br>
+<br>
+New submissions for Thu, 16 Jul 15<br>
+<br>
+[1]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.03993">arXiv:1507.03993</a> [<a href="http://arxiv.org/pdf/arXiv:1507.03993">pdf</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Scattering from charged black holes and supergravity<br>
+<br>
+<br>
+Authors:<br>
+Lus C. B. Crispino, <br>
+Sam R. Dolan, <br>
+Atsushi Higuchi, <br>
+Ednilton S. de Oliveira<br>
+<br>
+<br>
+Comments: 5 pages, 1 figure<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)<br>
+<br>
+<br>
+The scattering cross sections of the unpolarized electromagnetic and<br>
+gravitational waves are shown to be equal for the extreme Reissner-Nordstr\"om<br>
+black hole using $N=2$ supergravity. The conversion cross sections between the<br>
+unpolarized electromagnetic and gravitational waves are also shown to coincide.<br>
+The gravitational and electromagnetic scattering cross sections are computed<br>
+numerically for Reissner-Nordstr\"om black holes for several charge-to-mass<br>
+ratios and the coincidence between the two scattering cross sections for the<br>
+extremal case is confirmed.<br>
+<br>
+<br>
+<br>
+[2]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.04076">arXiv:1507.04076</a> [<a href="http://arxiv.org/pdf/arXiv:1507.04076">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1507.04076">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Gravitational self-force in scalar-tensor gravity<br>
+<br>
+<br>
+Authors:<br>
+Peter Zimmerman<br>
+<br>
+<br>
+Comments: 26 pages<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc)<br>
+<br>
+Motivated by the discovery of floating orbits and the potential to provide<br>
+extra constraints on alternative theories, in this paper we derive the<br>
+self-force equation for a small compact object moving on an accelerated world<br>
+line in a background spacetime which is a solution of the coupled gravitational<br>
+and scalar field equations of scalar-tensor theory. In the Einstein frame, the<br>
+coupled field equations governing the perturbations sourced by the particle<br>
+share the same form as the field equations for perturbations of a scalarvac<br>
+spacetime, with both falling under the general class of hyperbolic field<br>
+equations studied by Zimmerman and Poisson. Here, we solve the field equations<br>
+formally in terms of retarded Green functions, which have explicit<br>
+representations as Hadamard forms in the neighbourhood of the world line. Using<br>
+a quasi-local expansion of the Hadamard form, we derive the regular solutions<br>
+in Fermi normal coordinates according to the Detweiler-Whiting prescription. To<br>
+compute the equation of motion, we parameterize the world line in terms of a<br>
+mass and "charge", which we define in terms of the original Jordan frame mass,<br>
+its derivative, and the parameter which translates the proper time in the<br>
+Jordan frame to the Einstein frame. These parameters depend on the value of the<br>
+background scalar field and its self-field corrections. The equation of motion<br>
+which follows from the regular fields strongly resembles the equation for the<br>
+self-force acting on a charged, massive particle in a scalarvac geometry of<br>
+general relativity. Unlike the scalar vacuum scenario, the "charge" parameter<br>
+in the scalar-tensor self-force equation is time variable and leading to<br>
+additional local and tail terms. We also provide evolution equations for the<br>
+world line parameters under the influence of the self-fields.<br>
+<br>
+<br>
+<br>
+[3]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.04161">arXiv:1507.04161</a> [<a href="http://arxiv.org/pdf/arXiv:1507.04161">pdf</a>, other]<br>
+<br>
+<br>
+<br>
+Title: A New Class of Asymptotically Non-Chaotic Vacuum Singularities<br>
+<br>
+<br>
+Authors:<br>
+Paul Klinger<br>
+<br>
+<br>
+Comments: MSc Thesis, 41 pages<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc)<br>
+<br>
+The BKL conjecture, stated in the 60s and early 70s by Belinski, Khalatnikov<br>
+and Lifshitz, proposes a detailed description of the generic asymptotic<br>
+dynamics of spacetimes as they approach a spacelike singularity. It predicts<br>
+complicated chaotic behaviour in the generic case, but simpler non-chaotic one<br>
+in cases with symmetry assumptions or certain kinds of matter fields.<br>
+Here we construct a new class of four-dimensional vacuum spacetimes<br>
+containing spacelike singularities which show non-chaotic behaviour. In<br>
+contrast with previous constructions, no symmetry assumptions are made. Rather,<br>
+the metric is decomposed in Iwasawa variables and conditions on the asymptotic<br>
+evolution of some of them are imposed. The constructed solutions contain five<br>
+free functions of all space coordinates, two of which are constrained by<br>
+inequalities. We investigate continuous and discrete isometries and compare the<br>
+solutions to previous constructions. Finally, we give the asymptotic behaviour<br>
+of the metric components and curvature.<br>
+<br>
+<br>
+<br>
+[4]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.04172">arXiv:1507.04172</a> [<a href="http://arxiv.org/pdf/arXiv:1507.04172">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1507.04172">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Gravitational anomalies and one dimensional behaviour of black holes<br>
+<br>
+<br>
+Authors:<br>
+Bibhas Ranjan Majhi<br>
+<br>
+<br>
+Comments: Latex, no figures, 6 pages<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)<br>
+<br>
+<br>
+It has been pointed out by Bekenstein and Mayo that the behavior of the Black<br>
+hole's entropy or information flow is similar to that through one-dimensional<br>
+channel. Here I analyse the same issue with the use of gravitational anomalies.<br>
+The rate of the entropy change ($\dot{S}$) and the power ($P$) of the Hawking<br>
+emission are calculated from the relevant components of the anomalous<br>
+stress-tensor under the Unruh vacuum condition. I show that the dependence of<br>
+$\dot{S}$ on power is $\dot{S}\propto P^{1/2}$ which is identical to that for<br>
+the information flow in one dimensional system. This is established by using<br>
+the ($1+1$) dimensional gravitational anomalies first. Then the fact is further<br>
+bolstered by considering the ($1+3$) dimensional gravitational anomalies. It is<br>
+found that in the former case, the proportionality constant is exactly<br>
+identical to one dimensional situation, known as Pendry's formula, while in<br>
+later situation its value decreases.<br>
+<br>
+<br>
+<br>
+[5]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.04212">arXiv:1507.04212</a> [<a href="http://arxiv.org/pdf/arXiv:1507.04212">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1507.04212">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Quantum cosmological intertwining: Factor ordering and boundary  conditions from hidden symmetries<br>
+<br>
+<br>
+Authors:<br>
+T. Rostami, <br>
+S. Jalalzadeh, <br>
+P.V. Moniz<br>
+<br>
+<br>
+Comments: 13 pages, no figure, to appear in Phys. Rev. D<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc); Mathematical Physics (math-ph)<br>
+<br>
+<br>
+We explore the implications of hidden symmetries present in a particular<br>
+quantum cosmological setting, extending the results reported in \cite{10,11}.<br>
+In more detail, our case study is constituted by a spatially closed<br>
+Friedmann-Lema\^{\i}tre-Robertson-Walker universe, in the presence of a<br>
+conformally coupled scalar field. The $su(1,1)$ hidden symmetries of this<br>
+model, together with the Hamiltonian constraint, lead to the gauge invariance<br>
+of its corresponding Bargmann indices. We subsequently show that some<br>
+factor-ordering choices can be related to the allowed spectrum of Bargmann<br>
+indices and hence, to the hidden symmetries. Moreover, the presence of those<br>
+hidden symmetries also implies a set of appropriate boundary conditions to<br>
+choose from. In summary, our results suggest that factor ordering and boundary<br>
+conditions can be intertwined when a quantum cosmological model has hidden<br>
+symmetries.<br>
+<br>
+<br>
+<br>
+[6]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.04217">arXiv:1507.04217</a> [<a href="http://arxiv.org/pdf/arXiv:1507.04217">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1507.04217">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Influence of a plasma on the shadow of a spherically symmetric black  hole<br>
+<br>
+<br>
+Authors:<br>
+Volker Perlick, <br>
+Oleg Yu. Tsupko, <br>
+Gennady S. Bisnovatyi-Kogan<br>
+<br>
+<br>
+Comments: 18 pages, figures<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE)<br>
+<br>
+<br>
+We analytically calculate the influence of a plasma on the shadow of a black<br>
+hole (or of another compact object). We restrict to spherically symmetric and<br>
+static situations, where the shadow is circular. The plasma is assumed to be<br>
+non-magnetized and pressure-less. We derive the general formulas for a<br>
+spherically symmetric plasma density on an unspecified spherically symmetric<br>
+and static spacetime. The formalism applies not only to black holes but also,<br>
+e.g., to wormholes. As examples for the underlying spacetime model, we consider<br>
+the Schwarzschild spacetime and the Ellis wormhole. In particular, we treat the<br>
+case that the plasma is in radial free fall from infinity onto a Schwarzschild<br>
+black hole. The perspectives of actually observing the influence of a plasma on<br>
+the shadows of supermassive black holes are discussed.<br>
+<br>
+<br>
+<br>
+[7]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.04264">arXiv:1507.04264</a> [<a href="http://arxiv.org/pdf/arXiv:1507.04264">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1507.04264">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: On the Post-linear Quadrupole-Quadrupole Metric<br>
+<br>
+<br>
+Authors:<br>
+Francisco Frutos-Alfaro, <br>
+Michael Soffel<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc)<br>
+<br>
+The Hartle-Thorne metric defines a reliable spacetime for most astrophysical<br>
+purposes, for instance for the simulation of slowly rotating stars. Solving the<br>
+Einstein field equations, we added terms of second order in the quadrupole<br>
+moment to its post-linear version without rotation in order to compare it with<br>
+solutions found by Blanchet in the frame of the multi-polar post-Minkowskian<br>
+framework. We first derived the extended Hartle-Thorne metric in harmonic<br>
+coordinates and then showed agreement with the corresponding post-linear metric<br>
+from Blanchet.<br>
+We also found a coordinate transformation from the post-linear Erez-Rosen<br>
+metric to our extended Hartle-Thorne spacetime. It is well known that the<br>
+Hartle-Thorne solution can be smoothly matched with an interior perfect fluid<br>
+solution with physically appropriate properties. A comparison among these<br>
+solutions provides a validation of them. It is clear that in order to represent<br>
+realistic solutions of self-gravitating (axially symmetric) matter<br>
+distributions of perfect fluid, the quadrupole moment has to be included as a<br>
+physical parameter.<br>
+<br>
+<br>
+<br>
+[8]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.04266">arXiv:1507.04266</a> [<a href="http://arxiv.org/pdf/arXiv:1507.04266">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1507.04266">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: The deceleration parameter in `tilted' Friedmann universes<br>
+<br>
+<br>
+Authors:<br>
+Christos G. Tsagas, <br>
+Miltiadis I. Kadiltzoglou<br>
+<br>
+<br>
+Comments: 16 pages, 1 figure<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc)<br>
+<br>
+Large-scale peculiar motions are believed to reflect the local inhomogeneity<br>
+and anisotropy of the universe, triggered by the ongoing process of structure<br>
+formation. As a result, realistic observers do not follow the smooth Hubble<br>
+flow, but have a peculiar, `tilt', velocity relative to it. Our Local Group of<br>
+galaxies, in particular, moves with respect to the universal expansion at a<br>
+speed of roughly 600~km/sec. Relative motion effects are known to interfere<br>
+with the observations and their interpretation. The strong dipolar anisotropy<br>
+seen in the the Cosmic Microwave Background, for example, is not a sign of real<br>
+universal anisotropy, but a mere artifact of our peculiar motion relative to<br>
+the Hubble flow. With these in mind, we look into the implications of<br>
+large-scale bulk motions for the kinematics of their associated observers, by<br>
+adopting a `tilted' Friedmann model. Our aim is to examine whether the<br>
+deceleration parameter measured in the rest-frame of the bulk flow can differ<br>
+from that of the actual universe due to relative-motion effects alone. We find<br>
+that there is a difference, which depends on the speed as well as the scale of<br>
+the bulk motion. The faster and the smaller the drifting domain, the larger the<br>
+difference. In principle, this allows relatively slow peculiar velocities to<br>
+have a disproportionately strong effect on the value of the deceleration<br>
+parameter measured by observers within bulk flows of, say, few hundred<br>
+megaparsecs. In fact, under certain circumstances, it is even possible to<br>
+change the sign of the deceleration parameter. It goes without saying that all<br>
+these effects vanish identically in the Hubble frame, which makes then an<br>
+illusion and mere artifact of the observers' relative motion.<br>
+<br>
+<br>
+<br>
+[9]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.04306">arXiv:1507.04306</a> [<a href="http://arxiv.org/pdf/arXiv:1507.04306">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1507.04306">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: A dynamical system analysis of hybrid metric-Palatini cosmologies<br>
+<br>
+<br>
+Authors:<br>
+Sante Carloni, <br>
+Tomi Koivisto, <br>
+Francisco S. N. Lobo<br>
+<br>
+<br>
+Comments: 13 pages<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th)<br>
+<br>
+<br>
+The so called $f(X)$ hybrid metric-Palatini gravity presents a unique viable<br>
+generalisation of the $f(R)$ theories within the metric-affine formalism. Here<br>
+the cosmology of the $f(X)$ theories is studied using the dynamical system<br>
+approach. The method consists of formulating the propagation equation in terms<br>
+of suitable (expansion-normalised) variables as an autonomous system. The fixed<br>
+points of the system then represent exact cosmological solutions described by<br>
+power-law or de Sitter expansion. The formalism is applied to two classes of<br>
+$f(X)$ models, revealing both standard cosmological fixed points and new<br>
+accelerating solutions that can be attractors in the phase space. In addition,<br>
+the fixed point with vanishing expansion rate are considered with special care<br>
+in order to characterise the stability of Einstein static spaces and bouncing<br>
+solutions.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Replacements for Thu, 16 Jul 15<br>
+<br>
+[10]  <br>
+<a href="http://arxiv.org/abs/arXiv:1406.1588">arXiv:1406.1588</a> (replaced)  [<a href="http://arxiv.org/pdf/arXiv:1406.1588">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1406.1588">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Towards the uniqueness of Lifshitz black holes and solitons in New  Massive Gravity<br>
+<br>
+<br>
+Authors:<br>
+Eloy Ayn-Beato, <br>
+Mokhtar Hassane, <br>
+Mara Montserrat Jurez-Aubry<br>
+<br>
+<br>
+Comments: 10 pages, 5 figures<br>
+<br>
+<br>
+Journal-ref: Phys. Rev. D 90, 044026 (2014)<br>
+<br>
+<br>
+Subjects: High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)<br>
+<br>
+<br>
+<br>
+<br>
+[11]  <br>
+<a href="http://arxiv.org/abs/arXiv:1412.8282">arXiv:1412.8282</a> (replaced)  [<a href="http://arxiv.org/pdf/arXiv:1412.8282">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1412.8282">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Confined-exotic-matter wormholes with no gluing effects -- Imaging  supermassive wormholes and black holes<br>
+<br>
+<br>
+Authors:<br>
+Mustapha Azreg-Anou<br>
+<br>
+<br>
+Comments: 14 pages, 7 figures. Extended version. To appear in JCAP<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc)<br>
+<br>
+<br>
+<br>
+[12]  <br>
+<a href="http://arxiv.org/abs/arXiv:1501.05331">arXiv:1501.05331</a> (replaced)  [<a href="http://arxiv.org/pdf/arXiv:1501.05331">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1501.05331">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: On the renormalisation of Newton's constant<br>
+<br>
+<br>
+Authors:<br>
+Kevin Falls<br>
+<br>
+<br>
+Comments: v2: Effective action expressed in terms of unconstrained fields and other minor changes<br>
+<br>
+<br>
+Subjects: High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)<br>
+<br>
+<br>
+<br>
+<br>
+[13]  <br>
+<a href="http://arxiv.org/abs/arXiv:1501.05832">arXiv:1501.05832</a> (replaced)  [<a href="http://arxiv.org/pdf/arXiv:1501.05832">pdf</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Parameter choices and ranges for continuous gravitational wave searches  for steadily spinning neutron stars<br>
+<br>
+<br>
+Authors:<br>
+D. I. Jones<br>
+<br>
+<br>
+Comments: Updated to match version accepted by MNRAS: One new equation (equation 82)); typo (sign-error) corrected in equation (88); one more paragraph inserted into Summary and Discussion section<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc)<br>
+<br>
+<br>
+<br>
+[14]  <br>
+<a href="http://arxiv.org/abs/arXiv:1502.04106">arXiv:1502.04106</a> (replaced)  [<a href="http://arxiv.org/pdf/arXiv:1502.04106">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1502.04106">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Quantum fields and entanglement on a curved lightfront<br>
+<br>
+<br>
+Authors:<br>
+Illan Halpern, <br>
+Yasha Neiman<br>
+<br>
+<br>
+Comments: 6 pages; v2: expanded discussion, added references<br>
+<br>
+<br>
+Subjects: High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)<br>
+<br>
+<br>
+<br>
+<br>
+[15]  <br>
+<a href="http://arxiv.org/abs/arXiv:1503.07529">arXiv:1503.07529</a> (replaced)  [<a href="http://arxiv.org/pdf/arXiv:1503.07529">pdf</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Black holes in massive gravity<br>
+<br>
+<br>
+Authors:<br>
+Eugeny Babichev, <br>
+Richard Brito<br>
+<br>
+<br>
+Comments: 36 pages, 7 figures. Invited contribution to the Focus Issue on "Black holes and fundamental fields" to appear in Classical and Quantum Gravity; v2: typos corrected, minor revision, added references, matches published version in CQG<br>
+<br>
+<br>
+Journal-ref: Class. Quantum Grav. 32 (2015) 154001<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)<br>
+<br>
+<br>
+<br>
+<br>
+[16]  <br>
+<a href="http://arxiv.org/abs/arXiv:1503.08891">arXiv:1503.08891</a> (replaced)  [<a href="http://arxiv.org/pdf/arXiv:1503.08891">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1503.08891">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Accelerated Quantum Dynamics<br>
+<br>
+<br>
+Authors:<br>
+Morgan H. Lynch<br>
+<br>
+<br>
+Comments: 24 pages, 7 figures. Accepted for publication in Phys. Rev. D<br>
+<br>
+<br>
+Journal-ref: Phys. Rev. D 92, 024019 (2015)<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th)<br>
+<br>
+<br>
+<br>
+<br>
+[17]  <br>
+<a href="http://arxiv.org/abs/arXiv:1504.03159">arXiv:1504.03159</a> (replaced)  [<a href="http://arxiv.org/pdf/arXiv:1504.03159">pdf</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Testing non-linear vacuum electrodynamics with Michelson interferometry<br>
+<br>
+<br>
+Authors:<br>
+Gerold O. Schellstede, <br>
+Volker Perlick, <br>
+Claus Lmmerzahl<br>
+<br>
+<br>
+Comments: 15 pages, 1 figure<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc)<br>
+<br>
+<br>
+<br>
+[18]  <br>
+<a href="http://arxiv.org/abs/arXiv:1504.04838">arXiv:1504.04838</a> (replaced)  [<a href="http://arxiv.org/pdf/arXiv:1504.04838">pdf</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Quantum Cosmology via Quantization of Point-Like Lagrangian<br>
+<br>
+<br>
+Authors:<br>
+Hua Chen, <br>
+Wen-Yuan Ai, <br>
+Zi-Liang Wang, <br>
+Jian-Bo Deng<br>
+<br>
+<br>
+Comments: 14 pages, 0 figures<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc)<br>
+<br>
+<br>
+<br>
+[19]  <br>
+<a href="http://arxiv.org/abs/arXiv:1505.00794">arXiv:1505.00794</a> (replaced)  [<a href="http://arxiv.org/pdf/arXiv:1505.00794">pdf</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Cosmological Signatures of Anisotropic Spatial Curvature<br>
+<br>
+<br>
+Authors:<br>
+Thiago S. Pereira, <br>
+Guillermo A. Mena Marugn, <br>
+Saulo Carneiro<br>
+<br>
+<br>
+Comments: 21 pages, 1 figure. To appear in JCAP<br>
+<br>
+<br>
+Subjects: Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc)<br>
+<br>
+<br>
+<br>
+<br>
+[20]  <br>
+<a href="http://arxiv.org/abs/arXiv:1505.03719">arXiv:1505.03719</a> (replaced)  [<a href="http://arxiv.org/pdf/arXiv:1505.03719">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1505.03719">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: A non-dynamical approach for quantum gravity<br>
+<br>
+<br>
+Authors:<br>
+Pierre A. Mandrin<br>
+<br>
+<br>
+Comments: 7 pages, 6 figures. v2: Case of non-orientable boundary space included, slightly better explanation of the construction of the (d+1)-space, typos. v3: More details on the assumptions (abstract, introduction)<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)<br>
+<br>
+<br>
+<br>
+<br>
+[21]  <br>
+<a href="http://arxiv.org/abs/arXiv:1506.03829">arXiv:1506.03829</a> (replaced)  [<a href="http://arxiv.org/pdf/arXiv:1506.03829">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1506.03829">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: A note on cutting spin networks and the area spectrum in loop quantum  gravity<br>
+<br>
+<br>
+Authors:<br>
+Yu Asato<br>
+<br>
+<br>
+Comments: 5 pages with 1 figure; v2: added references<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc)<br>
+<br>
+<br>
+<br>
+[22]  <br>
+<a href="http://arxiv.org/abs/arXiv:1506.08092">arXiv:1506.08092</a> (replaced)  [<a href="http://arxiv.org/pdf/arXiv:1506.08092">pdf</a>, <a href="http://arxiv.org/ps/arXiv:1506.08092">ps</a>, other]<br>
+<br>
+<br>
+<br>
+Title: A new approach toward geometrical concept of black hole thermodynamics<br>
+<br>
+<br>
+Authors:<br>
+S. H. Hendi, <br>
+S. Panahiyan, <br>
+B. Elam Panah, <br>
+M. Momennia<br>
+<br>
+<br>
+Comments: 13 pages with 7 figures, presentation improved, additional section added, typos fixes<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)<br>
+<br>
+<br>
+<br>
+<br>
+[23]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.00234">arXiv:1507.00234</a> (replaced)  [<a href="http://arxiv.org/pdf/arXiv:1507.00234">pdf</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Thermoelectric DC conductivities and Stokes flows on black hole horizons<br>
+<br>
+<br>
+Authors:<br>
+Elliot Banks, <br>
+Aristomenis Donos, <br>
+Jerome P. Gauntlett<br>
+<br>
+<br>
+Comments: 42 pages. Minor changes<br>
+<br>
+<br>
+Subjects: High Energy Physics - Theory (hep-th); Strongly Correlated Electrons (cond-mat.str-el); General Relativity and Quantum Cosmology (gr-qc)<br>
+<br>
+<br>
+<br>
+<br>
+[24]  <br>
+<a href="http://arxiv.org/abs/arXiv:1507.03949">arXiv:1507.03949</a> (replaced)  [<a href="http://arxiv.org/pdf/arXiv:1507.03949">pdf</a>, other]<br>
+<br>
+<br>
+<br>
+Title: Stability of Mazharimousavi-Halilsoy Thin-shell Wormhole in (2+1)  Dimensions<br>
+<br>
+<br>
+Authors:<br>
+A. vgn, <br>
+I. Sakalli<br>
+<br>
+<br>
+Comments: 9 pages<br>
+<br>
+<br>
+Subjects: General Relativity and Quantum Cosmology (gr-qc)<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+New submissions<br>
+Replacements<br>
+<br>
+[ total of 24 entries:  1-24  ]<br>
+[ showing up to 2000 entries per page:  fewer |  more ]<br>
+<br>
+<br>
+<br>
+<br>
+Links to:<br>
+<br>
  
         </body>
 </html>
