@@ -7,10 +7,10 @@ from email.mime.text import MIMEText
 
 import commands
 
-# me == my email address
+# me == sender's email address
 # you == recipient's email address
-me = "zhuww@mpifr-bonn.mpg.de"
-you = "zhuwwpku@gmail.com"
+me = "me@email.com"
+you = "you@email.com"
 
 # Create message container - the correct MIME type is multipart/alternative.
 date = commands.getoutput('date +%D')
@@ -21,6 +21,7 @@ msg['From'] = me
 msg['To'] = you
 
 # Create the body of the message (a plain-text and an HTML version).
+# Change zhuww to your own username 
 text = open('mailbody.zhuww','r').read()
 html = open('mailhtml.zhuww','r').read()
 
